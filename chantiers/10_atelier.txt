@@ -1,8 +1,8 @@
-# Chantier 10 : L'Atelier (Container)
+# Chantier 10 : L'Atelier Commun
 
 ## 1. Description et But
-**Description :** Ce chantier consiste en l'acquisition, le transport et l'aménagement d'un container maritime pour en faire un atelier de construction et de maintenance complet pour le bois, le métal et la mécanique de base.
-**But :** Disposer d'un espace de travail sécurisé, organisé et bien équipé, qui soit le cœur technique du projet et le support de tous les autres chantiers.
+**Description :** Aménagement d'un container maritime de 20 pieds (14m²) en atelier de construction et de réparation partagé.
+**But :** Disposer d'un espace sécurisé, fonctionnel et bien équipé pour tous les travaux manuels (bois, métal, etc.), favorisant l'échange de compétences.
 
 ## 2. Lien Social
 L'atelier est le lieu par excellence de la transmission de savoir-faire techniques. C'est un espace de collaboration, d'entraide pour les réparations et de création collective. Sa bonne organisation est un facteur clé pour la réussite des autres chantiers.
@@ -20,23 +20,32 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 
 | Catégorie          | Description                                  | Coût Estimé |
 | ------------------ | -------------------------------------------- | ----------- |
-| Structure          | Container maritime d'occasion (12m / 40 pieds) | ~4 000 €    |
+| Structure          | Container maritime 20 pieds (occasion)       | ~3 000 €    |
 | Transport/Grutage  | Livraison et mise en place du container      | ~1 500 €    |
-| Aménagement        | Isolation, plancher, électricité, ouvertures | ~3 500 €    |
+| Aménagement        | Électricité, ouvertures                      | ~1 000 €    |
 | Équipement/Mobilier| Établi, rangements, étau...                  | ~1 000 €    |
-| Outillage (spécifique)| Poste à souder, scie à métaux, outillage spécialisé... | ~5 000 €    |
+| Outillage spécifique| Équipements spécialisés (ex: poste à souder) | ~1 000 €    | (Achat groupé, occasion)                                     |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+*Estimations pour les jours de forte utilisation de l'atelier.*
+| Équipement                  | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| --------------------------- | ------------- | -------------- | ---------------------- |
+| Éclairage atelier           | 150           | 4              | 600                    |
+| Outillage lourd (moyenne)   | 1500          | 1              | 1500                   |
+| Outillage portatif (charge) | 200           | 4              | 800                    |
+| **Total estimé**            |               |                | **~2900**              |
+
+## 6. Matériels déjà acquis
 - Outillage à main de base (clés, tournevis, marteaux, scies manuelles...).
 - Perceuse, visseuse, meuleuse...
 
-## 6. Budget Prévisionnel
+## 7. Budget Prévisionnel
 - **Budget Total Maximum (Investissement) :** 15 000 €
-- **Total Estimé à acquérir :** ~15 000 €
-- **Marge / Imprévus :** 0 € (Budget serré)
+- **Total Estimé à acquérir :** ~11 000 €
+- **Marge / Imprévus :** ~4 000 €
 
-## 7. Plan d'Action / Tâches
-- [ ] Rechercher les fournisseurs de containers d'occasion.
+## 8. Plan d'Action / Tâches
+- [ ] Rechercher les fournisseurs de containers d'occasion (20 pieds).
 - [ ] Organiser le transport et le positionnement sur site.
 - [ ] Réaliser les découpes (portes, fenêtres) si nécessaire.
 - [ ] Isoler le container (points critiques).
@@ -44,4 +53,6 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 - [ ] Construire ou installer l'établi et les solutions de rangement.
 - [ ] Acheter l'outillage lourd et électroportatif.
 - [ ] Organiser et ranger l'outillage à main.
-- [ ] Mettre en place l'affichage des règles de sécurité. 
+- [ ] Mettre en place l'affichage des règles de sécurité.
+- [ ] Lister les compétences et les besoins en outillage de chaque résident.
+- [ ] Définir la liste du matériel "mutualisé" à acquérir en priorité. 

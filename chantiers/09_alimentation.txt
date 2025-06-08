@@ -17,28 +17,32 @@ Le jardinage collectif est une activité profondément fédératrice. Elle conne
 
 | Catégorie          | Description                                  | Coût Estimé |
 | ------------------ | -------------------------------------------- | ----------- |
-| Amendements/Sols   | Compost, paillage, fumier...                 | ~500 €      |
+| Compost/Amendements| Achat de compost, BRF, paillage...           | ~500 €      |
 | Semences/Plants    | Achat des premières semences paysannes/bio et plants | ~500 €      |
 | Outillage (partiel)| Grelinette, outils spécifiques...            | ~500 €      |
-| Serre              | Structure et bâche pour une serre de 20-30m² | ~1 500 €    |
+| Serres (x3)        | Matériaux pour 3 serres tunnels              | ~3 000 €    | (Auto-construction)                                          |
 | Irrigation         | Tuyaux, goutte-à-goutte, récupérateurs d'eau | ~500 €      |
-| Poulailler (option)| Grillage, abri pour quelques poules          | ~500 €      |
+| Poulailler         | Grillage, abri pour quelques poules          | ~500 €      |
 
-## 5. Matériels déjà acquis
-- Outillage de base du jardinier (pelles, râteaux, brouette...)
+## 5. Besoins Énergétiques
+| Équipement                 | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| -------------------------- | ------------- | -------------- | ---------------------- |
+| Pompe d'irrigation (saison) | 600           | 0.5            | 300                    |
+| **Total estimé**           |               |                | **~300**               |
 
-## 6. Budget Prévisionnel
-- **Total Estimé à acquérir (sans poulailler) :** ~3 500 €
-- **Total Estimé à acquérir (avec poulailler) :** ~4 000 €
+## 6. Matériels déjà acquis
+- Outils de jardinage de base (pelle, râteau, etc.)
 
-## 7. Plan d'Action / Tâches
-- [ ] Analyser le terrain (ensoleillement, vents, points d'eau) et réaliser le design en permaculture.
-- [ ] Définir le plan de culture (quelles variétés, en quelle quantité, calendrier).
-- [ ] Préparer les zones de culture (décompacter sans retourner, amender).
-- [ ] Monter la serre.
-- [ ] Installer le système d'irrigation.
-- [ ] Commander/acheter les semences et les plants.
-- [ ] Phase de semis (en serre et en pleine terre) et de plantation.
-- [ ] Mettre en place le paillage.
-- [ ] (Optionnel) Construire le poulailler et accueillir les poules.
-- [ ] Aménager la zone de conservation des récoltes. 
+## 7. Budget Prévisionnel
+- **Total Estimé à acquérir :** ~5 500 €
+- **Marge / Imprévus :** ~500 €
+
+## 8. Plan d'Action / Tâches
+- [ ] Analyser le sol du terrain (tests pH, nutriments).
+- [ ] Dessiner le plan du potager (design en permaculture).
+- [ ] Construire les 3 serres.
+- [ ] Construire le poulailler.
+- [ ] Préparer les zones de culture (amendement, paillage).
+- [ ] Mettre en place le système d'irrigation.
+- [ ] Lancer les premiers semis et plantations.
+- [ ] Accueillir les poules. 

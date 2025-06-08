@@ -1,41 +1,51 @@
-# Chantier 5 : L'Espace de Vie Commun
+# Chantier 5 : L'Espace de Vie Commun (Dôme)
 
 ## 1. Description et But
-**Description :** Ce chantier est dédié à la création d'un lieu de détente, de réunion et de vie sociale pour les 5 résidents. C'est un espace modulable qui doit être confortable et accueillant en toutes saisons.
+**Description :** Ce chantier est dédié à la création d'un lieu de détente, de réunion et de vie sociale sous un dôme géodésique ouvert. C'est un espace modulable et ouvert sur l'extérieur.
 **But :** Disposer d'un "salon" commun favorisant la détente, les discussions, les activités de groupe et le bien-être collectif.
 
 ## 2. Lien Social
 Cet espace est le pendant "détente" de la cuisine. Il est essentiel pour la cohésion du groupe en dehors des moments de travail ou des tâches ménagères. C'est le lieu des décisions informelles, des soirées, des jeux, de la lecture. Son aménagement définira l'ambiance générale du lieu.
 
 ## 3. Objectifs Clés / Livrables
-- [ ] Plans du bâtiment ou de l'espace de vie.
-- [ ] Le bâtiment construit, isolé et chauffé.
+- [ ] Plans du dôme.
+- [ ] Le dôme monté.
 - [ ] Un aménagement intérieur confortable et modulable.
 
 ## 4. Besoins Matériels à acquérir
 
-| Catégorie          | Description                                  | Coût Estimé |
-| ------------------ | -------------------------------------------- | ----------- |
-| Gros œuvre         | Matériaux pour structure type habitat léger | ~10 000 €   |
-| Chauffage          | Poêle à bois, conduit, isolation de sécurité | ~2 500 €    |
-| Mobilier           | Mobilier auto-construit (80% bois de palette)| ~400 €      |
-| Décoration         | Tissus, coussins, luminaires, plantes...     | ~500 €      |
+| Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
+| ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
+| Structure          | Dôme géodésique ouvert (bois, connecteurs)   | ~5 250 €    | https://atelierdome.fr/                                      |
+| Fondations légères | Plots réglables ou similar                   | ~1 000 €    | (Occasion / Auto-construit)                                  |
+| Chauffage          | Poêle à bois, conduit, isolation de sécurité | ~2 500 €    |                                                              |
+| Mobilier           | Mobilier auto-construit (bois de récup)      | ~400 €      |                                                              |
+| Décoration         | Tissus, coussins, luminaires, plantes...     | ~500 €      |                                                              |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+*Note: Le chauffage est assuré par un poêle à bois.*
+| Équipement                 | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| -------------------------- | ------------- | -------------- | ---------------------- |
+| Éclairage d'ambiance LED   | 60            | 5              | 300                    |
+| Système son / Vidéoprojecteur | 150           | 2              | 300                    |
+| **Total estimé**           |               |                | **~600**               |
+
+## 6. Matériels déjà acquis
 - (À compléter si applicable, ex: mobilier de récupération, luminaires, etc.)
 
-## 6. Budget Prévisionnel
+## 7. Budget Prévisionnel
 - **Budget Total Maximum (Investissement) :** 15 000 €
-- **Gros Œuvre :** ~10 000 €
+- **Structure (Dôme, fondations) :** ~6 250 €
 - **Aménagement & Chauffage :** ~3 400 €
-- **Marge / Imprévus :** ~1 600 €
+- **Marge / Imprévus :** ~5 350 €
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
 - [ ] Définir l'ambiance et les usages souhaités pour l'espace.
 - [ ] Dessiner les plans d'aménagement.
-- [ ] Organiser la collecte et la préparation des palettes.
-- [ ] Chiffrer et réaliser le gros œuvre du bâtiment.
+- [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
+- [ ] Préparer le terrain et installer les fondations légères.
+- [ ] Monter la structure du dôme.
 - [ ] Installer le poêle à bois et le conduit de cheminée.
-- [ ] Atelier de construction du mobilier en palettes.
+- [ ] Atelier de construction du mobilier.
 - [ ] Aménager l'intérieur (mobilier, éclairage, décoration).
 - [ ] Finitions. 

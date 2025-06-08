@@ -16,31 +16,50 @@ Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la di
 
 *Principe : Sauf pour la structure et le kit internet, tous les équipements seront recherchés d'occasion ou auto-construits.*
 
-| Catégorie          | Description                                  | Coût Estimé |
-| ------------------ | -------------------------------------------- | ----------- |
-| Gros œuvre         | Matériaux si bâtiment dédié (Habitat léger)  | ~11 000 €   |
-| Connexion Internet | Kit satellite (Starlink, etc.), routeur...   | ~500 €      |
-| Mobilier           | 5 bureaux, 5 chaises ergo, rangements        | ~800 €      |
-| Électricité/Réseau | Câblage, prises, éclairage...                | ~500 €      |
+| Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
+| ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
+| Structure          | Chalet ANGERS S (36m² + terrasse)             | ~9 999 €    | https://www.chaletdejardin.fr/chalet-en-bois-avec-mezzanine-angers-s-44-mm-36m2-19m2-terrasse.html |
+| **Mobilier**       |                                              | **~600 €**  |                                                              |
+| *Détail Mobilier*  | 5 bureaux, rangements                        | ~600 €      | (Occasion / Auto-construit)                                  |
+| **Électricité/Réseau**|                                              | **~550 €**  |                                                              |
+| *Détail Élec/Réseau*| Câblage, prises, goulottes, éclairage LED...   | ~450 €      | (Neuf)                                                       |
+| *Détail Élec/Réseau*| Routeur & switch réseau                      | ~100 €      | (Neuf)                                                       |
+| **Sécurité**       |                                              | **~650 €**  |                                                              |
+| *Détail Sécurité*  | Kit caméras de surveillance (x2)             | ~300 €      | (À définir)                                                  |
+| *Détail Sécurité*  | Alarme autonome avec détecteurs              | ~200 €      | (À définir)                                                  |
+| *Détail Sécurité*  | Serrure à code électronique                  | ~150 €      | (À définir)                                                  |
 
-## 5. Matériels déjà acquis
-- (À compléter si applicable, ex: chaises, bureaux, etc.)
+## 5. Besoins Énergétiques
+| Équipement                      | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| ------------------------------- | ------------- | -------------- | ---------------------- |
+| 5 postes de travail (PC+écran)  | 1000          | 6              | 6000                   |
+| Éclairage LED                   | 60            | 8              | 480                    |
+| Réseau (routeur, switch)        | 20            | 24             | 480                    |
+| Sécurité (caméras, alarme H24)  | 30            | 24             | 720                    |
+| **Total estimé**                |               |                | **~7680**              |
 
-## 6. Budget Prévisionnel
+## 6. Matériels déjà acquis
+- Chaises de bureau, écrans, claviers, souris, micros-casques, Kit Starlink, ordinateurs.
+
+## 7. Budget Prévisionnel
 - **Budget d'investissement maximum :** 15 000 €
-- **Gros Œuvre :** ~11 000 €
-- **Aménagement & Connexion :** ~1 800 €
-- **Marge / Imprévus :** ~2 200 €
+- **Structure (fondations, isolation) :** ~9 999 €
+- **Aménagement, Connexion & Sécurité :** ~1 800 €
+- **Marge / Imprévus :** ~3 201 €
 ---
 - **Coûts récurrents :**
   - **Abonnement Internet :** ~50-100 €/mois
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
 - [ ] Choisir la solution d'accès à Internet et la commander.
 - [ ] Définir si l'espace est un bâtiment dédié ou une partie d'un autre.
 - [ ] Dessiner les plans d'aménagement (position des bureaux, etc.).
-- [ ] Phase de construction ou d'aménagement du gros œuvre.
+- [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
+- [ ] Sélectionner et commander le chalet ANGERS S.
+- [ ] Préparer le terrain et les fondations.
+- [ ] Montage du chalet.
 - [ ] Installation de la connexion Internet et du réseau local.
 - [ ] Installation du réseau électrique.
-- [ ] Achat et montage du mobilier.
+- [ ] Achat et montage des bureaux et rangements.
+- [ ] Installation du système de sécurité (caméras, alarme, serrure).
 - [ ] Aménagement final. 

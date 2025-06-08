@@ -18,24 +18,38 @@ La gestion partagée d'équipements aussi essentiels que les sanitaires est un e
 
 | Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
 | ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
-| Gros œuvre         | Chalet en kit de 20m² (structure, isolation) | ~8 000 €    | (À définir)                                                  |
+| Structure          | Chalet NANTES (24m², isolation incluse)      | ~7 000 €    | https://www.chaletdejardin.fr/abri-de-jardin-en-bois-nantes-34-mm-6x4-7-m-24-m2-3-5-m2-terrasse.html |
 | Toilettes Biogaz   | Kit HomeBiogas 4 (2 toilettes + digesteur)   | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/bio-toilets/bio-toilet-kit-4-double/) |
 | Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.| ~1 500 €    | (À définir)                                                  |
 | Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~1 000 €    | (À définir)                                                  |
+| Chauffage          | Poêle de masse rocket (auto-construit)       | ~500 €      | (Briques réfractaires, bidon, tube, terre...)                |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+*Note: Le chauffage de l'espace est assuré par le poêle de masse (bois).*
+| Équipement                | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| ------------------------- | ------------- | -------------- | ---------------------- |
+| Éclairage LED             | 40            | 3              | 120                    |
+| Ventilation (VMC)         | 25            | 24             | 600                    |
+| Pompe de relevage (si besoin) | 250           | 0.5            | 125                    |
+| **Total estimé**          |               |                | **~845**               |
+
+## 6. Matériels déjà acquis
 - (À compléter si applicable, ex: outils de plomberie de base)
 
-## 6. Budget Prévisionnel
+## 7. Budget Prévisionnel
 - **Budget Total Maximum (Investissement) :** 15 000 €
-- **Gros Œuvre :** ~8 000 €
-- **Équipements & Plomberie :** ~5 700 €
-- **Marge / Imprévus :** ~1 300 €
+- **Structure (Chalet) :** ~7 000 €
+- **Équipements & Plomberie :** ~6 200 €
+- **Marge / Imprévus :** ~1 800 €
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
+- [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
+- [ ] Sélectionner et commander le chalet NANTES.
+- [ ] Préparer le terrain et les fondations.
+- [ ] Réceptionner et déballer le kit.
+- [ ] Montage du chalet.
 - [ ] Commander le kit HomeBiogas.
 - [ ] Dessiner les plans d'aménagement du bloc sanitaire intégrant le digesteur.
-- [ ] Chiffrer et réaliser le gros œuvre du bâtiment.
 - [ ] Installer le système HomeBiogas en suivant les recommandations du fabricant.
 - [ ] Installer les douches et lavabos.
 - [ ] Réaliser tous les raccordements de plomberie (arrivée d'eau, évacuation vers la phytoépuration).

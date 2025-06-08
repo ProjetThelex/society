@@ -1,0 +1,100 @@
+# Synthèse Budgétaire Globale
+
+## Budget Total Prévisionnel
+
+Ce tableau résume le coût total estimé pour chaque chantier, incluant la marge pour imprévus.
+
+| Chantier                  | Coût Total Estimé |
+| ------------------------- | ----------------- |
+| 01 - Terrain              | ~111 750 €        |
+| 02 - Logements            | ~80 500 €         |
+| 03 - Cuisine              | ~15 000 €         |
+| 04 - Sanitaires           | ~15 000 €         |
+| 05 - Vie Sociale (Dôme)   | ~15 000 €         |
+| 06 - Coworking            | ~15 000 €         |
+| 07 - Énergie              | ~28 500 €         |
+| 08 - Eau                  | ~6 350 €          |
+| 09 - Alimentation         | ~6 000 €          |
+| 10 - Atelier              | ~15 000 €         |
+| **TOTAL GÉNÉRAL PROJET**  | **~300 100 €**    |
+
+---
+
+## Détail par Chantier
+
+### 01 - Terrain
+- **Coûts directs :** ~109 750 €
+  - *Acquisition & Frais : ~108 000 €*
+  - *Matériel & Outillage : ~1 750 €*
+- **Marge / Imprévus :** ~2 000 €
+- **TOTAL CHANTIER :** **~111 750 €**
+
+### 02 - Logements
+- **Coûts directs :** ~78 500 €
+  - *Structure & Couverture : ~65 000 €*
+  - *Aménagement & Chauffage : ~9 500 €*
+  - *Ouvertures & Outillage : ~4 000 €*
+- **Marge / Imprévus :** ~2 000 €
+- **TOTAL CHANTIER :** **~80 500 €**
+
+### 03 - Cuisine
+- **Coûts directs :** ~10 850 €
+  - *Structure (Chalet, fondations) : ~9 500 €*
+  - *Aménagements & Équipements : ~1 350 €*
+- **Marge / Imprévus :** ~4 150 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 04 - Sanitaires
+- **Coûts directs :** ~13 200 €
+  - *Structure (Chalet) : ~7 000 €*
+  - *Équipements & Plomberie : ~6 200 €*
+- **Marge / Imprévus :** ~1 800 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 05 - Vie Sociale
+- **Coûts directs :** ~9 650 €
+  - *Structure (Dôme, fondations) : ~6 250 €*
+  - *Aménagement & Chauffage : ~3 400 €*
+- **Marge / Imprévus :** ~5 350 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 06 - Coworking
+- **Coûts directs :** ~11 799 €
+  - *Structure (Chalet) : ~9 999 €*
+  - *Aménagement, Connexion & Sécurité : ~1 800 €*
+- **Marge / Imprévus :** ~3 201 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 07 - Énergie
+- **Coûts directs :** ~28 500 €
+  - *Production (Panneaux ~12 kWc) : ~10 000 €*
+  - *Stockage (Batteries ~30 kWh) : ~12 000 €*
+  - *Secours & Gestion : ~4 500 €*
+  - *Distribution : ~2 000 €*
+- **Marge / Imprévus :** N/A (Budget à valider par un pro)
+- **TOTAL CHANTIER :** **~28 500 €**
+
+### 08 - Eau
+- **Coûts directs :** ~6 350 €
+  - *Collecte & Stockage : ~3 500 €*
+  - *Filtration & Pompage : ~1 150 €*
+  - *Production Eau Chaude : ~800 €*
+  - *Réseau & Analyse : ~900 €*
+- **Marge / Imprévus :** N/A (Budget à valider)
+- **TOTAL CHANTIER :** **~6 350 €**
+
+### 09 - Alimentation
+- **Coûts directs :** ~5 500 €
+  - *Serres & Poulailler : ~3 500 €*
+  - *Consommables & Outillage : ~1 000 €*
+  - *Irrigation & Amendements : ~1 000 €*
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~6 000 €**
+
+### 10 - Atelier
+- **Coûts directs :** ~7 500 €
+  - *Structure (Container & Transport) : ~4 500 €*
+  - *Aménagement : ~1 000 €*
+  - *Mobilier & Outillage : ~2 000 €*
+- **Marge / Imprévus :** ~7 500 € (Budget max 15k€, à ajuster)
+- **TOTAL CHANTIER :** **~15 000 €** 

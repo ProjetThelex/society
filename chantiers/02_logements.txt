@@ -31,16 +31,31 @@ L'auto-construction des habitats est un projet d'équipe majeur. Il renforcera l
 | Couverture/Isolation| Toile étanche, isolant (liège, laine de bois...)| ~25 000 €   |
 | Ouvertures         | Portes, fenêtres (recherche occasion/déstockage) | ~2 500 €    |
 | Outillage (partiel)| Scies spécifiques, équipement de sécurité... | ~1 500 €    |
+| Aménagement Intérieur| Mezzanines, cloisons, petits mobiliers...    | ~2 000 €    | (Auto-construction)                                          |
+| Chauffage          | 5 poêles à bois + conduits                   | ~7 500 €    | (Recherche occasion / déstockage)                            |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+*Note: Le chauffage est assuré par les poêles à bois.*
+*Estimations pour 5 logements.*
+| Équipement (par logement)   | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| --------------------------- | ------------- | -------------- | ---------------------- |
+| Éclairage LED               | 30            | 4              | 120                    |
+| Chargeurs (téléphone, PC)   | 60            | 3              | 180                    |
+| **Total par logement**      |               |                | **~300**               |
+| **Total pour 5 logements**  |               |                | **~1500**              |
+
+## 6. Matériels déjà acquis
 - Outillage de base (visseuses, marteaux, etc.)
 
-## 6. Budget Prévisionnel
-- **Coût total des matériaux à acquérir :** ~69 000 €
+## 7. Budget Prévisionnel
+- **Coût total des matériaux à acquérir :** ~76 500 €
 - **Formation / Conseil externe :** ~2 000 € (Optionnel)
-- **Total Estimé :** ~71 000 €
+- **Total Estimé :** ~78 500 €
+- **Marge / Imprévus :** ~2 000 € (à réévaluer, budget tendu)
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
+- [ ] Recherche de fournisseurs ou de solutions d'auto-construction.
+- [ ] Dessiner les plans détaillés pour chaque logement.
 - [ ] Phase de recherche et de conception finale des dômes.
 - [ ] Établissement de la liste d'achats détaillée (sourcing).
 - [ ] Achat et réception de l'ensemble des matériaux.
@@ -49,4 +64,5 @@ L'auto-construction des habitats est un projet d'équipe majeur. Il renforcera l
 - [ ] Phase d'assemblage des structures.
 - [ ] Phase de pose de la couverture et de l'isolation.
 - [ ] Installation des portes et fenêtres.
+- [ ] Installation des poêles à bois et des conduits.
 - [ ] Finitions. 

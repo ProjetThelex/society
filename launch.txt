@@ -1,0 +1,84 @@
+# Synthèse Budgétaire pour un Lancement à 2 Personnes
+
+Ce document est une simulation du budget total pour une version "allégée" du projet, conçue pour 2 personnes.
+
+## Budget Total Prévisionnel (2 personnes)
+
+| Chantier                  | Coût Total Estimé |
+| ------------------------- | ----------------- |
+| 01 - Terrain              | ~111 750 €        |
+| 02 - Logements            | ~33 800 €         |
+| 03 - Cuisine              | ~15 000 €         |
+| 04 - Sanitaires           | ~15 000 €         |
+| 05 - Vie Sociale (Dôme)   | ~15 000 €         |
+| 06 - Coworking            | ~15 000 €         |
+| 07 - Énergie              | ~21 500 €         |
+| 08 - Eau                  | ~7 650 €          |
+| 09 - Alimentation         | ~4 500 €          |
+| 10 - Atelier              | ~15 000 €         |
+| **TOTAL GÉNÉRAL PROJET**  | **~254 200 €**    |
+
+---
+
+## Détail par Chantier (version 2 personnes)
+
+### 01 - Terrain (inchangé)
+- **Coûts directs :** ~109 750 €
+- **Marge / Imprévus :** ~2 000 €
+- **TOTAL CHANTIER :** **~111 750 €**
+
+### 02 - Logements (2 unités)
+- **Coûts directs :** ~31 800 €
+  - *Structure & Couverture (2 dômes) : ~26 000 €*
+  - *Aménagement & Chauffage (2 unités) : ~3 800 €*
+  - *Ouvertures & Outillage : ~2 000 €*
+- **Marge / Imprévus :** ~2 000 €
+- **TOTAL CHANTIER :** **~33 800 €**
+
+### 03 - Cuisine (inchangé)
+- **Coûts directs :** ~10 850 €
+- **Marge / Imprévus :** ~4 150 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 04 - Sanitaires (inchangé)
+- **Coûts directs :** ~13 200 €
+- **Marge / Imprévus :** ~1 800 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 05 - Vie Sociale (inchangé)
+- **Coûts directs :** ~9 650 €
+- **Marge / Imprévus :** ~5 350 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 06 - Coworking (2 postes)
+- **Coûts directs :** ~11 500 €
+  - *Structure (Chalet) : ~9 999 €*
+  - *Mobilier, Connexion & Sécurité : ~1 500 €*
+- **Marge / Imprévus :** ~3 500 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 07 - Énergie (redimensionné)
+- **Besoin estimé :** ~14.8 kWh/jour
+- **Coûts directs :** ~21 500 €
+  - *Production (Panneaux ~8 kWc) : ~7 000 €*
+  - *Stockage (Batteries ~20 kWh) : ~8 000 €*
+  - *Secours & Gestion : ~4 500 €*
+  - *Distribution : ~2 000 €*
+- **TOTAL CHANTIER :** **~21 500 €**
+
+### 08 - Eau (inchangé)
+- **Coûts directs :** ~7 650 €
+- **TOTAL CHANTIER :** **~7 650 €**
+
+### 09 - Alimentation (adapté)
+- **Coûts directs :** ~4 000 €
+  - *Serres (x1) & Poulailler : ~1 500 €*
+  - *Consommables & Outillage : ~1 000 €*
+  - *Irrigation & Amendements : ~1 000 €*
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~4 500 €**
+
+### 10 - Atelier (inchangé)
+- **Coûts directs :** ~7 500 €
+- **Marge / Imprévus :** ~7 500 €
+- **TOTAL CHANTIER :** **~15 000 €** 

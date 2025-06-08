@@ -13,29 +13,62 @@ La gestion de l'énergie est une responsabilité partagée. Elle impose une cons
 - [ ] Le parc de batteries de stockage installé et fonctionnel.
 - [ ] Un réseau de distribution électrique sécurisé alimentant tous les bâtiments.
 
-## 4. Besoins Matériels à acquérir
+## 4. Synthèse des Besoins Énergétiques par Chantier
+| Chantier                  | Consommation Estimée (Wh/jour) | Notes                               |
+| ------------------------- | ------------------------------ | ----------------------------------- |
+| 02 - Logements (x5)       | ~1 500                         | + Bois pour le chauffage            |
+| 03 - Cuisine              | ~1 600                         | + Biogaz pour la cuisson            |
+| 04 - Sanitaires           | ~845                           | + Bois pour l'eau chaude & chauffage|
+| 05 - Vie Sociale (Dôme)   | ~600                           | + Bois pour le chauffage            |
+| 06 - Coworking            | ~7 680                         | Principal pôle de consommation      |
+| 08 - Eau                  | ~7 835                         | Pompes, filtration et chauffe-eau   |
+| 09 - Alimentation         | ~300                           | Saisonnier (irrigation)             |
+| 10 - Atelier              | ~2 900                         | Journées de construction            |
+| **TOTAL ESTIMÉ**          | **~23 260 Wh/jour**            |                                     |
 
+## 5. Dimensionnement du Système
+*Le dimensionnement vise une autonomie pour 24h, complétée par un groupe électrogène pour les périodes sans soleil prolongées.*
+- **Hypothèses :**
+  - Besoin journalier : ~23.3 kWh.
+  - Objectif d'autonomie batterie : 1 jour.
+  - Ensoleillement (Sud de la France, hiver) : 2.5h pleines par jour.
+  - Un générateur de secours assure la fiabilité long terme.
+
+- **Calcul du Stockage (Batteries) :**
+  - Capacité utile requise : 23.3 kWh * 1 jour = 23.3 kWh.
+  - Capacité totale (avec DoD 80%) : 23.3 / 0.8 = ~29 kWh.
+  - **=> Objectif : ~30 kWh de batteries.**
+
+- **Calcul de la Production (Panneaux) :**
+  - Puissance nécessaire : 23.3 kWh / 2.5h = 9.3 kWc.
+  - Puissance à installer (avec 20% pertes) : 9.3 * 1.2 = ~11.2 kWc.
+  - **=> Objectif : ~12 kWc de panneaux.**
+
+## 6. Besoins Matériels à acquérir
 *Principe : Le matériel sera recherché en priorité d'occasion, reconditionné ou en déstockage pour optimiser le budget, tout en restant vigilant sur la qualité et les garanties.*
 
 | Catégorie          | Description                                  | Coût Estimé |
 | ------------------ | -------------------------------------------- | ----------- |
-| Production         | Panneaux solaires photovoltaïques (ex: 6kWc) | ~6 000 €    |
-| Stockage           | Batteries (ex: 10-15 kWh)                    | ~8 000 €    |
+| Production         | Panneaux solaires photovoltaïques (~12 kWc)  | ~10 000 €   |
+| Stockage           | Batteries Lithium (~30 kWh)                  | ~12 000 €   |
+| Secours            | Générateur à essence/biogaz (~5-8kW)         | ~1 500 €    |
 | Conversion/Gestion | Onduleur, régulateur de charge, moniteur...  | ~3 000 €    |
 | Distribution       | Câbles, disjoncteurs, tableaux, prises...    | ~2 000 €    |
 
-## 6. Budget Prévisionnel
-- **Total Estimé :** ~19 000 €
+## 7. Budget Prévisionnel
+- **Total Estimé :** ~28 500 €
+- **Note :** Ce budget est une estimation basée sur un dimensionnement pour l'autonomie. Il est fortement recommandé de faire valider ces calculs par un professionnel.
 
-## 7. Plan d'Action / Tâches
-- [ ] Lister tous les appareils électriques et estimer la consommation journalière (en Wh).
+## 8. Plan d'Action / Tâches
+- [ ] **Action critique :** Valider les estimations de consommation de chaque chantier.
 - [ ] Calculer le pic de puissance nécessaire (en W).
 - [ ] Dimensionner la puissance des panneaux et la capacité des batteries sur la base de ces calculs.
 - [ ] Choisir les technologies et les fournisseurs.
-- [ ] Commander le matériel.
+- [ ] Commander le matériel (y compris le générateur).
 - [ ] Installer les supports pour les panneaux (au sol ou sur toiture).
 - [ ] Installer les panneaux solaires.
-- [ ] Mettre en place le local technique (sécurisé et ventilé) pour les batteries et l'onduleur.
+- [ ] Mettre en place le local technique (sécurisé et ventilé) pour les batteries, l'onduleur et le générateur.
 - [ ] Installer les batteries et les connecter au régulateur/onduleur.
+- [ ] Installer le générateur et son système de démarrage/transfert.
 - [ ] Tirer les câbles et créer le réseau de distribution vers chaque bâtiment.
 - [ ] Mettre en service et tester l'ensemble du système. 

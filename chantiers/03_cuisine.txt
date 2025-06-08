@@ -20,41 +20,49 @@ La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour l
 
 | Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
 | ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
-| Structure          | Chalet en kit 30m² (madriers, menuiseries)   | ~9 000 €    | https://www.chaletdejardin.fr/studio-de-jardin-marion-44-mm-30-m2.html |
+| Structure          | Chalet en kit 30m² (isolation incluse)       | ~9 000 €    | https://www.chaletdejardin.fr/studio-de-jardin-marion-44-mm-30-m2.html |
 | Fondations légères | Plots réglables, vis de fondation ou similar | ~500 €      | (Occasion / Auto-construit)                                  |
-| Isolation (sol/toit)| Laine de bois, pare-pluie, pare-vapeur...    | ~1 500 €    | (À définir)                                                  |
 | **Aménagement**    |                                              | **~400 €**  |                                                              |
 | *Détail Aménagement*| Plans de travail, étagères (bois de récup)   | ~200 €      | (Auto-construit)                                             |
 | *Détail Aménagement*| Meubles de rangement bas (bois de récup)     | ~200 €      | (Auto-construit)                                             |
-| **Équipement**     |                                              | **~300 €**  |                                                              |
+| **Équipement**     |                                              | **~450 €**  |                                                              |
 | *Détail Équipement*| Cuisinière Biogaz (+ appoint bouteille)      | 0 €         | Inclus dans le chantier "Sanitaires" (Kit HomeBiogas)        |
+| *Détail Équipement*| Cuisinière à gaz (bouteille)                 | ~150 €      | (Recherche occasion)                                         |
 | *Détail Équipement*| Réfrigérateur + congélateur basse conso A+++ | ~300 €      | (Recherche occasion)                                         |
 | **Plomberie/Élec.**|                                              | **~500 €**  |                                                              |
 | *Détail Plomberie* | Évier double bac, mitigeur, tuyauterie...    | ~200 €      | (Recherche occasion)                                         |
 | *Détail Électricité*| Tableau, câblage, prises, éclairage LED...   | ~300 €      | (Occasion / Déstockage)                                      |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+*Note: La cuisson est assurée par le Biogaz.*
+| Équipement                      | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| ------------------------------- | ------------- | -------------- | ---------------------- |
+| Réfrigérateur + Congélateur A++ | 150           | 8 (cycle)      | 1200                   |
+| Éclairage LED                   | 50            | 4              | 200                    |
+| Petit électroménager (mixeur...) | 1000          | 0.2            | 200                    |
+| **Total estimé**                |               |                | **~1600**              |
+
+## 6. Matériels déjà acquis
 - Petit électroménager (mixeur, bouilloire, etc.)
 
-## 6. Budget Prévisionnel
+## 7. Budget Prévisionnel
 - **Budget Total Maximum (Investissement) :** 15 000 €
-- **Structure (Chalet, fondations, isolation) :** ~11 000 €
-- **Aménagements & Équipements à acquérir :** ~1 200 €
-- **Marge / Imprévus :** ~2 800 €
+- **Structure (Chalet, fondations) :** ~9 500 €
+- **Aménagements & Équipements à acquérir :** ~1 350 €
+- **Marge / Imprévus :** ~4 150 €
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
 - [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
 - [ ] Sélectionner et commander le modèle de chalet en kit 30m².
 - [ ] Préparer le terrain et installer les fondations légères.
 - [ ] Réceptionner et déballer le kit.
 - [ ] Phase de montage de la structure du chalet.
-- [ ] Installation de l'isolation et de la couverture de toit.
 - [ ] Installation des réseaux (eau, gaz, électricité).
 - [ ] Construction des aménagements intérieurs (plans de travail, etc.).
 - [ ] Installation et raccordement des équipements.
 - [ ] Finitions et décoration.
 
-## 8. Liens et Fournisseurs Potentiels
+## 9. Liens et Fournisseurs Potentiels
 Voici des liens de référence pour des chalets en kit :
 - **Chaletenbois.fr :** https://chaletenbois.fr/chalet-habitable/
 - **Maison et Chalet en Bois :** https://www.maisonetchaletenbois.com/

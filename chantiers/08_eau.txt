@@ -17,43 +17,50 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 
 ## 4. Besoins Matériels à acquérir
 
+*Principe : Tous les équipements seront recherchés d'occasion ou en déstockage pour minimiser les coûts.*
+
 | Catégorie                  | Sous-catégorie / Équipement                  | Coût Estimé |
 | -------------------------- | -------------------------------------------- | ----------- |
-| **Collecte & Stockage**    |                                              | **~4 000 €**|
-|                            | Gouttières + collecteurs pour 4-5 bâtiments  | ~800 €      |
-|                            | Cuves de récupération (2 x 10 000L)            | ~3 200 €    |
-| **Filtration/Potabilisation**|                                            | **~1 700 €**|
-|                            | Pré-filtration (cyclonique, crépines)        | ~300 €      |
-|                            | Pompe surpresseur pour le réseau             | ~400 €      |
-|                            | Filtres (sédiments, charbon actif)           | ~500 €      |
+| **Collecte & Stockage**    |                                              | **~3 500 €**|
+|                            | Gouttières + collecteurs pour les bâtiments  | ~800 €      |
+|                            | Cuve de récupération 10 000L                 | ~2 700 €    |
+| **Filtration/Pompage**     |                                              | **~1 150 €**|
+|                            | Filtres 3 étages (sédiments, KDF, charbon)   | ~350 €      |
 |                            | Stérilisateur à lampe UV                     | ~500 €      |
-| **Production Eau Chaude**  |                                              | **~2 500 €**|
-|                            | Chauffe-eau solaire (panneau + ballon 200L)  | ~2 000 €    |
-|                            | Mitigeur thermostatique, plomberie dédiée    | ~500 €      |
-| **Réseau de Plomberie**    |                                              | **~2 000 €**|
-|                            | Réseau primaire enterré (PEHD)               | ~800 €      |
-|                            | Réseau secondaire (multicouche/PER)          | ~700 €      |
-|                            | Raccords, vannes, nourrices, outillage       | ~500 €      |
-| **Traitement Eaux Usées**  |                                              | **~2 000 €**|
-|                            | Bâche EPDM pour bassins de phytoépuration    | ~800 €      |
-|                            | Granulats, sable, drains                     | ~700 €      |
-|                            | Plantes épuratrices (roseaux, iris, etc.)    | ~500 €      |
+|                            | Pompe surpresseur pour le réseau             | ~300 €      |
+| **Production Eau Chaude**  |                                              | **~800 €**  |
+|                            | Chauffe-eau solaire (DIY)                    | ~500 €      |
+|                            | Boiler électrique 200L (Occasion d'appoint)  | ~300 €      |
+| **Réseau de Plomberie**    |                                              | **~500 €**  |
+|                            | Réseau primaire et secondaire                | ~400 €      |
+|                            | Raccords, vannes, outillage                  | ~100 €      |
+| **Analyse de l'eau**       |                                              | **~200 €**  |
+|                            | Kits de test qualité de l'eau (bactério, pH) | ~200 €      |
 
-## 5. Matériels déjà acquis
+## 5. Besoins Énergétiques
+| Équipement                  | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| --------------------------- | ------------- | -------------- | ---------------------- |
+| Chauffe-eau électrique      | 3000          | 2              | 6000                   |
+| Pompe de récupération (pluie) | 750           | 0.5            | 375                    |
+| Pompe de distribution       | 500           | 1              | 500                    |
+| Filtration UV               | 40            | 24             | 960                    |
+| **Total estimé**            |               |                | **~7835**              |
+
+## 6. Matériels déjà acquis
 - (À compléter si applicable)
 
-## 6. Budget Prévisionnel
+## 7. Budget Prévisionnel
 - **Analyse de la qualité de l'eau (labo) :** ~200 €
-- **Total Investissement Matériel Estimé :** ~12 200 €
+- **Total Investissement Matériel Estimé :** ~6 150 €
 
-## 7. Plan d'Action / Tâches
+## 8. Plan d'Action / Tâches
 - [ ] Estimer les besoins journaliers en eau (froide et chaude).
-- [ ] Dimensionner le stockage (pluviométrie) et le chauffe-eau solaire.
-- [ ] Installer les gouttières et les citernes.
-- [ ] Installer la station de pompage et de filtration.
-- [ ] Installer le chauffe-eau solaire et son circuit.
-- [ ] Faire analyser l'eau par un laboratoire pour valider la potabilité.
-- [ ] Déployer le réseau de plomberie général sur le terrain.
-- [ ] Raccorder chaque bâtiment (cuisine, sanitaires).
-- [ ] Construire le système de phytoépuration (bassins, plantation).
-- [ ] Raccorder les évacuations d'eaux grises au système de traitement. 
+- [ ] Dimensionner le stockage, le chauffe-eau solaire et le boiler d'appoint.
+- [ ] Sourcer et acheter l'ensemble du matériel (cuve, filtres, boiler...).
+- [ ] Réaliser le terrassement pour la cuve.
+- [ ] Installer le système de filtration complet (3 étages + UV) et le pompage.
+- [ ] Construire et installer le chauffe-eau solaire DIY.
+- [ ] Installer le boiler électrique et raccorder les systèmes.
+- [ ] Réaliser les tests de qualité de l'eau.
+- [ ] Mise en service complète.
+- [ ] **Note :** Définir une solution pour le traitement des eaux grises. 
