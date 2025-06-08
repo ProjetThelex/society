@@ -1,0 +1,63 @@
+# Chantier 3 : La Cuisine Commune
+
+## 1. Description et But
+**Description :** Ce chantier vise à construire et équiper une cuisine partagée de 30m² en utilisant un chalet en kit. La structure doit être démontable pour respecter la législation sur les habitats légers (pas de permis de construire, seulement une déclaration de travaux).
+**But :** Disposer d'une cuisine collective durable, économe en énergie et favorisant la préparation des repas en commun, pour un budget total de 15 000 €.
+
+## 2. Lien Social
+La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour les interactions quotidiennes, le partage des tâches, la transformation des produits du potager et l'organisation de repas collectifs.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Plans du bâtiment ou de l'espace cuisine.
+- [ ] Le bâtiment de la cuisine construit et isolé.
+- [ ] Un aménagement intérieur fonctionnel (plans de travail, rangements).
+- [ ] Les équipements de cuisson et de conservation installés et opérationnels.
+- [ ] Le chalet de 30m² monté, isolé et hors d'eau.
+
+## 4. Besoins Matériels à acquérir
+
+*Principe : Sauf pour la structure (chalet), tous les équipements seront recherchés d'occasion ou auto-construits pour minimiser les coûts et l'empreinte écologique.*
+
+| Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
+| ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
+| Structure          | Chalet en kit 30m² (madriers, menuiseries)   | ~9 000 €    | https://www.chaletdejardin.fr/studio-de-jardin-marion-44-mm-30-m2.html |
+| Fondations légères | Plots réglables, vis de fondation ou similar | ~500 €      | (Occasion / Auto-construit)                                  |
+| Isolation (sol/toit)| Laine de bois, pare-pluie, pare-vapeur...    | ~1 500 €    | (À définir)                                                  |
+| **Aménagement**    |                                              | **~400 €**  |                                                              |
+| *Détail Aménagement*| Plans de travail, étagères (bois de récup)   | ~200 €      | (Auto-construit)                                             |
+| *Détail Aménagement*| Meubles de rangement bas (bois de récup)     | ~200 €      | (Auto-construit)                                             |
+| **Équipement**     |                                              | **~300 €**  |                                                              |
+| *Détail Équipement*| Cuisinière Biogaz (+ appoint bouteille)      | 0 €         | Inclus dans le chantier "Sanitaires" (Kit HomeBiogas)        |
+| *Détail Équipement*| Réfrigérateur + congélateur basse conso A+++ | ~300 €      | (Recherche occasion)                                         |
+| **Plomberie/Élec.**|                                              | **~500 €**  |                                                              |
+| *Détail Plomberie* | Évier double bac, mitigeur, tuyauterie...    | ~200 €      | (Recherche occasion)                                         |
+| *Détail Électricité*| Tableau, câblage, prises, éclairage LED...   | ~300 €      | (Occasion / Déstockage)                                      |
+
+## 5. Matériels déjà acquis
+- Petit électroménager (mixeur, bouilloire, etc.)
+
+## 6. Budget Prévisionnel
+- **Budget Total Maximum (Investissement) :** 15 000 €
+- **Structure (Chalet, fondations, isolation) :** ~11 000 €
+- **Aménagements & Équipements à acquérir :** ~1 200 €
+- **Marge / Imprévus :** ~2 800 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
+- [ ] Sélectionner et commander le modèle de chalet en kit 30m².
+- [ ] Préparer le terrain et installer les fondations légères.
+- [ ] Réceptionner et déballer le kit.
+- [ ] Phase de montage de la structure du chalet.
+- [ ] Installation de l'isolation et de la couverture de toit.
+- [ ] Installation des réseaux (eau, gaz, électricité).
+- [ ] Construction des aménagements intérieurs (plans de travail, etc.).
+- [ ] Installation et raccordement des équipements.
+- [ ] Finitions et décoration.
+
+## 8. Liens et Fournisseurs Potentiels
+Voici des liens de référence pour des chalets en kit :
+- **Chaletenbois.fr :** https://chaletenbois.fr/chalet-habitable/
+- **Maison et Chalet en Bois :** https://www.maisonetchaletenbois.com/
+- **Euro Chalet :** https://www.euro-chalet.fr/
+- **MC France Kit :** https://www.mcfrancekit.com/
+- **Chalet Abri :** http://www.chaletabri.com/prix-chalets-online.php 

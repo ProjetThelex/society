@@ -1,0 +1,42 @@
+# Chantier 1 : Le Terrain
+
+## 1. Description et But
+**Description :** Ce chantier concerne toutes les étapes liées à la recherche, la sélection, l'analyse et l'acquisition du terrain qui accueillera l'éco-lieu.
+**But :** Devenir propriétaire d'un terrain de 2 hectares minimum, apte à accueillir le projet, dans le Sud-Ouest de la France ou le Sud du Massif Central.
+
+## 2. Lien Social
+Le choix du terrain est le fondement du projet. Son emplacement, son environnement et ses caractéristiques influenceront directement la qualité de vie, les interactions avec le voisinage local et l'ancrage territorial du groupe. C'est le premier acte collectif fondateur.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Une liste de critères de sélection du terrain finalisée.
+- [ ] Un rapport d'analyse comparative de 3 à 5 terrains potentiels.
+- [ ] Le rapport d'analyse des sols et de l'environnement du terrain choisi.
+- [ ] L'acte de propriété du terrain.
+
+## 4. Besoins Matériels à acquérir
+
+| Catégorie          | Description                       | Coût Estimé |
+| ------------------ | --------------------------------- | ----------- |
+| Outils de mesure   | Mètre, boussole, altimètre...     | ~100 €      |
+| Outils d'analyse   | Kit d'analyse de sol (pH, etc.)   | ~150 €      |
+
+## 5. Matériels déjà acquis
+- Véhicule pour les visites.
+- Matériel informatique pour les recherches.
+
+## 6. Budget Prévisionnel
+*Ce budget est une première ébauche et devra être affiné.*
+- **Coût d'acquisition :** À définir (variable selon le marché)
+- **Frais de notaire (~8%) :** À définir
+- **Frais d'expertise (sol, etc.) :** ~1 500 €
+- **Coûts matériels à acquérir :** ~250 €
+- **Total Estimé (hors acquisition) :** ~1 750 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Définir la liste précise des critères de recherche (accès à l'eau, exposition, type de végétation, PLU/règles d'urbanisme, etc.).
+- [ ] Phase de recherche active (annonces en ligne, agences, contact direct).
+- [ ] Planifier et effectuer les visites des terrains pré-sélectionnés.
+- [ ] Mener une analyse approfondie du terrain favori (urbanisme, sol, environnement).
+- [ ] Négociation du prix.
+- [ ] Signature du compromis de vente.
+- [ ] Acquisition finale chez le notaire. 

@@ -1,0 +1,47 @@
+# Chantier 10 : L'Atelier (Container)
+
+## 1. Description et But
+**Description :** Ce chantier consiste en l'acquisition, le transport et l'aménagement d'un container maritime pour en faire un atelier de construction et de maintenance complet pour le bois, le métal et la mécanique de base.
+**But :** Disposer d'un espace de travail sécurisé, organisé et bien équipé, qui soit le cœur technique du projet et le support de tous les autres chantiers.
+
+## 2. Lien Social
+L'atelier est le lieu par excellence de la transmission de savoir-faire techniques. C'est un espace de collaboration, d'entraide pour les réparations et de création collective. Sa bonne organisation est un facteur clé pour la réussite des autres chantiers.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Un container maritime livré et positionné sur le terrain.
+- [ ] Un aménagement intérieur fonctionnel (établi, rangements, électricité).
+- [ ] Un inventaire d'outillage de base pour le bois et le métal.
+- [ ] Des règles de sécurité et d'utilisation définies collectivement.
+- [ ] Le container isolé et sécurisé.
+- [ ] Un établi et des rangements fonctionnels.
+- [ ] L'outillage de base pour le bois, le métal et la mécanique installé.
+
+## 4. Besoins Matériels à acquérir
+
+| Catégorie          | Description                                  | Coût Estimé |
+| ------------------ | -------------------------------------------- | ----------- |
+| Structure          | Container maritime d'occasion (12m / 40 pieds) | ~4 000 €    |
+| Transport/Grutage  | Livraison et mise en place du container      | ~1 500 €    |
+| Aménagement        | Isolation, plancher, électricité, ouvertures | ~3 500 €    |
+| Équipement/Mobilier| Établi, rangements, étau...                  | ~1 000 €    |
+| Outillage (spécifique)| Poste à souder, scie à métaux, outillage spécialisé... | ~5 000 €    |
+
+## 5. Matériels déjà acquis
+- Outillage à main de base (clés, tournevis, marteaux, scies manuelles...).
+- Perceuse, visseuse, meuleuse...
+
+## 6. Budget Prévisionnel
+- **Budget Total Maximum (Investissement) :** 15 000 €
+- **Total Estimé à acquérir :** ~15 000 €
+- **Marge / Imprévus :** 0 € (Budget serré)
+
+## 7. Plan d'Action / Tâches
+- [ ] Rechercher les fournisseurs de containers d'occasion.
+- [ ] Organiser le transport et le positionnement sur site.
+- [ ] Réaliser les découpes (portes, fenêtres) si nécessaire.
+- [ ] Isoler le container (points critiques).
+- [ ] Installer le réseau électrique et l'éclairage.
+- [ ] Construire ou installer l'établi et les solutions de rangement.
+- [ ] Acheter l'outillage lourd et électroportatif.
+- [ ] Organiser et ranger l'outillage à main.
+- [ ] Mettre en place l'affichage des règles de sécurité. 

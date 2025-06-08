@@ -1,0 +1,44 @@
+# Chantier 4 : Les Sanitaires Communs
+
+## 1. Description et But
+**Description :** Ce chantier a pour objet la mise en place d'installations sanitaires collectives dans un chalet en kit de 20m². Le cœur du système sera un kit "HomeBiogas" qui traite les effluents humains pour produire du biogaz, utilisé pour la cuisine. Les équipements (douches, lavabos) seront également écologiques et économes en eau.
+**But :** Assurer l'hygiène, le confort, et transformer les effluents en ressource (gaz de cuisson), tout en s'intégrant dans le cycle de l'eau autonome du lieu.
+
+## 2. Lien Social
+La gestion partagée d'équipements aussi essentiels que les sanitaires est un exercice de responsabilité collective. Le choix de technologies comme les toilettes sèches a un impact direct sur les routines quotidiennes et l'implication de chacun dans la gestion des déchets organiques.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Plans d'aménagement du chalet sanitaire.
+- [ ] Le bâtiment sanitaire (chalet de 20m²) construit et fonctionnel.
+- [ ] Le système HomeBiogas (2 toilettes + digesteur) installé et opérationnel.
+- [ ] Le réseau de biogaz raccordé à la cuisine commune.
+- [ ] Des douches et lavabos raccordés à la gestion de l'eau.
+
+## 4. Besoins Matériels à acquérir
+
+| Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
+| ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
+| Gros œuvre         | Chalet en kit de 20m² (structure, isolation) | ~8 000 €    | (À définir)                                                  |
+| Toilettes Biogaz   | Kit HomeBiogas 4 (2 toilettes + digesteur)   | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/bio-toilets/bio-toilet-kit-4-double/) |
+| Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.| ~1 500 €    | (À définir)                                                  |
+| Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~1 000 €    | (À définir)                                                  |
+
+## 5. Matériels déjà acquis
+- (À compléter si applicable, ex: outils de plomberie de base)
+
+## 6. Budget Prévisionnel
+- **Budget Total Maximum (Investissement) :** 15 000 €
+- **Gros Œuvre :** ~8 000 €
+- **Équipements & Plomberie :** ~5 700 €
+- **Marge / Imprévus :** ~1 300 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Commander le kit HomeBiogas.
+- [ ] Dessiner les plans d'aménagement du bloc sanitaire intégrant le digesteur.
+- [ ] Chiffrer et réaliser le gros œuvre du bâtiment.
+- [ ] Installer le système HomeBiogas en suivant les recommandations du fabricant.
+- [ ] Installer les douches et lavabos.
+- [ ] Réaliser tous les raccordements de plomberie (arrivée d'eau, évacuation vers la phytoépuration).
+- [ ] Raccorder la sortie de gaz du digesteur vers la cuisine.
+- [ ] Mettre en place la zone de traitement des effluents liquides du système (bassin de mulch).
+- [ ] Finitions. 

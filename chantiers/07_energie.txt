@@ -1,0 +1,41 @@
+# Chantier 7 : L'Énergie
+
+## 1. Description et But
+**Description :** Ce chantier est fondamental pour l'autonomie. Il englobe le choix, le dimensionnement et l'installation du système complet de production, de stockage et de distribution d'électricité pour l'ensemble du lieu.
+**But :** Assurer une alimentation électrique 100% autonome, fiable et suffisante pour les besoins des 5 résidents et de tous les équipements.
+
+## 2. Lien Social
+La gestion de l'énergie est une responsabilité partagée. Elle impose une conscience collective de la consommation et une adaptation des usages en fonction de la production (météo). C'est un apprentissage quotidien de la sobriété et de la planification.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Un bilan de puissance complet (liste de tous les appareils et estimation de la consommation).
+- [ ] Le système de production d'énergie (ex: panneaux solaires) installé et fonctionnel.
+- [ ] Le parc de batteries de stockage installé et fonctionnel.
+- [ ] Un réseau de distribution électrique sécurisé alimentant tous les bâtiments.
+
+## 4. Besoins Matériels à acquérir
+
+*Principe : Le matériel sera recherché en priorité d'occasion, reconditionné ou en déstockage pour optimiser le budget, tout en restant vigilant sur la qualité et les garanties.*
+
+| Catégorie          | Description                                  | Coût Estimé |
+| ------------------ | -------------------------------------------- | ----------- |
+| Production         | Panneaux solaires photovoltaïques (ex: 6kWc) | ~6 000 €    |
+| Stockage           | Batteries (ex: 10-15 kWh)                    | ~8 000 €    |
+| Conversion/Gestion | Onduleur, régulateur de charge, moniteur...  | ~3 000 €    |
+| Distribution       | Câbles, disjoncteurs, tableaux, prises...    | ~2 000 €    |
+
+## 6. Budget Prévisionnel
+- **Total Estimé :** ~19 000 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Lister tous les appareils électriques et estimer la consommation journalière (en Wh).
+- [ ] Calculer le pic de puissance nécessaire (en W).
+- [ ] Dimensionner la puissance des panneaux et la capacité des batteries sur la base de ces calculs.
+- [ ] Choisir les technologies et les fournisseurs.
+- [ ] Commander le matériel.
+- [ ] Installer les supports pour les panneaux (au sol ou sur toiture).
+- [ ] Installer les panneaux solaires.
+- [ ] Mettre en place le local technique (sécurisé et ventilé) pour les batteries et l'onduleur.
+- [ ] Installer les batteries et les connecter au régulateur/onduleur.
+- [ ] Tirer les câbles et créer le réseau de distribution vers chaque bâtiment.
+- [ ] Mettre en service et tester l'ensemble du système. 

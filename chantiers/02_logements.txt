@@ -1,0 +1,52 @@
+# Chantier 2 : Les Logements Individuels (Dômes)
+
+## 1. Description et But
+**Description :** Ce chantier couvre la conception, l'approvisionnement en matériaux et l'auto-construction de 5 dômes géodésiques servant de logements individuels minimalistes.
+**But :** Construire 5 unités d'habitation individuelles, fonctionnelles et durables pour un coût total de 75 000 €.
+
+## 2. Lien Social
+L'auto-construction des habitats est un projet d'équipe majeur. Il renforcera la cohésion, développera des compétences techniques communes et créera un attachement fort au lieu. Chaque dôme, bien qu'individuel, sera le fruit d'un travail collectif.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Plans de construction détaillés pour les dômes.
+- [ ] Liste complète des matériaux et des fournisseurs.
+- [ ] 5 dômes géodésiques assemblés, étanches et prêts à être aménagés.
+- [ ] Un rapport de suivi de la construction et du budget.
+
+## 4. Besoins Humains
+
+| Rôle / Compétence      | Interne / Externe | Statut                |
+| ---------------------- | ----------------- | --------------------- |
+| Coordinateur de chantier | Interne         | Membre fondateur      |
+| Auto-constructeurs (x5)| Interne           | Membres fondateurs    |
+| Expert en dômes (optionnel) | Externe     | Consultant / Formateur|
+
+## 4. Besoins Matériels à acquérir
+
+*Principe : La structure des dômes est auto-construite avec des matériaux neufs pour garantir la durabilité. Les ouvertures et l'outillage complémentaire seront recherchés d'occasion.*
+
+| Catégorie          | Description                                  | Coût Estimé |
+| ------------------ | -------------------------------------------- | ----------- |
+| Structure          | Bois, connecteurs métalliques, visserie...   | ~40 000 €   |
+| Couverture/Isolation| Toile étanche, isolant (liège, laine de bois...)| ~25 000 €   |
+| Ouvertures         | Portes, fenêtres (recherche occasion/déstockage) | ~2 500 €    |
+| Outillage (partiel)| Scies spécifiques, équipement de sécurité... | ~1 500 €    |
+
+## 5. Matériels déjà acquis
+- Outillage de base (visseuses, marteaux, etc.)
+
+## 6. Budget Prévisionnel
+- **Coût total des matériaux à acquérir :** ~69 000 €
+- **Formation / Conseil externe :** ~2 000 € (Optionnel)
+- **Total Estimé :** ~71 000 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Phase de recherche et de conception finale des dômes.
+- [ ] Établissement de la liste d'achats détaillée (sourcing).
+- [ ] Achat et réception de l'ensemble des matériaux.
+- [ ] Préparation du site (fondations légères si nécessaire).
+- [ ] Atelier de formation (si option retenue).
+- [ ] Phase d'assemblage des structures.
+- [ ] Phase de pose de la couverture et de l'isolation.
+- [ ] Installation des portes et fenêtres.
+- [ ] Finitions. 

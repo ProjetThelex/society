@@ -1,0 +1,59 @@
+# Chantier 8 : L'Eau
+
+## 1. Description et But
+**Description :** Ce chantier est le pilier de l'autonomie en eau. Il couvre l'ensemble du cycle : la collecte d'eau de pluie, son stockage, sa filtration et potabilisation, la production d'eau chaude, la distribution sur tout le terrain, et enfin le traitement écologique des eaux usées.
+**But :** Gérer l'intégralité du cycle de l'eau sur le terrain de manière écologique et résiliente, en fournissant eau froide et chaude pour 5 personnes.
+
+## 2. Lien Social
+La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une responsabilité collective. Elle implique une conscience de chaque litre utilisé et une participation active au maintien des systèmes (filtres, phytoépuration), renforçant le lien entre les résidents et leur environnement direct.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Un système de collecte et de stockage des eaux de pluie fonctionnel (ex: citernes).
+- [ ] Un système de filtration et de potabilisation de l'eau installé et validé (analyse de la qualité de l'eau).
+- [ ] Un réseau de plomberie distribuant l'eau aux points de besoin (cuisine, sanitaires).
+- [ ] Un système de phytoépuration pour le traitement des eaux grises (douches, cuisine) opérationnel.
+- [ ] Un système de production d'eau chaude sanitaire (ex: chauffe-eau solaire) fonctionnel.
+- [ ] Un réseau de plomberie général distribuant l'eau sur le terrain.
+
+## 4. Besoins Matériels à acquérir
+
+| Catégorie                  | Sous-catégorie / Équipement                  | Coût Estimé |
+| -------------------------- | -------------------------------------------- | ----------- |
+| **Collecte & Stockage**    |                                              | **~4 000 €**|
+|                            | Gouttières + collecteurs pour 4-5 bâtiments  | ~800 €      |
+|                            | Cuves de récupération (2 x 10 000L)            | ~3 200 €    |
+| **Filtration/Potabilisation**|                                            | **~1 700 €**|
+|                            | Pré-filtration (cyclonique, crépines)        | ~300 €      |
+|                            | Pompe surpresseur pour le réseau             | ~400 €      |
+|                            | Filtres (sédiments, charbon actif)           | ~500 €      |
+|                            | Stérilisateur à lampe UV                     | ~500 €      |
+| **Production Eau Chaude**  |                                              | **~2 500 €**|
+|                            | Chauffe-eau solaire (panneau + ballon 200L)  | ~2 000 €    |
+|                            | Mitigeur thermostatique, plomberie dédiée    | ~500 €      |
+| **Réseau de Plomberie**    |                                              | **~2 000 €**|
+|                            | Réseau primaire enterré (PEHD)               | ~800 €      |
+|                            | Réseau secondaire (multicouche/PER)          | ~700 €      |
+|                            | Raccords, vannes, nourrices, outillage       | ~500 €      |
+| **Traitement Eaux Usées**  |                                              | **~2 000 €**|
+|                            | Bâche EPDM pour bassins de phytoépuration    | ~800 €      |
+|                            | Granulats, sable, drains                     | ~700 €      |
+|                            | Plantes épuratrices (roseaux, iris, etc.)    | ~500 €      |
+
+## 5. Matériels déjà acquis
+- (À compléter si applicable)
+
+## 6. Budget Prévisionnel
+- **Analyse de la qualité de l'eau (labo) :** ~200 €
+- **Total Investissement Matériel Estimé :** ~12 200 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Estimer les besoins journaliers en eau (froide et chaude).
+- [ ] Dimensionner le stockage (pluviométrie) et le chauffe-eau solaire.
+- [ ] Installer les gouttières et les citernes.
+- [ ] Installer la station de pompage et de filtration.
+- [ ] Installer le chauffe-eau solaire et son circuit.
+- [ ] Faire analyser l'eau par un laboratoire pour valider la potabilité.
+- [ ] Déployer le réseau de plomberie général sur le terrain.
+- [ ] Raccorder chaque bâtiment (cuisine, sanitaires).
+- [ ] Construire le système de phytoépuration (bassins, plantation).
+- [ ] Raccorder les évacuations d'eaux grises au système de traitement. 

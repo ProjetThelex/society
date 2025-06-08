@@ -1,0 +1,44 @@
+# Chantier 9 : L'Alimentation
+
+## 1. Description et But
+**Description :** Ce chantier a pour but de développer la capacité du lieu à produire une partie significative de sa propre nourriture. Il s'appuie sur les principes de la permaculture pour créer un écosystème productif, résilient et respectueux du vivant.
+**But :** Atteindre un niveau élevé d'autonomie alimentaire en fruits et légumes, tout en régénérant les sols et en favorisant la biodiversité.
+
+## 2. Lien Social
+Le jardinage collectif est une activité profondément fédératrice. Elle connecte les résidents à la terre, aux saisons et au cycle de la vie. C'est une source de satisfaction, d'apprentissage constant et de partage, depuis le travail de la terre jusqu'à la récolte et la transformation des aliments.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Le design en permaculture de la zone de production (potager, verger...).
+- [ ] Une zone de potager initial de 100-200m² mise en culture.
+- [ ] Une serre pour les semis et les cultures fragiles.
+- [ ] Un espace de stockage/conservation des récoltes (cellier, cave).
+
+## 4. Besoins Matériels à acquérir
+
+| Catégorie          | Description                                  | Coût Estimé |
+| ------------------ | -------------------------------------------- | ----------- |
+| Amendements/Sols   | Compost, paillage, fumier...                 | ~500 €      |
+| Semences/Plants    | Achat des premières semences paysannes/bio et plants | ~500 €      |
+| Outillage (partiel)| Grelinette, outils spécifiques...            | ~500 €      |
+| Serre              | Structure et bâche pour une serre de 20-30m² | ~1 500 €    |
+| Irrigation         | Tuyaux, goutte-à-goutte, récupérateurs d'eau | ~500 €      |
+| Poulailler (option)| Grillage, abri pour quelques poules          | ~500 €      |
+
+## 5. Matériels déjà acquis
+- Outillage de base du jardinier (pelles, râteaux, brouette...)
+
+## 6. Budget Prévisionnel
+- **Total Estimé à acquérir (sans poulailler) :** ~3 500 €
+- **Total Estimé à acquérir (avec poulailler) :** ~4 000 €
+
+## 7. Plan d'Action / Tâches
+- [ ] Analyser le terrain (ensoleillement, vents, points d'eau) et réaliser le design en permaculture.
+- [ ] Définir le plan de culture (quelles variétés, en quelle quantité, calendrier).
+- [ ] Préparer les zones de culture (décompacter sans retourner, amender).
+- [ ] Monter la serre.
+- [ ] Installer le système d'irrigation.
+- [ ] Commander/acheter les semences et les plants.
+- [ ] Phase de semis (en serre et en pleine terre) et de plantation.
+- [ ] Mettre en place le paillage.
+- [ ] (Optionnel) Construire le poulailler et accueillir les poules.
+- [ ] Aménager la zone de conservation des récoltes. 

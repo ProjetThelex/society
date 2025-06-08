@@ -1,0 +1,46 @@
+# Chantier 6 : L'Espace de Coworking
+
+## 1. Description et But
+**Description :** Ce chantier consiste à aménager un espace de travail partagé, calme et fonctionnel, doté d'une connexion internet fiable pour permettre aux 5 résidents de mener à bien leurs activités professionnelles.
+**But :** Créer un bureau partagé qui favorise la concentration et la productivité, tout en étant distinct des espaces de vie pure.
+
+## 2. Lien Social
+Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la dimension "coworking" de l'éco-lieu. C'est un espace qui facilite les synergies professionnelles, l'entraide et la séparation symbolique entre le temps de travail et le temps personnel.
+
+## 3. Objectifs Clés / Livrables
+- [ ] Un espace de travail aménagé pour 5 personnes.
+- [ ] Une connexion internet stable et fonctionnelle.
+- [ ] Mobilier de bureau ergonomique.
+
+## 4. Besoins Matériels à acquérir
+
+*Principe : Sauf pour la structure et le kit internet, tous les équipements seront recherchés d'occasion ou auto-construits.*
+
+| Catégorie          | Description                                  | Coût Estimé |
+| ------------------ | -------------------------------------------- | ----------- |
+| Gros œuvre         | Matériaux si bâtiment dédié (Habitat léger)  | ~11 000 €   |
+| Connexion Internet | Kit satellite (Starlink, etc.), routeur...   | ~500 €      |
+| Mobilier           | 5 bureaux, 5 chaises ergo, rangements        | ~800 €      |
+| Électricité/Réseau | Câblage, prises, éclairage...                | ~500 €      |
+
+## 5. Matériels déjà acquis
+- (À compléter si applicable, ex: chaises, bureaux, etc.)
+
+## 6. Budget Prévisionnel
+- **Budget d'investissement maximum :** 15 000 €
+- **Gros Œuvre :** ~11 000 €
+- **Aménagement & Connexion :** ~1 800 €
+- **Marge / Imprévus :** ~2 200 €
+---
+- **Coûts récurrents :**
+  - **Abonnement Internet :** ~50-100 €/mois
+
+## 7. Plan d'Action / Tâches
+- [ ] Choisir la solution d'accès à Internet et la commander.
+- [ ] Définir si l'espace est un bâtiment dédié ou une partie d'un autre.
+- [ ] Dessiner les plans d'aménagement (position des bureaux, etc.).
+- [ ] Phase de construction ou d'aménagement du gros œuvre.
+- [ ] Installation de la connexion Internet et du réseau local.
+- [ ] Installation du réseau électrique.
+- [ ] Achat et montage du mobilier.
+- [ ] Aménagement final. 

@@ -1,0 +1,83 @@
+# Projet d'Éco-lieu de Coworking Autonome
+
+## 1. Concept
+Création d'un éco-lieu de vie et de travail 100% autonome pour 5 personnes, basé sur le principe de logements individuels minimalistes et d'espaces communs maximisés pour favoriser la collaboration et le partage.
+
+## 2. Objectifs d'Autonomie
+Définition de ce que "100% autonome" implique pour le projet :
+- **Autonomie Énergétique :** Production, stockage et gestion de l'électricité.
+- **Autonomie en Eau :** Collecte, filtration, utilisation et retraitement des eaux.
+- **Autonomie Alimentaire :** Production de la majorité des denrées nécessaires sur le lieu.
+- **Autonomie en gestion des déchets :** Compostage, recyclage et réduction à la source.
+
+## 3. Budget & Financement
+- **Apport annuel :** 60 000 € (via la SARL)
+- **Coûts principaux identifiés :**
+    - Achat du terrain
+    - Coût de construction des 5 dômes géodésiques : 75 000 € (15 000 € x 5)
+
+### Note sur les Bâtiments Communs
+Toutes les infrastructures (cuisine, sanitaires, etc.) seront des habitats légers (type dôme, chalet, etc.). Le coût de construction de chaque bâtiment commun et de l'atelier est plafonné à 15 000 € chacun.
+
+## 4. Plan de Réalisation : Les Grands Chantiers
+
+### a. Chantier 1 : Le Terrain
+- [ ] Recherche et sélection du terrain :
+    - **Superficie :** 2 hectares minimum
+    - **Localisation :** Sud-Ouest de la France ou Sud du Massif Central
+    - **Critères :** Accès à l'eau, réglementation d'urbanisme, etc.
+- [ ] Analyse du sol et de l'environnement
+- [ ] Acquisition
+
+### b. Chantier 2 : Les Logements Individuels (Dômes)
+- **Logements individuels (x5) :**
+    - **Type :** Dômes géodésiques
+    - **Coût de construction :** 15 000 € par unité (Total : 75 000 €)
+    - [ ] Conception détaillée et plans
+    - [ ] Sourcing et achat des matériaux
+    - [ ] Auto-construction des 5 dômes
+
+### c. Chantier 3 : La Cuisine Commune
+- [ ] Conception et plans du bâtiment/de l'espace cuisine
+- [ ] Construction du bâtiment
+- [ ] Aménagement et équipement (plan de travail, cuisson, stockage...)
+
+### d. Chantier 4 : Les Sanitaires Communs
+- [ ] Conception et plans (douches, toilettes sèches, lavabos)
+- [ ] Construction du bâtiment
+- [ ] Plomberie et raccordement au système de gestion de l'eau
+
+### e. Chantier 5 : L'Espace de Vie Commun
+- [ ] Conception et plans du bâtiment/de l'espace
+- [ ] Construction du bâtiment
+- [ ] Aménagement (mobilier, poêle à bois, etc.)
+
+### f. Chantier 6 : L'Espace de Coworking
+- [ ] Conception et plans de l'espace de travail
+- [ ] Construction du bâtiment
+- [ ] Aménagement de l'espace (mobilier, équipements)
+- [ ] Installation de la connexion Internet (satellite, 4G/5G en fonction du lieu)
+
+### g. Chantier 7 : L'Énergie
+- [ ] Choix de la source de production (panneaux solaires, éolien, etc.)
+- [ ] Dimensionnement de l'installation (calcul des besoins)
+- [ ] Installation du système de production
+- [ ] Installation du système de stockage (batteries)
+- [ ] Mise en place du réseau de distribution
+
+### h. Chantier 8 : L'Eau
+- [ ] Choix de la source (récupération d'eau de pluie, puits, source...)
+- [ ] Installation du système de collecte et de stockage (citernes)
+- [ ] Installation du système de filtration et de potabilisation
+- [ ] Mise en place du réseau de plomberie
+- [ ] Installation du système de gestion des eaux usées (phytoépuration, etc.)
+
+### i. Chantier 9 : L'Alimentation
+- [ ] Conception de l'espace de production (potager en permaculture, serre, etc.)
+- [ ] Préparation des sols et premiers semis/plantations
+- [ ] Mise en place d'un poulailler (optionnel)
+- [ ] Création de l'espace de stockage (cave, cellier)
+
+### j. Chantier 10 : L'Atelier (Container)
+- [ ] Acquisition et aménagement d'un container maritime
+- [ ] Équipement en outils pour le bois, le métal et la maintenance générale
