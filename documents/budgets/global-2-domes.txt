@@ -1,4 +1,4 @@
-# Synthèse Budgétaire pour un Lancement à 2 Personnes
+# Synthèse Budgétaire à 2 Domes
 
 Ce document est une simulation du budget total pour une version "allégée" du projet, conçue pour 2 personnes.
 
