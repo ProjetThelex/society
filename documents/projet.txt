@@ -1,4 +1,4 @@
-# Projet d'Éco-lieu de Coworking Autonome
+# Projet Coworking Autonome en milieu naturelle
 
 ## 1. Concept
 Création d'un éco-lieu de vie et de travail 100% autonome pour 5 personnes, basé sur le principe de logements individuels minimalistes et d'espaces communs maximisés pour favoriser la collaboration et le partage.

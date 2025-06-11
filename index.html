@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Mon Projet</title>
+		<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+			rel="stylesheet"
+		/>
+		<style>
+			:root {
+				--background-color: #f7f7f7;
+				--menu-background: #1c1c1e;
+				--content-background: #ffffff;
+				--primary-text-color: #1d1d1f;
+				--secondary-text-color: #6e6e73;
+				--menu-text-color: #f5f5f7;
+				--accent-color: #007aff;
+				--border-color: #e5e5e5;
+				--shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+			}
+			* {
+				box-sizing: border-box;
+			}
+			body {
+				font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+					sans-serif;
+				margin: 0;
+				background-color: var(--background-color);
+				color: var(--primary-text-color);
+				display: flex;
+				height: 100vh;
+				overflow: hidden;
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+			#menu-button {
+				position: fixed;
+				top: 20px;
+				left: 20px;
+				z-index: 1001;
+				background: rgba(255, 255, 255, 0.8);
+				backdrop-filter: blur(10px);
+				border: 1px solid var(--border-color);
+				color: var(--primary-text-color);
+				padding: 8px 12px;
+				border-radius: 8px;
+				cursor: pointer;
+				font-size: 22px;
+				transition: all 0.2s ease;
+				box-shadow: var(--shadow);
+			}
+			#menu-button:hover {
+				transform: scale(1.05);
+				background: white;
+			}
+			#nav-menu {
+				width: 300px;
+				flex-shrink: 0;
+				height: 100%;
+				background: var(--menu-background);
+				color: var(--menu-text-color);
+				padding: 20px 0;
+				position: fixed;
+				top: 0;
+				left: 0;
+				transform: translateX(-100%);
+				transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+				z-index: 1000;
+				overflow-y: auto;
+				border-right: 1px solid #3a3a3c;
+			}
+			#nav-menu.open {
+				transform: translateX(0);
+			}
+			#nav-menu h2 {
+				padding: 15px 25px;
+				font-size: 0.9em;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				color: var(--secondary-text-color);
+				margin: 10px 0 5px;
+			}
+			#nav-menu ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			#nav-menu a {
+				display: block;
+				padding: 10px 25px;
+				margin: 2px 10px;
+				color: var(--menu-text-color);
+				text-decoration: none;
+				transition: all 0.2s ease;
+				border-radius: 6px;
+				font-weight: 500;
+			}
+			#nav-menu a:hover {
+				background: #3a3a3c;
+			}
+			#nav-menu a.active {
+				background-color: var(--accent-color);
+				color: white;
+			}
+			#content-container {
+				flex-grow: 1;
+				overflow-y: auto;
+				height: 100vh;
+				padding: 40px 60px;
+				transition: margin-left 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+			}
+			#content {
+				max-width: 800px;
+				margin: 0 auto;
+				line-height: 1.7;
+			}
+			#content h1,
+			#content h2,
+			#content h3,
+			#content h4 {
+				font-weight: 700;
+				color: var(--primary-text-color);
+				margin-top: 1.5em;
+			}
+			#content h1 {
+				font-size: 2.5em;
+				margin-bottom: 0.5em;
+			}
+			#content h2 {
+				font-size: 2em;
+				border-bottom: 1px solid var(--border-color);
+				padding-bottom: 0.3em;
+			}
+			#content h3 {
+				font-size: 1.5em;
+			}
+			#content p {
+				margin-bottom: 1.2em;
+			}
+			#content ul {
+				padding-left: 25px;
+			}
+			#content li {
+				margin-bottom: 0.5em;
+			}
+			#content strong {
+				font-weight: 600;
+			}
+			#content blockquote {
+				border-left: 3px solid var(--accent-color);
+				margin-left: 0;
+				padding-left: 20px;
+				color: var(--secondary-text-color);
+			}
+			#content table {
+				border-collapse: collapse;
+				width: 100%;
+				margin: 30px 0;
+				box-shadow: var(--shadow);
+				border-radius: 8px;
+				overflow: hidden;
+			}
+			#content th,
+			#content td {
+				border: none;
+				padding: 12px 15px;
+				border-bottom: 1px solid var(--border-color);
+			}
+			#content th {
+				background-color: #f9f9f9;
+				font-weight: 600;
+			}
+			::-webkit-scrollbar {
+				width: 8px;
+			}
+			::-webkit-scrollbar-track {
+				background: transparent;
+			}
+			::-webkit-scrollbar-thumb {
+				background: #ccc;
+				border-radius: 4px;
+			}
+			::-webkit-scrollbar-thumb:hover {
+				background: #bbb;
+			}
+
+			@media (min-width: 1024px) {
+				#menu-button {
+					display: none;
+				}
+				#nav-menu {
+					transform: translateX(0);
+					position: relative;
+					padding-top: 0;
+				}
+				#content-container {
+					margin-left: 0;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<button id="menu-button">☰</button>
+
+		<nav id="nav-menu">
+			<h2>Documents</h2>
+			<ul>
+				<li><a href="#" data-file="projet.txt" class="active">Coworking en milieu naturelle</a></li>
+			</ul>
+			<h2>Budgets</h2>
+			<ul>
+				<li><a href="#" data-file="budgets/global-2-domes.txt">V1 - 2 Dômes</a></li>
+				<li><a href="#" data-file="budgets/global-5-domes.txt">V2 - 5 Dômes</a></li>
+			</ul>
+			<h2>Chantiers</h2>
+			<ul>
+				<li><a href="#" data-file="chantiers/01_terrain.txt">1. Terrain</a></li>
+				<li><a href="#" data-file="chantiers/02_logements.txt">2. Logements</a></li>
+				<li><a href="#" data-file="chantiers/03_cuisine.txt">3. Cuisine</a></li>
+				<li><a href="#" data-file="chantiers/04_sanitaires.txt">4. Sanitaires</a></li>
+				<li><a href="#" data-file="chantiers/05_viesociale.txt">5. Vie Sociale</a></li>
+				<li><a href="#" data-file="chantiers/06_coworking.txt">6. Coworking</a></li>
+				<li><a href="#" data-file="chantiers/07_energie.txt">7. Énergie</a></li>
+				<li><a href="#" data-file="chantiers/08_eau.txt">8. Eau</a></li>
+				<li><a href="#" data-file="chantiers/09_alimentation.txt">9. Alimentation</a></li>
+				<li><a href="#" data-file="chantiers/10_atelier.txt">10. Atelier</a></li>
+			</ul>
+		</nav>
+
+		<main id="content-container">
+			<div id="content"></div>
+		</main>
+
+		<script>
+			const menuButton = document.getElementById("menu-button");
+			const navMenu = document.getElementById("nav-menu");
+			const contentDiv = document.getElementById("content");
+			const contentContainer = document.getElementById("content-container");
+
+			function toggleMenu() {
+				navMenu.classList.toggle("open");
+			}
+
+			menuButton.addEventListener("click", toggleMenu);
+
+			function renderCheckboxes(markdown) {
+				return markdown
+					.replace(/\[ \]/g, '<input type="checkbox" disabled>')
+					.replace(/\[x\]/gi, '<input type="checkbox" checked disabled>')
+					.replace(/\[-\]/g, '<input type="checkbox" indeterminate disabled>');
+			}
+
+			async function loadContent(file) {
+				try {
+					const filePath = `documents/${file}`;
+					const response = await fetch(`${filePath}?v=${new Date().getTime()}`);
+					if (!response.ok) throw new Error(`Fichier non trouvé: ${file}`);
+
+					let text = await response.text();
+					text = renderCheckboxes(text);
+
+					contentDiv.innerHTML = marked.parse(text);
+
+					const firstHeading = contentDiv.querySelector("h1");
+					document.title = firstHeading ? firstHeading.textContent : "Mon Projet";
+
+					contentContainer.scrollTop = 0;
+				} catch (error) {
+					contentDiv.innerHTML = `<p style="color: red;"><strong>Erreur :</strong> ${error.message}</p>`;
+				}
+			}
+
+			navMenu.addEventListener("click", (event) => {
+				if (event.target.tagName === "A") {
+					event.preventDefault();
+					const file = event.target.dataset.file;
+					if (file) {
+						navMenu.querySelectorAll("a").forEach((link) => link.classList.remove("active"));
+						event.target.classList.add("active");
+						loadContent(file);
+					}
+					if (window.innerWidth < 1024) {
+						toggleMenu();
+					}
+				}
+			});
+
+			document.addEventListener("DOMContentLoaded", () => {
+				loadContent("projet.txt");
+			});
+		</script>
+	</body>
+</html>
