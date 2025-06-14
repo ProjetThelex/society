@@ -22,9 +22,9 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 | ------------------ | -------------------------------------------- | ----------- |
 | Structure          | Container maritime 20 pieds (occasion)       | ~3 000 €    |
 | Transport/Grutage  | Livraison et mise en place du container      | ~1 500 €    |
-| Aménagement        | Électricité, ouvertures                      | ~1 000 €    |
-| Équipement/Mobilier| Établi, rangements, étau...                  | ~1 000 €    |
-| Outillage spécifique| Équipements spécialisés (ex: poste à souder) | ~1 000 €    | (Achat groupé, occasion)                                     |
+| Aménagement        | Électricité, ouvertures                      | ~500 €     |
+| Équipement/Mobilier| Établi, rangements, étau...                  | ~500 €     |
+| Outillage spécifique| Équipements spécialisés (ex: poste à souder) | ~500 €     | (Achat groupé, occasion)                                     |
 
 ## 5. Besoins Énergétiques
 *Estimations pour les jours de forte utilisation de l'atelier.*
@@ -40,9 +40,9 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 - Perceuse, visseuse, meuleuse...
 
 ## 7. Budget Prévisionnel
-- **Budget Total Maximum (Investissement) :** 15 000 €
-- **Total Estimé à acquérir :** ~11 000 €
-- **Marge / Imprévus :** ~4 000 €
+- **Budget Total Maximum (Investissement) :** 9 000 €
+- **Total Estimé à acquérir :** ~6 500 €
+- **Marge / Imprévus :** ~2 000 €
 
 ## 8. Plan d'Action / Tâches
 - [ ] Rechercher les fournisseurs de containers d'occasion (20 pieds).

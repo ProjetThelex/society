@@ -18,10 +18,10 @@ La gestion partagée d'équipements aussi essentiels que les sanitaires est un e
 
 | Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
 | ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
-| Structure          | Chalet NANTES (24m², isolation incluse)      | ~7 000 €    | https://www.chaletdejardin.fr/abri-de-jardin-en-bois-nantes-34-mm-6x4-7-m-24-m2-3-5-m2-terrasse.html |
+| Structure          | Abri BRETA (9m², 28mm, 3x3m) x2 | ~7 600 €    | [chaletdejardin.fr](https://www.chaletdejardin.fr/abri-de-jardin-bretagne-28-mm-3x3-m-9-m.html) |
 | Toilettes Biogaz   | Kit HomeBiogas 4 (2 toilettes + digesteur)   | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/bio-toilets/bio-toilet-kit-4-double/) |
-| Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.| ~1 500 €    | (À définir)                                                  |
-| Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~1 000 €    | (À définir)                                                  |
+| Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.| ~1 000 €    | (À définir)                                                  |
+| Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~500 €    | (À définir)                                                  |
 | Chauffage          | Poêle de masse rocket (auto-construit)       | ~500 €      | (Briques réfractaires, bidon, tube, terre...)                |
 
 ## 5. Besoins Énergétiques
@@ -37,10 +37,10 @@ La gestion partagée d'équipements aussi essentiels que les sanitaires est un e
 - (À compléter si applicable, ex: outils de plomberie de base)
 
 ## 7. Budget Prévisionnel
-- **Budget Total Maximum (Investissement) :** 15 000 €
-- **Structure (Chalet) :** ~7 000 €
-- **Équipements & Plomberie :** ~6 200 €
-- **Marge / Imprévus :** ~1 800 €
+- **Budget Total Maximum (Investissement) :** 13 800 €
+- **Structure (2 abris BRETA) :** ~7 600 €
+- **Équipements & Plomberie :** ~5 200 €
+- **Marge / Imprévus :** ~1 000 €
 
 ## 8. Plan d'Action / Tâches
 - [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).

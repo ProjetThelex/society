@@ -30,7 +30,7 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 |                            | Pompe surpresseur pour le réseau             | ~300 €      |
 | **Production Eau Chaude**  |                                              | **~800 €**  |
 |                            | Chauffe-eau solaire (DIY)                    | ~500 €      |
-|                            | Boiler électrique 200L (Occasion d'appoint)  | ~300 €      |
+|                            | Chauffe-eau gaz (alimenté par biogaz toilettes) | ~300 €      |
 | **Réseau de Plomberie**    |                                              | **~500 €**  |
 |                            | Réseau primaire et secondaire                | ~400 €      |
 |                            | Raccords, vannes, outillage                  | ~100 €      |
@@ -44,7 +44,7 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 | Pompe de récupération (pluie) | 750           | 0.5            | 375                    |
 | Pompe de distribution       | 500           | 1              | 500                    |
 | Filtration UV               | 40            | 24             | 960                    |
-| **Total estimé**            |               |                | **~7835**              |
+| **Total estimé**            |               |                | **~1835**              |
 
 ## 6. Matériels déjà acquis
 - (À compléter si applicable)
@@ -55,12 +55,12 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 
 ## 8. Plan d'Action / Tâches
 - [ ] Estimer les besoins journaliers en eau (froide et chaude).
-- [ ] Dimensionner le stockage, le chauffe-eau solaire et le boiler d'appoint.
+- [ ] Dimensionner le stockage, le chauffe-eau solaire et le chauffe-eau gaz.
 - [ ] Sourcer et acheter l'ensemble du matériel (cuve, filtres, boiler...).
 - [ ] Réaliser le terrassement pour la cuve.
 - [ ] Installer le système de filtration complet (3 étages + UV) et le pompage.
 - [ ] Construire et installer le chauffe-eau solaire DIY.
-- [ ] Installer le boiler électrique et raccorder les systèmes.
+- [ ] Installer le chauffe-eau gaz et raccorder au biogaz des toilettes.
 - [ ] Réaliser les tests de qualité de l'eau.
 - [ ] Mise en service complète.
 - [ ] **Note :** Définir une solution pour le traitement des eaux grises. 

@@ -9,14 +9,13 @@ Ce document est une simulation du budget total pour une version "allégée" du p
 | 01 - Terrain              | ~111 750 €        |
 | 02 - Logements            | ~33 800 €         |
 | 03 - Cuisine              | ~15 000 €         |
-| 04 - Sanitaires           | ~15 000 €         |
-| 05 - Vie Sociale (Dôme)   | ~15 000 €         |
-| 06 - Coworking            | ~15 000 €         |
-| 07 - Énergie              | ~21 500 €         |
-| 08 - Eau                  | ~7 650 €          |
+| 04 - Sanitaires           | ~8 500 €          |
+| 06 - Coworking            | ~11 000 €         |
+| 07 - Énergie              | ~15 500 €         |
+| 08 - Eau                  | ~3 900 €          |
 | 09 - Alimentation         | ~4 500 €          |
-| 10 - Atelier              | ~15 000 €         |
-| **TOTAL GÉNÉRAL PROJET**  | **~254 200 €**    |
+| 10 - Atelier              | ~9 000 €          |
+| **TOTAL GÉNÉRAL PROJET**  | **~205 950 €**    |
 
 ---
 
@@ -40,35 +39,32 @@ Ce document est une simulation du budget total pour une version "allégée" du p
 - **Marge / Imprévus :** ~4 150 €
 - **TOTAL CHANTIER :** **~15 000 €**
 
-### 04 - Sanitaires (inchangé)
-- **Coûts directs :** ~13 200 €
-- **Marge / Imprévus :** ~1 800 €
-- **TOTAL CHANTIER :** **~15 000 €**
-
-### 05 - Vie Sociale (inchangé)
-- **Coûts directs :** ~9 650 €
-- **Marge / Imprévus :** ~5 350 €
-- **TOTAL CHANTIER :** **~15 000 €**
+### 04 - Sanitaires
+- **Coûts directs :** ~3 800 € (structure) + ~3 200 € (équipements) + ~500 € (plomberie)
+- **Marge / Imprévus :** ~1 000 €
+- **TOTAL CHANTIER :** **~8 500 €**
 
 ### 06 - Coworking (2 postes)
-- **Coûts directs :** ~11 500 €
-  - *Structure (Chalet) : ~9 999 €*
-  - *Mobilier, Connexion & Sécurité : ~1 500 €*
-- **Marge / Imprévus :** ~3 500 €
-- **TOTAL CHANTIER :** **~15 000 €**
+- **Coûts directs :** ~9 999 € (structure) + ~500 € (câblage, alarme, serrure)
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~11 000 €**
 
 ### 07 - Énergie (redimensionné)
-- **Besoin estimé :** ~14.8 kWh/jour
-- **Coûts directs :** ~21 500 €
-  - *Production (Panneaux ~8 kWc) : ~7 000 €*
-  - *Stockage (Batteries ~20 kWh) : ~8 000 €*
-  - *Secours & Gestion : ~4 500 €*
-  - *Distribution : ~2 000 €*
-- **TOTAL CHANTIER :** **~21 500 €**
+- **Besoin estimé :** ~12 kWh/jour
+- **Coûts directs :** ~15 500 €
+  - *Production (Panneaux ~6 kWc) : ~5 000 €*
+  - *Stockage (Batteries ~15 kWh) : ~6 000 €*
+  - *Secours & Gestion : ~3 000 €*
+  - *Distribution : ~1 500 €*
+- **TOTAL CHANTIER :** **~15 500 €**
 
-### 08 - Eau (inchangé)
-- **Coûts directs :** ~7 650 €
-- **TOTAL CHANTIER :** **~7 650 €**
+### 08 - Eau
+- **Coûts directs :** ~3 900 €
+  - *Collecte & Stockage : ~1 350 €*
+  - *Filtration & Pompage : ~1 150 €*
+  - *Production Eau Chaude : ~500 €*
+  - *Réseau & Analyse : ~450 €*
+- **TOTAL CHANTIER :** **~3 900 €**
 
 ### 09 - Alimentation (adapté)
 - **Coûts directs :** ~4 000 €
@@ -78,7 +74,7 @@ Ce document est une simulation du budget total pour une version "allégée" du p
 - **Marge / Imprévus :** ~500 €
 - **TOTAL CHANTIER :** **~4 500 €**
 
-### 10 - Atelier (inchangé)
-- **Coûts directs :** ~7 500 €
-- **Marge / Imprévus :** ~7 500 €
-- **TOTAL CHANTIER :** **~15 000 €** 
+### 10 - Atelier
+- **Coûts directs :** ~6 500 €
+- **Marge / Imprévus :** ~2 500 €
+- **TOTAL CHANTIER :** **~9 000 €** 
