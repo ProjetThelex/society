@@ -1,0 +1,54 @@
+# 04. Agrandissement (Ajout de 10 postes)
+
+Cette phase intermédiaire vise à ajouter 10 postes de travail, portant la capacité totale à 15. Elle se concentre sur l'extension du coworking et le redimensionnement des infrastructures critiques (sanitaires, énergie, eau) pour soutenir cette croissance. Un nouveau dôme social est ajouté pour maintenir la qualité de vie.
+
+## Budget Total Prévisionnel - Phase Agrandissement
+
+| Chantier                            | Coût Additionnel Estimé |
+| ----------------------------------- | ----------------------- |
+| 04 - Sanitaires (+10p)              | ~7 500 €                |
+| 05 - Vie Sociale (Dôme 2)           | ~7 150 €                |
+| 06 - Coworking (+10 postes)         | ~10 800 €               |
+| 07 - Énergie (+10p)                 | ~10 150 €               |
+| 08 - Eau (réserve x2)               | ~3 000 €                |
+| **TOTAL PHASE AGRANDISSEMENT**      | **~38 600 €**           |
+
+---
+
+## Détail par Chantier - Phase Agrandissement
+
+### 04 - Sanitaires (ajout 10p)
+- **Objectif:** Ajouter une capacité pour 10 personnes supplémentaires.
+- **Coûts directs:**
+  - 1x Kit "Bio-Toilet" HomeBiogas: ~3 200 €
+  - 1x Abri BRETA (9m²): ~3 800 €
+  - Plomberie et aménagement: ~500 €
+- **TOTAL CHANTIER :** **~7 500 €**
+
+### 05 - Vie Sociale (ajout d'un 2ème Dôme)
+- **Objectif:** Maintenir un espace de détente suffisant pour 10 résidents supplémentaires.
+- **Coûts directs:**
+  - 1x Dôme géodésique + Fondations: ~6 250 €
+  - Aménagement (mobilier, déco): ~900 €
+- **TOTAL CHANTIER :** **~7 150 €**
+
+### 06 - Coworking (ajout 10 postes)
+- **Objectif:** Agrandir l'espace de 40m² et l'équiper pour 10 postes supplémentaires.
+- **Coûts directs:**
+  - Structure 40m² (type Chalet ANGERS S): ~10 000 €
+  - 10x Postes de travail (occasion/neuf): ~800 €
+- **TOTAL CHANTIER :** **~10 800 €**
+
+### 07 - Énergie (redimensionnement pour +10p)
+- **Objectif:** Augmenter la production et le stockage pour couvrir les besoins de 10 personnes supplémentaires.
+- **Coûts directs:**
+  - Panneaux solaires (~7.5 kWc): ~6 250 €
+  - Batteries Lithium (~10 kWh): ~3 900 €
+- **TOTAL CHANTIER :** **~10 150 €**
+
+### 08 - Eau (doublement de la réserve)
+- **Objectif:** Augmenter la sécurité hydrique pour 10 personnes supplémentaires et le potager.
+- **Coûts directs:**
+  - 1x Cuve de récupération 10 000L: ~2 700 €
+  - Raccordements et plomberie: ~300 €
+- **TOTAL CHANTIER :** **~3 000 €**

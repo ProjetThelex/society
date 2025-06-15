@@ -1,8 +1,8 @@
-# Chantier 4 : Les Sanitaires Communs
+# Chantier 4 : Les Sanitaires
 
 ## 1. Description et But
-**Description :** Ce chantier a pour objet la mise en place d'installations sanitaires collectives dans un chalet en kit de 20m². Le cœur du système sera un kit "HomeBiogas" qui traite les effluents humains pour produire du biogaz, utilisé pour la cuisine. Les équipements (douches, lavabos) seront également écologiques et économes en eau.
-**But :** Assurer l'hygiène, le confort, et transformer les effluents en ressource (gaz de cuisson), tout en s'intégrant dans le cycle de l'eau autonome du lieu.
+**Description :** Ce chantier a pour objet la mise en place de deux bâtiments sanitaires (toilettes et salles de bain) pour une capacité de 15 personnes. Le cœur du système sera des kits "HomeBiogas" qui traitent les effluents humains pour produire du biogaz.
+**But :** Assurer l'hygiène, le confort pour 15 personnes, et transformer les effluents en ressource (gaz de cuisson), tout en s'intégrant dans le cycle de l'eau autonome du lieu.
 
 ## 2. Lien Social
 La gestion partagée d'équipements aussi essentiels que les sanitaires est un exercice de responsabilité collective. Le choix de technologies comme les toilettes sèches a un impact direct sur les routines quotidiennes et l'implication de chacun dans la gestion des déchets organiques.
@@ -16,30 +16,31 @@ La gestion partagée d'équipements aussi essentiels que les sanitaires est un e
 
 ## 4. Besoins Matériels à acquérir
 
-| Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
-| ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
-| Structure          | Abri BRETA (9m², 28mm, 3x3m) x2 | ~7 600 €    | [chaletdejardin.fr](https://www.chaletdejardin.fr/abri-de-jardin-bretagne-28-mm-3x3-m-9-m.html) |
-| Toilettes Biogaz   | Kit HomeBiogas 4 (2 toilettes + digesteur)   | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/bio-toilets/bio-toilet-kit-4-double/) |
-| Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.| ~1 000 €    | (À définir)                                                  |
-| Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~500 €    | (À définir)                                                  |
-| Chauffage          | Poêle de masse rocket (auto-construit)       | ~500 €      | (Briques réfractaires, bidon, tube, terre...)                |
+| Catégorie          | Description                                     | Coût Estimé | Fournisseur / Lien                                 |
+| ------------------ | ----------------------------------------------- | ----------- | -------------------------------------------------- |
+| Structure          | 2x Abris (toilettes & salles de bain)           | ~4 684 €    | (À définir)                                        |
+| Toilettes Biogaz   | 1x Kit HomeBiogas-2                             | ~2 000 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
+| Toilettes Biogaz   | 1x Kit HomeBiogas-4                             | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
+| Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.   | ~1 500 €    | (À définir)                                        |
+| Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~1 000 €    | (À définir)                                        |
+| Chauffage          | Poêle de masse rocket (auto-construit)          | ~500 €      | (Briques réfractaires, bidon, tube, terre...)      |
 
 ## 5. Besoins Énergétiques
 *Note: Le chauffage de l'espace est assuré par le poêle de masse (bois).*
 | Équipement                | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | ------------------------- | ------------- | -------------- | ---------------------- |
-| Éclairage LED             | 40            | 3              | 120                    |
-| Ventilation (VMC)         | 25            | 24             | 600                    |
-| Pompe de relevage (si besoin) | 250           | 0.5            | 125                    |
-| **Total estimé**          |               |                | **~845**               |
+| Éclairage LED             | 60            | 3              | 180                    |
+| Ventilation (VMC)         | 75            | 24             | 1800                   |
+| Pompe de relevage (si besoin) | 250           | 1.5            | 375                    |
+| **Total estimé**          |               |                | **~2355**              |
 
 ## 6. Matériels déjà acquis
 - (À compléter si applicable, ex: outils de plomberie de base)
 
 ## 7. Budget Prévisionnel
-- **Budget Total Maximum (Investissement) :** 13 800 €
-- **Structure (2 abris BRETA) :** ~7 600 €
-- **Équipements & Plomberie :** ~5 200 €
+- **Budget Total Maximum (Investissement) :** ~13 900 €
+- **Structure (2 abris) :** ~4 684 €
+- **Équipements & Plomberie :** ~8 200 €
 - **Marge / Imprévus :** ~1 000 €
 
 ## 8. Plan d'Action / Tâches

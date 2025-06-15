@@ -2,7 +2,7 @@
 
 ## 1. Description et But
 **Description :** Ce chantier est le pilier de l'autonomie en eau. Il couvre l'ensemble du cycle : la collecte d'eau de pluie, son stockage, sa filtration et potabilisation, la production d'eau chaude, la distribution sur tout le terrain, et enfin le traitement écologique des eaux usées.
-**But :** Gérer l'intégralité du cycle de l'eau sur le terrain de manière écologique et résiliente, en fournissant eau froide et chaude pour 5 personnes.
+**But :** Gérer l'intégralité du cycle de l'eau sur le terrain de manière écologique et résiliente, en fournissant eau froide et chaude pour 15 personnes.
 
 ## 2. Lien Social
 La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une responsabilité collective. Elle implique une conscience de chaque litre utilisé et une participation active au maintien des systèmes (filtres, phytoépuration), renforçant le lien entre les résidents et leur environnement direct.
@@ -21,37 +21,37 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 
 | Catégorie                  | Sous-catégorie / Équipement                  | Coût Estimé |
 | -------------------------- | -------------------------------------------- | ----------- |
-| **Collecte & Stockage**    |                                              | **~3 500 €**|
-|                            | Gouttières + collecteurs pour les bâtiments  | ~800 €      |
-|                            | Cuve de récupération 10 000L                 | ~2 700 €    |
-| **Filtration/Pompage**     |                                              | **~1 150 €**|
-|                            | Filtres 3 étages (sédiments, KDF, charbon)   | ~350 €      |
-|                            | Stérilisateur à lampe UV                     | ~500 €      |
+| **Collecte & Stockage**    |                                              | **~6 500 €**|
+|                            | Gouttières + collecteurs pour les bâtiments  | ~1 100 €    |
+|                            | Cuve de récupération 10 000L (x2)            | ~5 400 €    |
+| **Filtration/Pompage**     |                                              | **~1 750 €**|
+|                            | Filtres 3 étages (sédiments, KDF, charbon) x2| ~700 €      |
+|                            | Stérilisateur à lampe UV (x2)                | ~1 000 €    |
 |                            | Pompe surpresseur pour le réseau             | ~300 €      |
-| **Production Eau Chaude**  |                                              | **~800 €**  |
+| **Production Eau Chaude**  |                                              | **~1 100 €**|
 |                            | Chauffe-eau solaire (DIY)                    | ~500 €      |
-|                            | Chauffe-eau gaz (alimenté par biogaz toilettes) | ~300 €      |
-| **Réseau de Plomberie**    |                                              | **~500 €**  |
-|                            | Réseau primaire et secondaire                | ~400 €      |
+|                            | Chauffe-eau gaz (alimenté par biogaz toilettes) x2 | ~600 €      |
+| **Réseau de Plomberie**    |                                              | **~800 €**  |
+|                            | Réseau primaire et secondaire                | ~700 €      |
 |                            | Raccords, vannes, outillage                  | ~100 €      |
-| **Analyse de l'eau**       |                                              | **~200 €**  |
-|                            | Kits de test qualité de l'eau (bactério, pH) | ~200 €      |
+| **Analyse de l'eau**       |                                              | **~400 €**  |
+|                            | Kits de test qualité de l'eau (bactério, pH) | ~400 €      |
 
 ## 5. Besoins Énergétiques
 | Équipement                  | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | --------------------------- | ------------- | -------------- | ---------------------- |
 | Chauffe-eau électrique      | 3000          | 2              | 6000                   |
-| Pompe de récupération (pluie) | 750           | 0.5            | 375                    |
-| Pompe de distribution       | 500           | 1              | 500                    |
-| Filtration UV               | 40            | 24             | 960                    |
-| **Total estimé**            |               |                | **~1835**              |
+| Pompe de récupération (pluie) | 750           | 1.5            | 1125                   |
+| Pompe de distribution       | 500           | 3              | 1500                   |
+| Filtration UV               | 80            | 24             | 1920                   |
+| **Total estimé**            |               |                | **~4545**              |
 
 ## 6. Matériels déjà acquis
 - (À compléter si applicable)
 
 ## 7. Budget Prévisionnel
-- **Analyse de la qualité de l'eau (labo) :** ~200 €
-- **Total Investissement Matériel Estimé :** ~6 150 €
+- **Analyse de la qualité de l'eau (labo) :** ~400 €
+- **Total Investissement Matériel Estimé :** ~10 350 €
 
 ## 8. Plan d'Action / Tâches
 - [ ] Estimer les besoins journaliers en eau (froide et chaude).

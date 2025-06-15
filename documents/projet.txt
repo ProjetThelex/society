@@ -1,83 +1,74 @@
-# Projet Coworking Autonome en milieu naturelle
+# Projet Thelex : Un lieu pour Vivre, Travailler et Coopérer
 
-## 1. Concept
-Création d'un éco-lieu de vie et de travail 100% autonome pour 5 personnes, basé sur le principe de logements individuels minimalistes et d'espaces communs maximisés pour favoriser la collaboration et le partage.
+## 1. Notre Raison d'être : Créer un Lieu de Vie et de Travail
 
-## 2. Objectifs d'Autonomie
-Définition de ce que "100% autonome" implique pour le projet :
-- **Autonomie Énergétique :** Production, stockage et gestion de l'électricité.
-- **Autonomie en Eau :** Collecte, filtration, utilisation et retraitement des eaux.
-- **Autonomie Alimentaire :** Production de la majorité des denrées nécessaires sur le lieu.
-- **Autonomie en gestion des déchets :** Compostage, recyclage et réduction à la source.
+Le projet "Thelex" est notre réponse à une quête de sens collective : celle de réconcilier vie professionnelle, épanouissement personnel et respect du vivant. Nous portons l'ambition de créer un **lieu de vie collectif** qui soit à la fois un lieu de vie sobre et solidaire, et un pôle de travail et de créativité innovant.
 
-## 3. Budget & Financement
-- **Apport annuel :** 60 000 € (via la SARL)
-- **Coûts principaux identifiés :**
-    - Achat du terrain
-    - Coût de construction des 5 dômes géodésiques : 75 000 € (15 000 € x 5)
+Nous souhaitons construire un modèle où le travail à distance ne rime plus avec isolement, mais avec **communauté, collaboration et connexion profonde à la nature**. Ce projet est pensé comme un prototype reproductible d'un mode de vie et de travail résilient face aux défis écologiques et sociaux de notre époque.
 
-### Note sur les Bâtiments Communs
-Toutes les infrastructures (cuisine, sanitaires, etc.) seront des habitats légers (type dôme, chalet, etc.). Le coût de construction de chaque bâtiment commun et de l'atelier est plafonné à 15 000 € chacun.
+## 2. Le Collectif Humain : Cœur du Projet
 
-## 4. Plan de Réalisation : Les Grands Chantiers
+Plus qu'un simple lieu, "Thelex" est avant tout une aventure humaine. Notre collectif est uni par des valeurs fortes d'entraide, de partage et de communication bienveillante. Nous accordons une importance primordiale au "vivre-ensemble" et à la **gouvernance partagée**, que nous considérons comme les fondations de la résilience du groupe.
 
-### a. Chantier 1 : Le Terrain
-- [ ] Recherche et sélection du terrain :
-    - **Superficie :** 2 hectares minimum
-    - **Localisation :** Sud-Ouest de la France ou Sud du Massif Central
-    - **Critères :** Accès à l'eau, réglementation d'urbanisme, etc.
-- [ ] Analyse du sol et de l'environnement
-- [ ] Acquisition
+Le principe fondamental est celui de **l'interdépendance choisie, et non de la dépendance subie**. Chaque membre, tout en participant à la vie collective, conserve son indépendance, ses projets personnels et son autonomie de décision. Les espaces privés individuels garantissent le respect de l'intimité de chacun, tandis que les espaces communs sont des lieux de synergie et de coopération volontaire.
 
-### b. Chantier 2 : Les Logements Individuels (Dômes)
-- **Logements individuels (x5) :**
-    - **Type :** Dômes géodésiques
-    - **Coût de construction :** 15 000 € par unité (Total : 75 000 €)
-    - [ ] Conception détaillée et plans
-    - [ ] Sourcing et achat des matériaux
-    - [ ] Auto-construction des 5 dômes
+Nous voulons créer un environnement de confiance où chaque membre peut s'épanouir, contribuer et se sentir soutenu, sans jamais sacrifier sa liberté individuelle. Cet écosystème humain sera le véritable terreau de la créativité et du bien-être au sein du lieu.
 
-### c. Chantier 3 : La Cuisine Commune
-- [ ] Conception et plans du bâtiment/de l'espace cuisine
-- [ ] Construction du bâtiment
-- [ ] Aménagement et équipement (plan de travail, cuisson, stockage...)
+## 3. Un Modèle Écologique et Résilient
 
-### d. Chantier 4 : Les Sanitaires Communs
-- [ ] Conception et plans (douches, toilettes sèches, lavabos)
-- [ ] Construction du bâtiment
-- [ ] Plomberie et raccordement au système de gestion de l'eau
+Notre engagement écologique est au centre de la conception du lieu. Nous visons une **autonomie maximale** à travers quatre piliers fondamentaux, garantissant un faible impact environnemental et une grande résilience :
 
-### e. Chantier 5 : L'Espace de Vie Commun
-- [ ] Conception et plans du bâtiment/de l'espace
-- [ ] Construction du bâtiment
-- [ ] Aménagement (mobilier, poêle à bois, etc.)
+-   **Énergie :** Production, stockage et gestion intelligente de notre propre électricité (principalement solaire) pour subvenir à nos besoins.
+-   **Eau :** Mise en place d'un cycle de l'eau vertueux : collecte des eaux de pluie, filtration, consommation raisonnée et phytoépuration des eaux usées.
+-   **Alimentation :** Développement d'une souveraineté alimentaire partielle via un potager en permaculture, une serre et un poulailler, pour une nourriture saine, locale et de saison.
+-   **Déchets :** Tendre vers le "zéro déchet" par la réduction à la source, le compostage de toute la matière organique et le recyclage.
 
-### f. Chantier 6 : L'Espace de Coworking
-- [ ] Conception et plans de l'espace de travail
-- [ ] Construction du bâtiment
-- [ ] Aménagement de l'espace (mobilier, équipements)
-- [ ] Installation de la connexion Internet (satellite, 4G/5G en fonction du lieu)
+Toutes les constructions seront des **habitats légers et réversibles** (dômes, structures bois) pour minimiser notre empreinte sur le site.
 
-### g. Chantier 7 : L'Énergie
-- [ ] Choix de la source de production (panneaux solaires, éolien, etc.)
-- [ ] Dimensionnement de l'installation (calcul des besoins)
-- [ ] Installation du système de production
-- [ ] Installation du système de stockage (batteries)
-- [ ] Mise en place du réseau de distribution
+## 4. Un Écosystème Économique Viable
 
-### h. Chantier 8 : L'Eau
-- [ ] Choix de la source (récupération d'eau de pluie, puits, source...)
-- [ ] Installation du système de collecte et de stockage (citernes)
-- [ ] Installation du système de filtration et de potabilisation
-- [ ] Mise en place du réseau de plomberie
-- [ ] Installation du système de gestion des eaux usées (phytoépuration, etc.)
+La pérennité de notre projet repose sur un modèle économique solide et intégré à notre mode de vie. L'**espace de coworking** sera le poumon économique de l'oasis, permettant de :
 
-### i. Chantier 9 : L'Alimentation
-- [ ] Conception de l'espace de production (potager en permaculture, serre, etc.)
-- [ ] Préparation des sols et premiers semis/plantations
-- [ ] Mise en place d'un poulailler (optionnel)
-- [ ] Création de l'espace de stockage (cave, cellier)
+-   Exercer nos activités professionnelles (conseil, développement informatique).
+-   Générer des revenus en accueillant des professionnels extérieurs (télétravailleurs, freelances, séminaires d'entreprise au vert).
+-   Ancrer le lieu dans une dynamique d'échange de compétences et d'innovation.
 
-### j. Chantier 10 : L'Atelier (Container)
-- [ ] Acquisition et aménagement d'un container maritime
-- [ ] Équipement en outils pour le bois, le métal et la maintenance générale
+Cette activité économique assure la viabilité du projet, notre capacité à honorer nos engagements financiers, et fait de notre lieu une ressource pour le territoire.
+
+## 5. Un Partenariat de Confiance
+
+Notre démarche auprès de la Coopérative Oasis n'est pas une simple demande de financement. Nous souhaitons construire un **véritable partenariat** basé sur un alignement de valeurs. L'accompagnement, l'expertise et l'intégration au réseau des Oasis sont pour nous tout aussi précieux que le soutien financier.
+
+L'apport financier sollicité sera un levier décisif pour les premières phases de notre projet, notamment **l'acquisition du terrain et la construction des infrastructures communes prioritaires**, comme détaillé dans notre budget et notre plan de réalisation.
+
+## 6. Feuille de Route en 4 Étapes
+
+Notre projet se déploiera de manière progressive et organique, en suivant une feuille de route en quatre grandes étapes. Cette approche phasée nous permet de sécuriser chaque étape avant de passer à la suivante, d'apprendre en continu et d'ajuster notre trajectoire. Elle reflète la maturité de notre projet et notre vision à long terme.
+
+*   **Étape 1 : Lancement.** L'objectif est de créer le "cœur" du réacteur. Cette phase se concentre sur l'acquisition du terrain et la construction d'une base fonctionnelle minimale : un premier logement, un bureau fonctionnel, les infrastructures vitales (cuisine, sanitaires, atelier) et les raccordements essentiels (eau, énergie).
+
+*   **Étape 2 : Développement.** Nous montons en puissance pour atteindre une capacité d'accueil de 3 à 4 personnes. Cette étape verra la construction de nouveaux logements, le déploiement de la première version de nos systèmes d'autonomie (eau et énergie) et la mise en culture du potager.
+
+*   **Étape 3 : Accomplissement.** L'objectif est d'atteindre la pleine capacité du lieu pour les 5 résidents permanents. Cette phase comprend la finalisation de tous les logements et des infrastructures, y compris les grands espaces communs (salle de vie, espace coworking), et l'atteinte de nos objectifs d'autonomie.
+
+*   **Étape 4 : Agrandissement et Rayonnement.** Une fois le lieu consolidé, nous pourrons augmenter la capacité d'accueil de notre espace de coworking pour atteindre 15 postes de travail, renforçant ainsi la viabilité économique du projet et son rôle de pôle de ressources pour le territoire.
+
+## 7. Budget Prévisionnel
+
+<div style="font-size: small;">
+
+| Chantier          | Lancement   | Développement | Accomplissement | Agrandissement | Total      |
+|-------------------|:-----------:|:-------------:|:---------------:|:--------------:|:----------:|
+| Terrain      | 45 250 €   | 77 375 €     | 77 375 €       | 0 €            | 200 000 € |
+| Logements    | 16 900 €   | 16 900 €     | 46 700 €       | 0 €            | 80 500 €  |
+| Cuisine      | 15 000 €   | 0 €           | 0 €             | 0 €            | 15 000 €  |
+| Sanitaires   | 1 000 €    | 4 850 €      | 550 €          | 7 500 €       | 13 900 €  |
+| Vie Sociale  | 0 €         | 0 €           | 15 000 €       | 7 150 €       | 22 150 €  |
+| Coworking    | 11 000 €   | 0 €           | 4 000 €        | 10 800 €      | 25 800 €  |
+| Énergie      | 3 000 €    | 6 000 €      | 11 000 €       | 10 150 €      | 30 150 €  |
+| Eau          | 1 000 €    | 2 900 €      | 3 450 €        | 3 000 €       | 10 350 €  |
+| Alimentation | 0 €         | 4 500 €      | 1 500 €        | 0 €            | 6 000 €   |
+| Atelier      | 9 000 €    | 0 €           | 0 €             | 0 €            | 9 000 €   |
+| **TOTAL**         | **102 150 €**| **112 525 €**| **159 575 €**  | **38 600 €**  | **412 850 €**|
+
+</div>

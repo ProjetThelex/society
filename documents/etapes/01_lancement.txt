@@ -1,0 +1,71 @@
+# 01. Lancement
+
+Cette phase initiale du projet vise à établir une base fonctionnelle minimale pour permettre l'installation sur le terrain et le démarrage des chantiers principaux. Elle inclut l'acquisition du terrain, un premier logement, et les raccordements essentiels, tout en minimisant les coûts pour garantir un démarrage rapide.
+
+## Budget Total Prévisionnel - Phase Lancement
+
+| Chantier                  | Coût Total Estimé |
+| ------------------------- | ----------------- |
+| 01 - Terrain              | ~45 250 €         |
+| 02 - Logements (1 dôme)   | ~16 900 €         |
+| 03 - Cuisine              | ~15 000 €         |
+| 04 - Sanitaires (minimum) | ~1 000 €          |
+| 06 - Coworking            | ~11 000 €         |
+| 07 - Énergie (raccordement) | ~3 000 €          |
+| 08 - Eau (raccordement)   | ~1 000 €          |
+| 09 - Alimentation         | 0 €               |
+| 10 - Atelier              | ~9 000 €          |
+| **TOTAL PHASE LANCEMENT** | **~102 150 €**    |
+
+---
+
+## Détail par Chantier - Phase Lancement
+
+### 01 - Terrain
+- **Coûts directs :** ~43 250 €
+  - *Apport : 40 000 €*
+  - *Frais d'expertise : ~1 500 €*
+  - *Coûts matériels : ~1 750 €*
+- **Marge / Imprévus :** ~2 000 €
+- **TOTAL CHANTIER :** **~45 250 €**
+
+### 02 - Logements (1 dôme)
+- **Coûts directs :** ~15 900 €
+  - *Structure & Couverture (1 dôme) : ~13 000 €*
+  - *Aménagement & Chauffage (1 unité) : ~1 900 €*
+  - *Ouvertures & Outillage : ~1 000 €*
+- **Marge / Imprévus :** ~1 000 €
+- **TOTAL CHANTIER :** **~16 900 €**
+
+### 03 - Cuisine
+- **Coûts directs :** ~10 850 €
+- **Marge / Imprévus :** ~4 150 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 04 - Sanitaires (minimum)
+- **Coûts directs :** ~800 € (toilettes sèches, douche extérieure)
+- **Marge / Imprévus :** ~200 €
+- **TOTAL CHANTIER :** **~1 000 €**
+
+### 06 - Coworking
+- **Coûts directs :** ~9 999 € (structure) + ~500 € (câblage, alarme, serrure)
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~11 000 €**
+
+### 07 - Énergie (raccordement/minimum)
+- **Coûts directs :** ~2 500 € (raccordement ou kit solaire minimal)
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~3 000 €**
+
+### 08 - Eau (raccordement/minimum)
+- **Coûts directs :** ~800 € (raccordement)
+- **Marge / Imprévus :** ~200 €
+- **TOTAL CHANTIER :** **~1 000 €**
+
+### 09 - Alimentation
+- **TOTAL CHANTIER :** **0 €**
+
+### 10 - Atelier
+- **Coûts directs :** ~6 500 €
+- **Marge / Imprévus :** ~2 500 €
+- **TOTAL CHANTIER :** **~9 000 €**

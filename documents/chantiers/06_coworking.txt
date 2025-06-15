@@ -1,14 +1,14 @@
 # Chantier 6 : L'Espace de Coworking
 
 ## 1. Description et But
-**Description :** Ce chantier consiste à aménager un espace de travail partagé, calme et fonctionnel, doté d'une connexion internet fiable pour permettre aux 5 résidents de mener à bien leurs activités professionnelles.
+**Description :** Ce chantier consiste à aménager un espace de travail partagé de ~76m², calme et fonctionnel, doté d'une connexion internet fiable pour permettre aux 15 résidents de mener à bien leurs activités professionnelles.
 **But :** Créer un bureau partagé qui favorise la concentration et la productivité, tout en étant distinct des espaces de vie pure.
 
 ## 2. Lien Social
 Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la dimension "coworking" de l'éco-lieu. C'est un espace qui facilite les synergies professionnelles, l'entraide et la séparation symbolique entre le temps de travail et le temps personnel.
 
 ## 3. Objectifs Clés / Livrables
-- [ ] Un espace de travail aménagé pour 5 personnes.
+- [ ] Un espace de travail aménagé pour 15 personnes.
 - [ ] Une connexion internet stable et fonctionnelle.
 - [ ] Mobilier de bureau ergonomique.
 
@@ -18,11 +18,13 @@ Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la di
 
 | Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
 | ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
-| Structure          | Chalet ANGERS S (36m² + terrasse)             | ~9 999 €    | https://www.chaletdejardin.fr/chalet-en-bois-avec-mezzanine-angers-s-44-mm-36m2-19m2-terrasse.html |
-| **Mobilier**       |                                              | **~600 €**  |                                                              |
-| *Détail Mobilier*  | 5 bureaux, rangements                        | ~600 €      | (Occasion / Auto-construit)                                  |
-| **Électricité/Réseau**|                                              | **~550 €**  |                                                              |
-| *Détail Élec/Réseau*| Câblage, prises, goulottes, éclairage LED...   | ~450 €      | (Neuf)                                                       |
+| Structure          | Chalet ANGERS S (36m² + terrasse)             | ~9 999 €    | [Lien](https://www.chaletdejardin.fr/chalet-en-bois-avec-mezzanine-angers-s-44-mm-36m2-19m2-terrasse.html) |
+| Structure          | Extension (40m²)                             | ~10 000 €   | (À définir)                                                  |
+| **Mobilier**       |                                              | **~1 400 €**|                                                              |
+| *Détail Mobilier*  | 5 bureaux, rangements (initiaux)             | ~600 €      | (Occasion / Auto-construit)                                  |
+| *Détail Mobilier*  | 10 bureaux, rangements (ajout)               | ~800 €      | (Occasion / Auto-construit)                                  |
+| **Électricité/Réseau**|                                              | **~1 000 €**|                                                              |
+| *Détail Élec/Réseau*| Câblage, prises, goulottes, éclairage LED...   | ~900 €      | (Neuf)                                                       |
 | *Détail Élec/Réseau*| Routeur & switch réseau                      | ~100 €      | (Neuf)                                                       |
 | **Sécurité**       |                                              | **~650 €**  |                                                              |
 | *Détail Sécurité*  | Kit caméras de surveillance (x2)             | ~300 €      | (À définir)                                                  |
@@ -30,22 +32,22 @@ Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la di
 | *Détail Sécurité*  | Serrure à code électronique                  | ~150 €      | (À définir)                                                  |
 
 ## 5. Besoins Énergétiques
-| Équipement                      | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
-| ------------------------------- | ------------- | -------------- | ---------------------- |
-| 5 postes de travail (PC+écran)  | 1000          | 6              | 6000                   |
-| Éclairage LED                   | 60            | 8              | 480                    |
-| Réseau (routeur, switch)        | 20            | 24             | 480                    |
-| Sécurité (caméras, alarme H24)  | 30            | 24             | 720                    |
-| **Total estimé**                |               |                | **~7680**              |
+| Équipement                       | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
+| -------------------------------- | ------------- | -------------- | ---------------------- |
+| 15 postes de travail (PC+écran)  | 3000          | 6              | 18000                  |
+| Éclairage LED                    | 120           | 8              | 960                    |
+| Réseau (routeur, switch)         | 20            | 24             | 480                    |
+| Sécurité (caméras, alarme H24)   | 30            | 24             | 720                    |
+| **Total estimé**                 |               |                | **~20160**             |
 
 ## 6. Matériels déjà acquis
 - Chaises de bureau, écrans, claviers, souris, micros-casques, Kit Starlink, ordinateurs.
 
 ## 7. Budget Prévisionnel
-- **Budget d'investissement maximum :** 15 000 €
-- **Structure (fondations, isolation) :** ~9 999 €
-- **Aménagement, Connexion & Sécurité :** ~1 800 €
-- **Marge / Imprévus :** ~3 201 €
+- **Budget d'investissement maximum :** 25 800 €
+- **Structure (fondations, isolation) :** ~19 999 €
+- **Aménagement, Connexion & Sécurité :** ~2 550 €
+- **Marge / Imprévus :** ~3 251 €
 ---
 - **Coûts récurrents :**
   - **Abonnement Internet :** ~50-100 €/mois

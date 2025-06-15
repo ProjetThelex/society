@@ -1,0 +1,50 @@
+# 02. Développement
+
+Cette phase de développement vise à atteindre une capacité d'accueil de 3-4 personnes et marque une étape clé vers l'autonomie. Elle inclut le déploiement des systèmes d'eau et d'énergie, l'ajout d'un second dôme et la mise en place du potager.
+
+## Budget Total Prévisionnel - Phase Développement
+
+| Chantier                            | Coût Additionnel Estimé |
+| ----------------------------------- | ----------------------- |
+| 01 - Terrain (partie 1 prêt)        | ~77 375 €               |
+| 02 - Logements (2ème dôme)          | ~16 900 €               |
+| 04 - Sanitaires                     | ~4 850 €                |
+| 07 - Énergie                        | ~6 000 €                |
+| 08 - Eau (système autonome)         | ~2 900 €                |
+| 09 - Alimentation (potager, etc.)   | ~4 500 €                |
+| **TOTAL PHASE DÉVELOPPEMENT**       | **~112 525 €**          |
+
+---
+
+## Détail par Chantier - Phase Développement
+
+### 01 - Terrain (solde du prêt)
+- **Coûts directs :** ~77 375 €
+- **TOTAL CHANTIER :** **~77 375 €**
+
+### 02 - Logements (ajout du 2ème dôme)
+- **Coûts directs :** ~15 900 €
+- **Marge / Imprévus :** ~1 000 €
+- **TOTAL CHANTIER :** **~16 900 €**
+
+### 04 - Sanitaires
+- **Coûts directs :** ~4 342 €
+  - *1x Abri : ~2 342 €*
+  - *1x Kit HomeBiogas-2 : ~2 000 €*
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~4 850 €**
+
+### 07 - Énergie
+- **Coûts directs :** ~5 500 € (kit solaire ~2kWc + batteries 4kWh)
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~6 000 €**
+
+### 08 - Eau (passage au système autonome)
+- **Coûts directs :** ~2 700 €
+- **Marge / Imprévus :** ~200 €
+- **TOTAL CHANTIER :** **~2 900 €**
+
+### 09 - Alimentation
+- **Coûts directs :** ~4 000 €
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~4 500 €** 

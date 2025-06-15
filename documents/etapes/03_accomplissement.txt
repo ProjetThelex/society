@@ -1,0 +1,60 @@
+# 03. Accomplissement
+
+Cette phase finale porte le projet à sa pleine capacité. Elle couvre les coûts additionnels et les soldes de chaque chantier pour atteindre la configuration cible de 15 postes et une autonomie complète.
+
+## Budget Total Prévisionnel - Phase Accomplissement
+
+| Chantier                            | Coût Additionnel Estimé |
+| ----------------------------------- | ----------------------- |
+| 01 - Terrain (partie 2 prêt)        | ~77 375 €               |
+| 02 - Logements (3 derniers dômes)   | ~46 700 €               |
+| 04 - Sanitaires (solde)             | ~550 €                  |
+| 05 - Vie Sociale (solde)            | ~15 000 €               |
+| 06 - Coworking (solde)              | ~4 000 €                |
+| 07 - Énergie (solde)                | ~11 000 €               |
+| 08 - Eau (solde)                    | ~3 450 €                |
+| 09 - Alimentation (capacité max)    | ~1 500 €                |
+| **TOTAL PHASE ACCOMPLISSEMENT**     | **~159 575 €**          |
+
+---
+
+## Détail par Chantier - Phase Accomplissement
+
+### 01 - Terrain (solde final du prêt)
+- **Coûts directs :** ~77 375 €
+- **TOTAL CHANTIER :** **~77 375 €**
+
+### 02 - Logements (ajout des 3 derniers dômes)
+- **Coûts directs :** ~45 700 €
+- **Marge / Imprévus :** ~1 000 €
+- **TOTAL CHANTIER :** **~46 700 €**
+
+### 04 - Sanitaires (mise à niveau finale)
+- **Coûts directs :** ~50 €
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~550 €**
+
+### 05 - Vie Sociale (Dôme)
+- **Coûts directs :** ~9 650 €
+- **Marge / Imprévus :** ~5 350 €
+- **TOTAL CHANTIER :** **~15 000 €**
+
+### 06 - Coworking (mise à niveau finale)
+- **Coûts directs :** ~3 500 €
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~4 000 €**
+
+### 07 - Énergie (mise à niveau finale)
+- **Coûts directs :** ~10 500 €
+- **Marge / Imprévus :** ~500 €
+- **TOTAL CHANTIER :** **~11 000 €**
+
+### 08 - Eau (mise à niveau finale)
+- **Coûts directs :** ~3 200 €
+- **Marge / Imprévus :** ~250 €
+- **TOTAL CHANTIER :** **~3 450 €**
+
+### 09 - Alimentation (mise à niveau finale)
+- **Coûts directs :** ~1 200 €
+- **Marge / Imprévus :** ~300 €
+- **TOTAL CHANTIER :** **~1 500 €** 

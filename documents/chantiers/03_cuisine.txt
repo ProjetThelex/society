@@ -1,4 +1,4 @@
-# Chantier 3 : La Cuisine Commune
+# Chantier 3 : La Cuisine
 
 ## 1. Description et But
 **Description :** Ce chantier vise à construire et équiper une cuisine partagée de 30m² en utilisant un chalet en kit. La structure doit être démontable pour respecter la législation sur les habitats légers (pas de permis de construire, seulement une déclaration de travaux).

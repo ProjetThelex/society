@@ -1,8 +1,8 @@
-# Chantier 2 : Les Logements Individuels (Dômes)
+# Chantier 2 : Les Logements
 
 ## 1. Description et But
-**Description :** Ce chantier couvre la conception, l'approvisionnement en matériaux et l'auto-construction de 5 dômes géodésiques servant de logements individuels minimalistes.
-**But :** Construire 5 unités d'habitation individuelles, fonctionnelles et durables pour un coût total de 75 000 €.
+**Description :** Ce projet consiste en la construction de cinq dômes géodésiques de 30m² chacun, destinés à servir d'unités d'habitation. Le périmètre du chantier inclut les phases de conception technique, d'approvisionnement en matériaux et de réalisation. Chaque dôme est conçu pour accueillir confortablement un couple.
+**But :** L'objectif est de livrer cinq logements individuels, fonctionnels et durables, conformément aux plans, tout en respectant un budget global de 75 000 €.
 
 ## 2. Lien Social
 L'auto-construction des habitats est un projet d'équipe majeur. Il renforcera la cohésion, développera des compétences techniques communes et créera un attachement fort au lieu. Chaque dôme, bien qu'individuel, sera le fruit d'un travail collectif.

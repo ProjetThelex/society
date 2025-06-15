@@ -27,12 +27,12 @@ Le choix du terrain est le fondement du projet. Son emplacement, son environneme
 
 ## 6. Budget Prévisionnel
 *Ce budget est une première ébauche et devra être affiné.*
-- **Coût d'acquisition :** 100 000 €
-- **Frais de notaire (estimation ~8%) :** ~8 000 €
+- **Coût d'acquisition :** ~180 000 €
+- **Frais de notaire (estimation ~8%) :** ~14 400 €
 - **Frais d'expertise (sol, etc.) :** ~1 500 €
 - **Coûts matériels à acquérir :** ~1 750 €
-- **Marge / Imprévus :** ~2 000 €
-- **Total Estimé :** ~111 750 €
+- **Marge / Imprévus :** ~2 350 €
+- **Total Estimé :** ~200 000 €
 
 ## 7. Plan d'Action / Tâches
 - [ ] Cartographier le terrain (relief, ensoleillement, points d'eau).
