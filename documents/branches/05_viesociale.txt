@@ -1,8 +1,9 @@
-# Chantier 5 : Les Espaces de Vie Communs
+# Les Espaces de Vie Communs
 
 ## 1. Description et But
-**Description :** Ce chantier est dédié à la création de deux lieux de détente, de réunion et de vie sociale sous des dômes géodésiques ouverts.
-**But :** Disposer de "salons" communs favorisant la détente, les discussions, les activités de groupe et le bien-être collectif pour l'ensemble des résidents.
+Ce branche est dédié à la création d'un espace de vie commun, un lieu de détente, de rencontre et d'activités collectives. Il prendra la forme d'un grand dôme géodésique, aménagé pour le confort et la convivialité.
+
+Offrir un espace commun chaleureux et polyvalent pour renforcer la cohésion sociale, accueillir des activités de groupe et améliorer la qualité de vie des résidents.
 
 ## 2. Lien Social
 Cet espace est le pendant "détente" de la cuisine. Il est essentiel pour la cohésion du groupe en dehors des moments de travail ou des tâches ménagères. C'est le lieu des décisions informelles, des soirées, des jeux, de la lecture. Son aménagement définira l'ambiance générale du lieu.

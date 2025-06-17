@@ -1,19 +1,24 @@
-# Chantier 1 : Le Terrain
 
-## 1. Description et But
-**Description :** Ce chantier concerne toutes les étapes liées à la recherche, la sélection, l'analyse et l'acquisition du terrain qui accueillera l'éco-lieu.
-**But :** Devenir propriétaire d'un terrain de 2 hectares minimum, apte à accueillir le projet, dans le Sud-Ouest de la France ou le Sud du Massif Central.
+<div style="flex: 1; gap: 2rem; margin-bottom: 2rem;">
+    <img src="images/terrain_1.png" style="width: 100%; height: 50%; object-fit: cover; border-radius: 8px;">
 
-## 2. Lien Social
+# Le Terrain
+
+Ce branche concerne toutes les étapes liées à la recherche, la sélection, l'analyse et l'acquisition du terrain qui accueillera l'éco-lieu.
+
+Devenir propriétaire d'un terrain de 2 hectares minimum, apte à accueillir le projet, dans le Sud-Ouest de la France ou le Sud du Massif Central.
+</div>
+
+## 1. Lien Social
 Le choix du terrain est le fondement du projet. Son emplacement, son environnement et ses caractéristiques influenceront directement la qualité de vie, les interactions avec le voisinage local et l'ancrage territorial du groupe. C'est le premier acte collectif fondateur.
 
-## 3. Objectifs Clés / Livrables
+## 2. Objectifs Clés / Livrables
 - [ ] Une liste de critères de sélection du terrain finalisée.
 - [ ] Un rapport d'analyse comparative de 3 à 5 terrains potentiels.
 - [ ] Le rapport d'analyse des sols et de l'environnement du terrain choisi.
 - [ ] L'acte de propriété du terrain.
 
-## 4. Besoins Matériels à acquérir
+## 3. Besoins Matériels à acquérir
 
 | Catégorie          | Description                       | Coût Estimé |
 | ------------------ | --------------------------------- | ----------- |
@@ -21,11 +26,11 @@ Le choix du terrain est le fondement du projet. Son emplacement, son environneme
 | Outils d'analyse   | Kit d'analyse de sol (pH, etc.)   | ~150 €      |
 | Outillage          | Location mini-pelle, débroussailleuse...     | ~1 500 €    |
 
-## 5. Matériels déjà acquis
+## 4. Matériels déjà acquis
 - Véhicule pour les visites.
 - Matériel informatique pour les recherches.
 
-## 6. Budget Prévisionnel
+## 5. Budget Prévisionnel
 *Ce budget est une première ébauche et devra être affiné.*
 - **Coût d'acquisition :** ~180 000 €
 - **Frais de notaire (estimation ~8%) :** ~14 400 €
@@ -34,9 +39,9 @@ Le choix du terrain est le fondement du projet. Son emplacement, son environneme
 - **Marge / Imprévus :** ~2 350 €
 - **Total Estimé :** ~200 000 €
 
-## 7. Plan d'Action / Tâches
+## 6. Plan d'Action / Tâches
 - [ ] Cartographier le terrain (relief, ensoleillement, points d'eau).
-- [ ] Définir les emplacements des futurs chantiers.
+- [ ] Définir les emplacements des futurs branches.
 - [ ] Réaliser les démarches administratives initiales (si nécessaire).
 - [ ] Définir la liste précise des critères de recherche (accès à l'eau, exposition, type de végétation, PLU/règles d'urbanisme, etc.).
 - [ ] Phase de recherche active (annonces en ligne, agences, contact direct).

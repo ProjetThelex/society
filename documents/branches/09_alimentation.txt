@@ -1,19 +1,31 @@
-# Chantier 9 : L'Alimentation
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-bottom: 2rem;">
+    <div style="flex: 2;">
 
-## 1. Description et But
-**Description :** Ce chantier a pour but de développer la capacité du lieu à produire une partie significative de sa propre nourriture. Il s'appuie sur les principes de la permaculture pour créer un écosystème productif, résilient et respectueux du vivant.
-**But :** Atteindre un niveau élevé d'autonomie alimentaire en fruits et légumes, tout en régénérant les sols et en favorisant la biodiversité.
+# L'Alimentation
 
-## 2. Lien Social
+Ce branche vise à développer une autonomie alimentaire partielle grâce à la production sur site. Il inclut la conception et la mise en culture d'un potager en permaculture, la construction d'une serre pour étendre les saisons de culture, et la mise en place optionnelle d'un poulailler.
+
+Produire une part significative de la nourriture consommée sur le lieu (légumes, fruits, œufs), en favorisant des pratiques agricoles durables et en renforçant la sécurité alimentaire du collectif.
+    </div>
+    <div style="flex: 1;">
+        <img src="images/poules_1.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+    </div>
+    </div>
+</div>
+
+
+
+
+## 1. Lien Social
 Le jardinage collectif est une activité profondément fédératrice. Elle connecte les résidents à la terre, aux saisons et au cycle de la vie. C'est une source de satisfaction, d'apprentissage constant et de partage, depuis le travail de la terre jusqu'à la récolte et la transformation des aliments.
 
-## 3. Objectifs Clés / Livrables
+## 2. Objectifs Clés / Livrables
 - [ ] Le design en permaculture de la zone de production (potager, verger...).
 - [ ] Une zone de potager initial de 100-200m² mise en culture.
 - [ ] Une serre pour les semis et les cultures fragiles.
 - [ ] Un espace de stockage/conservation des récoltes (cellier, cave).
 
-## 4. Besoins Matériels à acquérir
+## 3. Besoins Matériels à acquérir
 
 | Catégorie          | Description                                  | Coût Estimé |
 | ------------------ | -------------------------------------------- | ----------- |
@@ -24,20 +36,20 @@ Le jardinage collectif est une activité profondément fédératrice. Elle conne
 | Irrigation         | Tuyaux, goutte-à-goutte, récupérateurs d'eau | ~500 €      |
 | Poulailler         | Grillage, abri pour quelques poules          | ~500 €      |
 
-## 5. Besoins Énergétiques
+## 4. Besoins Énergétiques
 | Équipement                 | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | -------------------------- | ------------- | -------------- | ---------------------- |
 | Pompe d'irrigation (saison) | 600           | 0.5            | 300                    |
 | **Total estimé**           |               |                | **~300**               |
 
-## 6. Matériels déjà acquis
+## 5. Matériels déjà acquis
 - Outils de jardinage de base (pelle, râteau, etc.)
 
-## 7. Budget Prévisionnel
+## 6. Budget Prévisionnel
 - **Total Estimé à acquérir :** ~5 500 €
 - **Marge / Imprévus :** ~500 €
 
-## 8. Plan d'Action / Tâches
+## 7. Plan d'Action / Tâches
 - [ ] Analyser le sol du terrain (tests pH, nutriments).
 - [ ] Dessiner le plan du potager (design en permaculture).
 - [ ] Construire les 3 serres.

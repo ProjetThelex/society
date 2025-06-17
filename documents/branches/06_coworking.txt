@@ -1,8 +1,9 @@
-# Chantier 6 : L'Espace de Coworking
+# L'Espace de Coworking
 
 ## 1. Description et But
-**Description :** Ce chantier consiste à aménager un espace de travail partagé de ~76m², calme et fonctionnel, doté d'une connexion internet fiable pour permettre aux 15 résidents de mener à bien leurs activités professionnelles.
-**But :** Créer un bureau partagé qui favorise la concentration et la productivité, tout en étant distinct des espaces de vie pure.
+Ce branche concerne l'aménagement d'un espace de travail partagé, performant et agréable. Il doit permettre aux résidents et à des travailleurs externes de mener leurs activités professionnelles dans un cadre stimulant, tout en étant une source de revenus pour le lieu.
+
+Créer un espace de coworking attractif et fonctionnel, équipé pour 15 postes de travail, avec une connexion internet fiable, et générant une activité économique pour le projet.
 
 ## 2. Lien Social
 Le coworking est le point d'ancrage "professionnel" du projet. Il justifie la dimension "coworking" de l'éco-lieu. C'est un espace qui facilite les synergies professionnelles, l'entraide et la séparation symbolique entre le temps de travail et le temps personnel.

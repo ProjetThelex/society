@@ -3,13 +3,20 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Mon Projet</title>
+		<title>Projet Thelex</title>
 		<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
 			href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
 			rel="stylesheet"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+			integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
 		/>
 		<style>
 			:root {
@@ -64,7 +71,7 @@
 				height: 100%;
 				background: var(--menu-background);
 				color: var(--menu-text-color);
-				padding: 20px 0;
+				padding: 20px 20px;
 				position: fixed;
 				top: 0;
 				left: 0;
@@ -73,9 +80,27 @@
 				z-index: 1000;
 				overflow-y: auto;
 				border-right: 1px solid #3a3a3c;
+				display: flex;
+				flex-direction: column;
+			}
+			#nav-menu .menu-icon {
+				display: block;
+				margin: 20px auto 20px auto;
+				width: 200px;
+				height: 200px;
+			}
+			#nav-menu a:focus {
+				outline: none;
 			}
 			#nav-menu.open {
 				transform: translateX(0);
+			}
+			#nav-menu h1 {
+				color: var(--menu-text-color);
+				font-size: 1.3em;
+				font-weight: 600;
+				margin: 0;
+				padding: 20px 25px 10px;
 			}
 			#nav-menu h2 {
 				padding: 15px 25px;
@@ -84,6 +109,24 @@
 				letter-spacing: 0.05em;
 				color: var(--secondary-text-color);
 				margin: 10px 0 5px;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				cursor: pointer;
+			}
+			#nav-menu h2 .arrow {
+				transition: transform 0.3s ease;
+			}
+			#nav-menu h2.open .arrow {
+				transform: rotate(90deg);
+			}
+			#nav-menu .collapsible-content {
+				display: none;
+				padding: 0;
+				margin: 0;
+			}
+			#nav-menu .collapsible-content.open {
+				display: block;
 			}
 			#nav-menu ul {
 				list-style: none;
@@ -100,6 +143,11 @@
 				border-radius: 6px;
 				font-weight: 500;
 			}
+			#nav-menu a i {
+				margin-right: 10px;
+				width: 20px;
+				text-align: center;
+			}
 			#nav-menu a:hover {
 				background: #3a3a3c;
 			}
@@ -107,17 +155,25 @@
 				background-color: var(--accent-color);
 				color: white;
 			}
+			#nav-menu > a.active {
+				background-color: transparent;
+			}
 			#content-container {
 				flex-grow: 1;
 				overflow-y: auto;
 				height: 100vh;
 				padding: 40px 60px;
 				transition: margin-left 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+				display: flex;
+				flex-direction: column;
+				background-color: var(--content-background);
 			}
 			#content {
 				max-width: 800px;
 				margin: 0 auto;
 				line-height: 1.7;
+				flex-grow: 1;
+				width: 100%;
 			}
 			#content h1,
 			#content h2,
@@ -165,6 +221,14 @@
 				border-radius: 8px;
 				overflow: hidden;
 			}
+			#content tbody tr:has(a[data-file]):hover {
+				cursor: pointer;
+				background-color: #f9f9f9;
+			}
+			#content tbody a {
+				color: inherit;
+				text-decoration: none;
+			}
 			#content th,
 			#content td {
 				border: none;
@@ -188,7 +252,60 @@
 			::-webkit-scrollbar-thumb:hover {
 				background: #bbb;
 			}
-
+			footer {
+				padding: 50px 0;
+				margin-top: 240px;
+				border-top: 1px solid var(--border-color);
+			}
+			.footer-container {
+				max-width: 800px;
+				margin: 0 auto;
+				text-align: center;
+			}
+			.footer-contact h3 {
+				font-size: 1.2em;
+				font-weight: 600;
+				color: var(--primary-text-color);
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				margin: 0 0 15px 0;
+			}
+			.footer-contact a {
+				color: var(--secondary-text-color);
+				text-decoration: none;
+				transition: color 0.2s ease;
+			}
+			.footer-contact a:hover {
+				color: var(--accent-color);
+			}
+			.footer-social {
+				margin: 30px 0;
+			}
+			.footer-social a {
+				margin: 0 15px;
+				color: var(--secondary-text-color);
+				transition: color 0.2s ease;
+			}
+			.footer-social a:hover {
+				color: var(--accent-color);
+			}
+			.footer-social svg,
+			.footer-social i {
+				width: 28px;
+				height: 28px;
+				font-size: 28px;
+			}
+			.footer-copyright {
+				font-size: 14px;
+				color: var(--secondary-text-color);
+			}
+			.footer-separator {
+				width: 80%;
+				height: 1px;
+				background-color: var(--border-color);
+				margin: 30px auto;
+				border: 0;
+			}
 			@media (min-width: 1024px) {
 				#menu-button {
 					display: none;
@@ -202,96 +319,96 @@
 					margin-left: 0;
 				}
 			}
+			#page-nav {
+				position: fixed;
+				top: 60px;
+				right: 40px;
+				width: 220px;
+				padding-left: 20px;
+				border-left: 1px solid var(--border-color);
+				display: none;
+			}
+			#page-nav.visible {
+				display: block;
+			}
+			#page-nav h3 {
+				font-size: 0.9em;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				color: var(--secondary-text-color);
+				margin: 10px 0 5px;
+			}
+			#page-nav ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			#page-nav a {
+				display: block;
+				padding: 8px 0;
+				color: var(--secondary-text-color);
+				text-decoration: none;
+				transition: color 0.2s ease;
+				font-size: 14px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}
+			#page-nav a:hover {
+				color: var(--accent-color);
+			}
+			#page-nav a.active {
+				color: var(--accent-color);
+				font-weight: 700;
+			}
+			@media (max-width: 1300px) {
+				#page-nav {
+					display: none !important;
+				}
+			}
 		</style>
 	</head>
 	<body>
 		<button id="menu-button">☰</button>
-
 		<nav id="nav-menu">
-			<h2><a href="#" data-file="projet.txt" class="active">Accueil</a></h2>
-			<h2>Étapes</h2>
-			<ul>
-				<li><a href="#" data-file="etapes/01_lancement.txt">1. Lancement</a></li>
-				<li><a href="#" data-file="etapes/02_developpement.txt">2. Développement</a></li>
-				<li><a href="#" data-file="etapes/03_accomplissement.txt">3. Accomplissement</a></li>
-				<li><a href="#" data-file="etapes/04_agrandissement.txt">4. Agrandissement</a></li>
+			<a href="#" data-file="summary.txt" class="active">
+				<img src="images/icon.png" alt="Icone Thelex" class="menu-icon" />
+			</a>
+			<h2>Les Étapes</h2>
+			<ul id="etapes-menu-list">
+				<!-- La liste des étapes sera injectée ici par JavaScript -->
 			</ul>
-			<h2>Chantiers</h2>
-			<ul>
-				<li><a href="#" data-file="chantiers/01_terrain.txt">1. Terrain</a></li>
-				<li><a href="#" data-file="chantiers/02_logements.txt">2. Logements</a></li>
-				<li><a href="#" data-file="chantiers/03_cuisine.txt">3. Cuisine</a></li>
-				<li><a href="#" data-file="chantiers/04_sanitaires.txt">4. Sanitaires</a></li>
-				<li><a href="#" data-file="chantiers/05_viesociale.txt">5. Vie Sociale</a></li>
-				<li><a href="#" data-file="chantiers/06_coworking.txt">6. Coworking</a></li>
-				<li><a href="#" data-file="chantiers/07_energie.txt">7. Énergie</a></li>
-				<li><a href="#" data-file="chantiers/08_eau.txt">8. Eau</a></li>
-				<li><a href="#" data-file="chantiers/09_alimentation.txt">9. Alimentation</a></li>
-				<li><a href="#" data-file="chantiers/10_atelier.txt">10. Atelier</a></li>
+			<h2 class="collapsible-trigger">Les Branches <span class="arrow">▶</span></h2>
+			<ul class="collapsible-content" id="branches-menu-list">
+				<!-- La liste des branches sera injectée ici par JavaScript -->
 			</ul>
 		</nav>
-
 		<main id="content-container">
 			<div id="content"></div>
+			<nav id="page-nav"></nav>
+			<footer>
+				<div class="footer-container">
+					<div class="footer-contact">
+						<h3>Contact</h3>
+						<p><a href="mailto:projet.thelex@gmail.com">projet.thelex@gmail.com</a></p>
+					</div>
+					<div class="footer-social">
+						<a href="https://www.instagram.com/project.thelex/" target="_blank" title="Instagram">
+							<i class="fa-brands fa-instagram"></i>
+						</a>
+						<a href="https://www.youtube.com/@Project.thelex" target="_blank" title="YouTube">
+							<i class="fa-brands fa-youtube"></i>
+						</a>
+					</div>
+					<hr class="footer-separator" />
+					<div class="footer-copyright">
+						<p>&copy; 2025 Projet Thelex. Tous droits réservés. Construits l'avenir, ensemble.</p>
+					</div>
+				</div>
+			</footer>
 		</main>
 
-		<script>
-			const menuButton = document.getElementById("menu-button");
-			const navMenu = document.getElementById("nav-menu");
-			const contentDiv = document.getElementById("content");
-			const contentContainer = document.getElementById("content-container");
-
-			function toggleMenu() {
-				navMenu.classList.toggle("open");
-			}
-
-			menuButton.addEventListener("click", toggleMenu);
-
-			function renderCheckboxes(markdown) {
-				return markdown
-					.replace(/\[ \]/g, '<input type="checkbox" disabled>')
-					.replace(/\[x\]/gi, '<input type="checkbox" checked disabled>')
-					.replace(/\[-\]/g, '<input type="checkbox" indeterminate disabled>');
-			}
-
-			async function loadContent(file) {
-				try {
-					const filePath = `documents/${file}`;
-					const response = await fetch(`${filePath}?v=${new Date().getTime()}`);
-					if (!response.ok) throw new Error(`Fichier non trouvé: ${file}`);
-
-					let text = await response.text();
-					text = renderCheckboxes(text);
-
-					contentDiv.innerHTML = marked.parse(text);
-
-					const firstHeading = contentDiv.querySelector("h1");
-					document.title = firstHeading ? firstHeading.textContent : "Mon Projet";
-
-					contentContainer.scrollTop = 0;
-				} catch (error) {
-					contentDiv.innerHTML = `<p style="color: red;"><strong>Erreur :</strong> ${error.message}</p>`;
-				}
-			}
-
-			navMenu.addEventListener("click", (event) => {
-				if (event.target.tagName === "A") {
-					event.preventDefault();
-					const file = event.target.dataset.file;
-					if (file) {
-						navMenu.querySelectorAll("a").forEach((link) => link.classList.remove("active"));
-						event.target.classList.add("active");
-						loadContent(file);
-					}
-					if (window.innerWidth < 1024) {
-						toggleMenu();
-					}
-				}
-			});
-
-			document.addEventListener("DOMContentLoaded", () => {
-				loadContent("projet.txt");
-			});
-		</script>
+		<script src="scripts/budget.js" type="module"></script>
+		<script src="main.js" type="module"></script>
 	</body>
 </html>

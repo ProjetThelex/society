@@ -1,11 +1,12 @@
-# Chantier 10 : L'Atelier 
+# L'Atelier 
 
 ## 1. Description et But
-**Description :** Aménagement d'un container maritime de 20 pieds (14m²) en atelier de construction et de réparation partagé.
-**But :** Disposer d'un espace sécurisé, fonctionnel et bien équipé pour tous les travaux manuels (bois, métal, etc.), favorisant l'échange de compétences.
+Ce branche consiste à aménager un atelier polyvalent, qui servira à la construction, la réparation et la maintenance de l'ensemble des infrastructures du lieu. L'utilisation d'un container maritime est privilégiée pour sa robustesse et sa modularité.
+
+Disposer d'un atelier fonctionnel et bien équipé pour le travail du bois, du métal et la mécanique, afin de soutenir l'autoconstruction et d'assurer l'entretien autonome du lieu.
 
 ## 2. Lien Social
-L'atelier est le lieu par excellence de la transmission de savoir-faire techniques. C'est un espace de collaboration, d'entraide pour les réparations et de création collective. Sa bonne organisation est un facteur clé pour la réussite des autres chantiers.
+L'atelier est le lieu par excellence de la transmission de savoir-faire techniques. C'est un espace de collaboration, d'entraide pour les réparations et de création collective. Sa bonne organisation est un facteur clé pour la réussite des autres branches.
 
 ## 3. Objectifs Clés / Livrables
 - [ ] Un container maritime livré et positionné sur le terrain.

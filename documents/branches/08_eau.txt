@@ -1,8 +1,9 @@
-# Chantier 8 : L'Eau
+# L'Eau
 
 ## 1. Description et But
-**Description :** Ce chantier est le pilier de l'autonomie en eau. Il couvre l'ensemble du cycle : la collecte d'eau de pluie, son stockage, sa filtration et potabilisation, la production d'eau chaude, la distribution sur tout le terrain, et enfin le traitement écologique des eaux usées.
-**But :** Gérer l'intégralité du cycle de l'eau sur le terrain de manière écologique et résiliente, en fournissant eau froide et chaude pour 15 personnes.
+Ce branche est essentiel à l'autonomie et à la résilience du lieu. Il couvre l'ensemble du cycle de l'eau : collecte (eau de pluie), stockage, filtration pour potabilisation, distribution, et traitement des eaux usées.
+
+Mettre en place un système de gestion de l'eau en circuit fermé, assurant une ressource en eau potable de qualité et en quantité suffisante, tout en minimisant l'impact sur l'environnement.
 
 ## 2. Lien Social
 La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une responsabilité collective. Elle implique une conscience de chaque litre utilisé et une participation active au maintien des systèmes (filtres, phytoépuration), renforçant le lien entre les résidents et leur environnement direct.

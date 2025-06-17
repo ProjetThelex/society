@@ -1,8 +1,9 @@
-# Chantier 4 : Les Sanitaires
+# Les Sanitaires
 
 ## 1. Description et But
-**Description :** Ce chantier a pour objet la mise en place de deux bâtiments sanitaires (toilettes et salles de bain) pour une capacité de 15 personnes. Le cœur du système sera des kits "HomeBiogas" qui traitent les effluents humains pour produire du biogaz.
-**But :** Assurer l'hygiène, le confort pour 15 personnes, et transformer les effluents en ressource (gaz de cuisson), tout en s'intégrant dans le cycle de l'eau autonome du lieu.
+Ce branche consiste à mettre en place des installations sanitaires communes, incluant des douches et des toilettes sèches. L'objectif est d'assurer l'hygiène et le confort tout en adoptant une gestion écologique des eaux et des déchets.
+
+Créer des sanitaires communs fonctionnels, hygiéniques et écologiques, avec un système de traitement des eaux usées (phytoépuration) et de valorisation des déchets (compostage).
 
 ## 2. Lien Social
 La gestion partagée d'équipements aussi essentiels que les sanitaires est un exercice de responsabilité collective. Le choix de technologies comme les toilettes sèches a un impact direct sur les routines quotidiennes et l'implication de chacun dans la gestion des déchets organiques.
