@@ -1,14 +1,14 @@
 # L'Atelier 
 
 ## 1. Description et But
-Ce branche consiste à aménager un atelier polyvalent, qui servira à la construction, la réparation et la maintenance de l'ensemble des infrastructures du lieu. L'utilisation d'un container maritime est privilégiée pour sa robustesse et sa modularité.
+Cette branche consiste à aménager un atelier polyvalent, qui servira à la construction, la réparation et la maintenance de l'ensemble des infrastructures du lieu. L'utilisation d'un container maritime est privilégiée pour sa robustesse et sa modularité.
 
 Disposer d'un atelier fonctionnel et bien équipé pour le travail du bois, du métal et la mécanique, afin de soutenir l'autoconstruction et d'assurer l'entretien autonome du lieu.
 
-## 2. Lien Social
+## 2. Lien social
 L'atelier est le lieu par excellence de la transmission de savoir-faire techniques. C'est un espace de collaboration, d'entraide pour les réparations et de création collective. Sa bonne organisation est un facteur clé pour la réussite des autres branches.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Un container maritime livré et positionné sur le terrain.
 - [ ] Un aménagement intérieur fonctionnel (établi, rangements, électricité).
 - [ ] Un inventaire d'outillage de base pour le bois et le métal.
@@ -17,7 +17,7 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 - [ ] Un établi et des rangements fonctionnels.
 - [ ] L'outillage de base pour le bois, le métal et la mécanique installé.
 
-## 4. Besoins Matériels à acquérir
+## 4. Besoins matériels à acquérir
 
 | Catégorie          | Description                                  | Coût Estimé |
 | ------------------ | -------------------------------------------- | ----------- |
@@ -27,7 +27,7 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 | Équipement/Mobilier| Établi, rangements, étau...                  | ~500 €     |
 | Outillage spécifique| Équipements spécialisés (ex: poste à souder) | ~500 €     | (Achat groupé, occasion)                                     |
 
-## 5. Besoins Énergétiques
+## 5. Besoins énergétiques
 *Estimations pour les jours de forte utilisation de l'atelier.*
 | Équipement                  | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | --------------------------- | ------------- | -------------- | ---------------------- |
@@ -40,12 +40,12 @@ L'atelier est le lieu par excellence de la transmission de savoir-faire techniqu
 - Outillage à main de base (clés, tournevis, marteaux, scies manuelles...).
 - Perceuse, visseuse, meuleuse...
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Budget Total Maximum (Investissement) :** 9 000 €
 - **Total Estimé à acquérir :** ~6 500 €
 - **Marge / Imprévus :** ~2 000 €
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] Rechercher les fournisseurs de containers d'occasion (20 pieds).
 - [ ] Organiser le transport et le positionnement sur site.
 - [ ] Réaliser les découpes (portes, fenêtres) si nécessaire.

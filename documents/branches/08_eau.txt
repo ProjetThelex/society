@@ -1,14 +1,14 @@
 # L'Eau
 
 ## 1. Description et But
-Ce branche est essentiel à l'autonomie et à la résilience du lieu. Il couvre l'ensemble du cycle de l'eau : collecte (eau de pluie), stockage, filtration pour potabilisation, distribution, et traitement des eaux usées.
+Cette branche est essentielle à l'autonomie et à la résilience du lieu. Il couvre l'ensemble du cycle de l'eau : collecte (eau de pluie), stockage, filtration pour potabilisation, distribution, et traitement des eaux usées.
 
 Mettre en place un système de gestion de l'eau en circuit fermé, assurant une ressource en eau potable de qualité et en quantité suffisante, tout en minimisant l'impact sur l'environnement.
 
-## 2. Lien Social
+## 2. Lien social
 La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une responsabilité collective. Elle implique une conscience de chaque litre utilisé et une participation active au maintien des systèmes (filtres, phytoépuration), renforçant le lien entre les résidents et leur environnement direct.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Un système de collecte et de stockage des eaux de pluie fonctionnel (ex: citernes).
 - [ ] Un système de filtration et de potabilisation de l'eau installé et validé (analyse de la qualité de l'eau).
 - [ ] Un réseau de plomberie distribuant l'eau aux points de besoin (cuisine, sanitaires).
@@ -16,29 +16,29 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 - [ ] Un système de production d'eau chaude sanitaire (ex: chauffe-eau solaire) fonctionnel.
 - [ ] Un réseau de plomberie général distribuant l'eau sur le terrain.
 
-## 4. Besoins Matériels à acquérir
+## 4. Besoins matériels à acquérir
 
 *Principe : Tous les équipements seront recherchés d'occasion ou en déstockage pour minimiser les coûts.*
 
 | Catégorie                  | Sous-catégorie / Équipement                  | Coût Estimé |
 | -------------------------- | -------------------------------------------- | ----------- |
-| **Collecte & Stockage**    |                                              | **~6 500 €**|
+| **Collecte & stockage**    |                                              | **~6 500 €**|
 |                            | Gouttières + collecteurs pour les bâtiments  | ~1 100 €    |
 |                            | Cuve de récupération 10 000L (x2)            | ~5 400 €    |
-| **Filtration/Pompage**     |                                              | **~1 750 €**|
+| **Filtration/pompage**     |                                              | **~1 750 €**|
 |                            | Filtres 3 étages (sédiments, KDF, charbon) x2| ~700 €      |
 |                            | Stérilisateur à lampe UV (x2)                | ~1 000 €    |
 |                            | Pompe surpresseur pour le réseau             | ~300 €      |
-| **Production Eau Chaude**  |                                              | **~1 100 €**|
+| **Production eau chaude**  |                                              | **~1 100 €**|
 |                            | Chauffe-eau solaire (DIY)                    | ~500 €      |
 |                            | Chauffe-eau gaz (alimenté par biogaz toilettes) x2 | ~600 €      |
-| **Réseau de Plomberie**    |                                              | **~800 €**  |
+| **Réseau de plomberie**    |                                              | **~800 €**  |
 |                            | Réseau primaire et secondaire                | ~700 €      |
 |                            | Raccords, vannes, outillage                  | ~100 €      |
 | **Analyse de l'eau**       |                                              | **~400 €**  |
 |                            | Kits de test qualité de l'eau (bactério, pH) | ~400 €      |
 
-## 5. Besoins Énergétiques
+## 5. Besoins énergétiques
 | Équipement                  | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | --------------------------- | ------------- | -------------- | ---------------------- |
 | Chauffe-eau électrique      | 3000          | 2              | 6000                   |
@@ -50,11 +50,11 @@ La gestion de l'eau est, comme l'énergie, un pilier de l'autonomie et une respo
 ## 6. Matériels déjà acquis
 - (À compléter si applicable)
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Analyse de la qualité de l'eau (labo) :** ~400 €
 - **Total Investissement Matériel Estimé :** ~10 350 €
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] Estimer les besoins journaliers en eau (froide et chaude).
 - [ ] Dimensionner le stockage, le chauffe-eau solaire et le chauffe-eau gaz.
 - [ ] Sourcer et acheter l'ensemble du matériel (cuve, filtres, boiler...).

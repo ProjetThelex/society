@@ -7,7 +7,7 @@
     </div>
     <div style="flex: 1;">
 
-## Un lieu pour Vivre, Travailler et Coopérer
+## Un lieu pour vivre, travailler et coopérer
 
 Le Projet Thelex est notre réponse à une quête de sens collective : celle de réconcilier vie professionnelle, épanouissement personnel et respect du vivant. Nous portons l'ambition de créer un **lieu de vie collectif** qui soit à la fois un lieu de vie sobre et solidaire, et un pôle de travail et de créativité innovant.
     </div>
@@ -15,7 +15,7 @@ Le Projet Thelex est notre réponse à une quête de sens collective : celle de 
 
 Nous souhaitons construire un modèle où le travail à distance ne rime plus avec isolement, mais avec **communauté, collaboration et connexion profonde à la nature**. Ce projet est pensé comme un prototype reproductible d'un mode de vie et de travail résilient face aux défis écologiques et sociaux de notre époque.
 
-## Le Collectif Humain : Cœur du Projet
+## Le collectif humain : cœur du projet
 
 Plus qu'un simple lieu, Projet Thelex est avant tout une aventure humaine. Notre collectif est uni par des valeurs fortes d'entraide, de partage et de communication bienveillante. Nous accordons une importance primordiale au "vivre-ensemble" et à la **gouvernance partagée**, que nous considérons comme les fondations de la résilience du groupe.
 
@@ -23,7 +23,7 @@ Le principe fondamental est celui de **l'interdépendance choisie, et non de la 
 
 Nous voulons créer un environnement de confiance où chaque membre peut s'épanouir, contribuer et se sentir soutenu, sans jamais sacrifier sa liberté individuelle. Cet écosystème humain sera le véritable terreau de la créativité et du bien-être au sein du lieu.
 
-## Un Modèle Écologique et Résilient
+## Un modèle écologique et résilient
 
 Notre engagement écologique est au centre de la conception du lieu. Nous visons une **autonomie maximale** à travers quatre piliers fondamentaux, garantissant un faible impact environnemental et une grande résilience :
 
@@ -34,7 +34,7 @@ Notre engagement écologique est au centre de la conception du lieu. Nous visons
 
 Toutes les constructions seront des **habitats légers et réversibles** (dômes, structures bois) pour minimiser notre empreinte sur le site.
 
-## Un Écosystème Économique Viable
+## Un écosystème économique viable
 
 La pérennité de notre projet repose sur un modèle économique solide et intégré à notre mode de vie. L'**espace de coworking** sera le poumon économique de l'oasis, permettant de :
 
@@ -44,7 +44,7 @@ La pérennité de notre projet repose sur un modèle économique solide et inté
 
 Cette activité économique assure la viabilité du projet, notre capacité à honorer nos engagements financiers, et fait de notre lieu une ressource pour le territoire.
 
-## Feuille de Route en 4 Étapes
+## Feuille de route en 4 étapes
 
 Notre projet se déploiera de manière progressive et organique, en suivant une feuille de route en quatre grandes étapes. Cette approche phasée nous permet de sécuriser chaque étape avant de passer à la suivante, d'apprendre en continu et d'ajuster notre trajectoire. Elle reflète la maturité de notre projet et notre vision à long terme.
 
@@ -53,6 +53,6 @@ Notre projet se déploiera de manière progressive et organique, en suivant une 
 *   **<a href="#" data-file="etapes/03_accomplissement.txt">Étape 3 : Accomplissement.</a>** Atteindre la pleine capacité d'accueil de 10 résidents et finaliser les infrastructures.
 *   **<a href="#" data-file="etapes/04_agrandissement.txt">Étape 4 : Agrandissement.</a>** Augmenter la capacité du coworking pour en faire un pôle de ressources pour le territoire.
 
-## Budget Prévisionnel
+## Budget prévisionnel
 
 <div id="budget-table-placeholder"></div>

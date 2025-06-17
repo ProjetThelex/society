@@ -1,21 +1,21 @@
 # La Cuisine
 
 ## 1. Description et But
-Ce branche vise à créer un espace cuisine commun fonctionnel et convivial. Il inclut la construction du bâtiment, l'aménagement intérieur (plans de travail, rangements) et l'équipement nécessaire à la préparation des repas pour la collectivité.
+Cette branche vise à créer un espace cuisine commun fonctionnel et convivial. Il inclut la construction du bâtiment, l'aménagement intérieur (plans de travail, rangements) et l'équipement nécessaire à la préparation des repas pour la collectivité.
 
 Mettre à disposition une cuisine commune entièrement équipée, favorisant la convivialité et la préparation collective des repas.
 
-## 2. Lien Social
+## 2. Lien social
 La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour les interactions quotidiennes, le partage des tâches, la transformation des produits du potager et l'organisation de repas collectifs.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Plans du bâtiment ou de l'espace cuisine.
 - [ ] Le bâtiment de la cuisine construit et isolé.
 - [ ] Un aménagement intérieur fonctionnel (plans de travail, rangements).
 - [ ] Les équipements de cuisson et de conservation installés et opérationnels.
 - [ ] Le chalet de 30m² monté, isolé et hors d'eau.
 
-## 4. Besoins Matériels à acquérir
+## 4. Besoins matériels à acquérir
 
 *Principe : Sauf pour la structure (chalet), tous les équipements seront recherchés d'occasion ou auto-construits pour minimiser les coûts et l'empreinte écologique.*
 
@@ -24,17 +24,17 @@ La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour l
 | Structure          | Chalet en kit 30m² (isolation incluse)       | ~9 000 €    | https://www.chaletdejardin.fr/studio-de-jardin-marion-44-mm-30-m2.html |
 | Fondations légères | Plots réglables, vis de fondation ou similar | ~500 €      | (Occasion / Auto-construit)                                  |
 | **Aménagement**    |                                              | **~400 €**  |                                                              |
-| *Détail Aménagement*| Plans de travail, étagères (bois de récup)   | ~200 €      | (Auto-construit)                                             |
-| *Détail Aménagement*| Meubles de rangement bas (bois de récup)     | ~200 €      | (Auto-construit)                                             |
+| *Détail aménagement*| Plans de travail, étagères (bois de récup)   | ~200 €      | (Auto-construit)                                             |
+| *Détail aménagement*| Meubles de rangement bas (bois de récup)     | ~200 €      | (Auto-construit)                                             |
 | **Équipement**     |                                              | **~450 €**  |                                                              |
-| *Détail Équipement*| Cuisinière Biogaz (+ appoint bouteille)      | 0 €         | Inclus dans le branche "Sanitaires" (Kit HomeBiogas)        |
-| *Détail Équipement*| Cuisinière à gaz (bouteille)                 | ~150 €      | (Recherche occasion)                                         |
-| *Détail Équipement*| Réfrigérateur + congélateur basse conso A+++ | ~300 €      | (Recherche occasion)                                         |
-| **Plomberie/Élec.**|                                              | **~500 €**  |                                                              |
-| *Détail Plomberie* | Évier double bac, mitigeur, tuyauterie...    | ~200 €      | (Recherche occasion)                                         |
-| *Détail Électricité*| Tableau, câblage, prises, éclairage LED...   | ~300 €      | (Occasion / Déstockage)                                      |
+| *Détail équipement*| Cuisinière biogaz (+ appoint bouteille)      | 0 €         | Inclus dans la branche "Sanitaires" (Kit HomeBiogas)        |
+| *Détail équipement*| Cuisinière à gaz (bouteille)                 | ~150 €      | (Recherche occasion)                                         |
+| *Détail équipement*| Réfrigérateur + congélateur basse conso A+++ | ~300 €      | (Recherche occasion)                                         |
+| **Plomberie/Électricité**|                                              | **~500 €**  |                                                              |
+| *Détail plomberie* | Évier double bac, mitigeur, tuyauterie...    | ~200 €      | (Recherche occasion)                                         |
+| *Détail électricité*| Tableau, câblage, prises, éclairage LED...   | ~300 €      | (Occasion / Déstockage)                                      |
 
-## 5. Besoins Énergétiques
+## 5. Besoins énergétiques
 *Note: La cuisson est assurée par le Biogaz.*
 | Équipement                      | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | ------------------------------- | ------------- | -------------- | ---------------------- |
@@ -43,16 +43,16 @@ La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour l
 | Petit électroménager (mixeur...) | 1000          | 0.2            | 200                    |
 | **Total estimé**                |               |                | **~1600**              |
 
-## 6. Matériels déjà acquis
+## 6. matériels déjà acquis
 - Petit électroménager (mixeur, bouilloire, etc.)
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Budget Total Maximum (Investissement) :** 15 000 €
 - **Structure (Chalet, fondations) :** ~9 500 €
 - **Aménagements & Équipements à acquérir :** ~1 350 €
 - **Marge / Imprévus :** ~4 150 €
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
 - [ ] Sélectionner et commander le modèle de chalet en kit 30m².
 - [ ] Préparer le terrain et installer les fondations légères.
@@ -63,7 +63,7 @@ La cuisine est souvent le cœur d'un lieu de vie. Cet espace sera central pour l
 - [ ] Installation et raccordement des équipements.
 - [ ] Finitions et décoration.
 
-## 9. Liens et Fournisseurs Potentiels
+## 9. Liens et fournisseurs potentiels
 Voici des liens de référence pour des chalets en kit :
 - **Chaletenbois.fr :** https://chaletenbois.fr/chalet-habitable/
 - **Maison et Chalet en Bois :** https://www.maisonetchaletenbois.com/

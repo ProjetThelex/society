@@ -2,7 +2,7 @@
 
 L'objectif est de créer le "cœur" du réacteur. Cette phase se concentre sur l'acquisition du terrain et la construction d'une base fonctionnelle minimale : un premier logement, un bureau fonctionnel, les infrastructures vitales (cuisine, sanitaires, atelier) et les raccordements essentiels (eau, énergie).
 
-## Budget Total Prévisionnel - Phase Lancement
+## Budget total prévisionnel - Phase lancement
 
 | Branche                  | Coût Total Estimé |
 | ------------------------- | ----------------- |
@@ -19,7 +19,7 @@ L'objectif est de créer le "cœur" du réacteur. Cette phase se concentre sur l
 
 ---
 
-## Détail par Branche - Phase Lancement
+## Détail par branche - Phase lancement
 
 ### Terrain
 - **Coûts directs :** 43 250 €

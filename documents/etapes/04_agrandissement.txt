@@ -1,13 +1,13 @@
-# 04. Agrandissement et Rayonnement
+# 04. Agrandissement et rayonnement
 
 Une fois le lieu de vie consolidé, nous augmenterons la capacité de l'espace de coworking pour accueillir jusqu'à 15 travailleurs externes, en plus des résidents. Cela renforcera la viabilité économique du projet et son rôle de pôle de ressources pour le territoire.
 
-## Budget Total Prévisionnel - Phase Agrandissement
+## Budget total prévisionnel - Phase agrandissement
 
 | Branche                            | Coût Additionnel Estimé |
 | ----------------------------------- | ----------------------- |
 | Sanitaires (+10p)                   | 7 500 €                 |
-| Vie Sociale (Dôme 2)                | 7 150 €                 |
+| Vie sociale (Dôme 2)                | 7 150 €                 |
 | Coworking (+10 postes)              | 10 800 €                |
 | Énergie (+10p)                      | 12 000 €                |
 | Eau (réserve x2)                    | 3 000 €                 |
@@ -15,7 +15,7 @@ Une fois le lieu de vie consolidé, nous augmenterons la capacité de l'espace d
 
 ---
 
-## Détail par Branche - Phase Agrandissement
+## Détail par branche - Phase agrandissement
 
 ### 04 - Sanitaires (ajout 10p)
 - **Objectif:** Ajouter une capacité pour 10 personnes supplémentaires.
@@ -25,7 +25,7 @@ Une fois le lieu de vie consolidé, nous augmenterons la capacité de l'espace d
   - Plomberie et aménagement: 500 €
 - **TOTAL CHANTIER :** **7 500 €**
 
-### 05 - Vie Sociale (ajout d'un 2ème Dôme)
+### 05 - Vie sociale (ajout d'un 2ème dôme)
 - **Objectif:** Maintenir un espace de détente suffisant pour 10 résidents supplémentaires.
 - **Coûts directs:**
   - 1x Dôme géodésique + Fondations: 6 250 €

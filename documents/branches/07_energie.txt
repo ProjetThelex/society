@@ -1,33 +1,33 @@
 # L'Énergie
 
 ## 1. Description et But
-Ce branche vise à rendre le lieu 100% autonome en électricité. Il comprend le dimensionnement, l'installation et la gestion d'un système complet de production (panneaux solaires), de stockage (batteries) et de distribution d'énergie.
+Cette branche vise à rendre le lieu 100% autonome en électricité. Il comprend le dimensionnement, l'installation et la gestion d'un système complet de production (panneaux solaires), de stockage (batteries) et de distribution d'énergie.
 
 Assurer une alimentation électrique fiable, durable et entièrement renouvelable pour tous les besoins du lieu (logements, espaces communs, coworking), sans dépendre du réseau public.
 
-## 2. Lien Social
+## 2. Lien social
 La gestion de l'énergie est une responsabilité partagée. Elle impose une conscience collective de la consommation et une adaptation des usages en fonction de la production (météo). C'est un apprentissage quotidien de la sobriété et de la planification.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Un bilan de puissance complet (liste de tous les appareils et estimation de la consommation).
 - [ ] Le système de production d'énergie (ex: panneaux solaires) installé et fonctionnel.
 - [ ] Le parc de batteries de stockage installé et fonctionnel.
 - [ ] Un réseau de distribution électrique sécurisé alimentant tous les bâtiments.
 
-## 4. Synthèse des Besoins Énergétiques par Branche
+## 4. Synthèse des besoins énergétiques par branche
 | Branche                  | Consommation Estimée (Wh/jour) | Notes                               |
 | ------------------------- | ------------------------------ | ----------------------------------- |
 | 02 - Logements            | ~1 500                         | + Bois pour le chauffage            |
 | 03 - Cuisine              | ~1 600                         | + Biogaz pour la cuisson            |
 | 04 - Sanitaires           | ~2 355                         | + Bois pour l'eau chaude & chauffage|
-| 05 - Vie Sociale (Dômes x2) | ~1 200                         | + Bois pour le chauffage            |
+| 05 - Vie sociale (dômes x2) | ~1 200                         | + Bois pour le chauffage            |
 | 06 - Coworking            | ~20 160                        | Principal pôle de consommation      |
 | 08 - Eau                  | ~3 585                         | Pompes, filtration et chauffe-eau solaire/gaz   |
 | 09 - Alimentation         | ~900                           | Saisonnier (irrigation x3)          |
 | 10 - Atelier              | ~2 900                         | Journées de construction            |
 | **TOTAL ESTIMÉ**          | **~34 200 Wh/jour**            |                                     |
 
-## 5. Dimensionnement du Système
+## 5. Dimensionnement du système
 *Le dimensionnement vise une autonomie pour 24h, complétée par un groupe électrogène pour les périodes sans soleil prolongées.*
 - **Hypothèses :**
   - Besoin journalier : ~34.2 kWh.
@@ -45,7 +45,7 @@ La gestion de l'énergie est une responsabilité partagée. Elle impose une cons
   - Puissance à installer (avec 20% pertes) : 13.68 * 1.2 = ~16.5 kWc.
   - **=> Objectif : ~16.5 kWc de panneaux.**
 
-## 6. Besoins Matériels à acquérir
+## 6. Besoins matériels à acquérir
 *Principe : Le matériel sera recherché en priorité d'occasion, reconditionné ou en déstockage pour optimiser le budget, tout en restant vigilant sur la qualité et les garanties.*
 
 | Catégorie          | Description                                  | Coût Estimé |
@@ -56,12 +56,12 @@ La gestion de l'énergie est une responsabilité partagée. Elle impose une cons
 | Conversion/Gestion | Onduleur, régulateur de charge, moniteur...  | ~4 500 €    |
 | Distribution       | Câbles, disjoncteurs, tableaux, prises...    | ~3 000 €    |
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Total Estimé :** ~31 200 €
 - **Note :** Ce budget est une estimation basée sur un dimensionnement pour l'autonomie. Il est fortement recommandé de faire valider ces calculs par un professionnel.
 - **Note :** Le chauffe-eau pour l'eau chaude sanitaire sera au gaz (alimenté par le biogaz des toilettes), donc non inclus dans la consommation électrique.
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] **Action critique :** Valider les estimations de consommation de chaque branche.
 - [ ] Calculer le pic de puissance nécessaire (en W).
 - [ ] Dimensionner la puissance des panneaux et la capacité des batteries sur la base de ces calculs.

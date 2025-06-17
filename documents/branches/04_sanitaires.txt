@@ -1,32 +1,32 @@
 # Les Sanitaires
 
 ## 1. Description et But
-Ce branche consiste à mettre en place des installations sanitaires communes, incluant des douches et des toilettes sèches. L'objectif est d'assurer l'hygiène et le confort tout en adoptant une gestion écologique des eaux et des déchets.
+Cette branche consiste à mettre en place des installations sanitaires communes, incluant des douches et des toilettes sèches. L'objectif est d'assurer l'hygiène et le confort tout en adoptant une gestion écologique des eaux et des déchets.
 
 Créer des sanitaires communs fonctionnels, hygiéniques et écologiques, avec un système de traitement des eaux usées (phytoépuration) et de valorisation des déchets (compostage).
 
-## 2. Lien Social
+## 2. Lien social
 La gestion partagée d'équipements aussi essentiels que les sanitaires est un exercice de responsabilité collective. Le choix de technologies comme les toilettes sèches a un impact direct sur les routines quotidiennes et l'implication de chacun dans la gestion des déchets organiques.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Plans d'aménagement du chalet sanitaire.
 - [ ] Le bâtiment sanitaire (chalet de 20m²) construit et fonctionnel.
 - [ ] Le système HomeBiogas (2 toilettes + digesteur) installé et opérationnel.
 - [ ] Le réseau de biogaz raccordé à la cuisine commune.
 - [ ] Des douches et lavabos raccordés à la gestion de l'eau.
 
-## 4. Besoins Matériels à acquérir
+## 4. Besoins matériels à acquérir
 
 | Catégorie          | Description                                     | Coût Estimé | Fournisseur / Lien                                 |
 | ------------------ | ----------------------------------------------- | ----------- | -------------------------------------------------- |
 | Structure          | 2x Abris (toilettes & salles de bain)           | ~4 684 €    | (À définir)                                        |
-| Toilettes Biogaz   | 1x Kit HomeBiogas-2                             | ~2 000 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
-| Toilettes Biogaz   | 1x Kit HomeBiogas-4                             | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
+| Toilettes biogaz   | 1x Kit HomeBiogas-2                             | ~2 000 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
+| Toilettes biogaz   | 1x Kit HomeBiogas-4                             | ~3 200 €    | [homebiogas.com](https://www.homebiogas.com/shop/) |
 | Douches & Lavabos  | Receveurs, lavabos, robinetterie basse conso.   | ~1 500 €    | (À définir)                                        |
 | Plomberie          | Raccords, tuyauterie pour l'arrivée et l'évacuation | ~1 000 €    | (À définir)                                        |
 | Chauffage          | Poêle de masse rocket (auto-construit)          | ~500 €      | (Briques réfractaires, bidon, tube, terre...)      |
 
-## 5. Besoins Énergétiques
+## 5. Besoins énergétiques
 *Note: Le chauffage de l'espace est assuré par le poêle de masse (bois).*
 | Équipement                | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | ------------------------- | ------------- | -------------- | ---------------------- |
@@ -38,13 +38,13 @@ La gestion partagée d'équipements aussi essentiels que les sanitaires est un e
 ## 6. Matériels déjà acquis
 - (À compléter si applicable, ex: outils de plomberie de base)
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Budget Total Maximum (Investissement) :** ~13 900 €
 - **Structure (2 abris) :** ~4 684 €
 - **Équipements & Plomberie :** ~8 200 €
 - **Marge / Imprévus :** ~1 000 €
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).
 - [ ] Sélectionner et commander le chalet NANTES.
 - [ ] Préparer le terrain et les fondations.

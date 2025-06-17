@@ -1,19 +1,19 @@
-# Les Espaces de Vie Communs
+# Les espaces de vie communs
 
 ## 1. Description et But
-Ce branche est dédié à la création d'un espace de vie commun, un lieu de détente, de rencontre et d'activités collectives. Il prendra la forme d'un grand dôme géodésique, aménagé pour le confort et la convivialité.
+Cette branche est dédiée à la création d'un espace de vie commun, un lieu de détente, de rencontre et d'activités collectives. Il prendra la forme d'un grand dôme géodésique, aménagé pour le confort et la convivialité.
 
 Offrir un espace commun chaleureux et polyvalent pour renforcer la cohésion sociale, accueillir des activités de groupe et améliorer la qualité de vie des résidents.
 
-## 2. Lien Social
+## 2. Lien social
 Cet espace est le pendant "détente" de la cuisine. Il est essentiel pour la cohésion du groupe en dehors des moments de travail ou des tâches ménagères. C'est le lieu des décisions informelles, des soirées, des jeux, de la lecture. Son aménagement définira l'ambiance générale du lieu.
 
-## 3. Objectifs Clés / Livrables
+## 3. Objectifs clés / livrables
 - [ ] Plans des dômes.
 - [ ] Les dômes montés.
 - [ ] Un aménagement intérieur confortable et modulable.
 
-## 4. Besoins Matériels à acquérir
+## 4. Besoins matériels à acquérir
 
 | Catégorie          | Description                                  | Coût Estimé | Fournisseur / Lien                                           |
 | ------------------ | -------------------------------------------- | ----------- | ------------------------------------------------------------ |
@@ -23,24 +23,24 @@ Cet espace est le pendant "détente" de la cuisine. Il est essentiel pour la coh
 | Mobilier           | Mobilier auto-construit (bois de récup) (x2) | ~800 €      |                                                              |
 | Décoration         | Tissus, coussins, luminaires, plantes... (x2)| ~1 000 €    |                                                              |
 
-## 5. Besoins Énergétiques
+## 5. Besoins énergétiques
 *Note: Le chauffage est assuré par un poêle à bois dans un des dômes.*
 | Équipement                 | Puissance (W) | Durée (h/jour) | Consommation (Wh/jour) |
 | -------------------------- | ------------- | -------------- | ---------------------- |
 | Éclairage d'ambiance LED (x2)   | 120           | 5              | 600                    |
-| Système son / Vidéoprojecteur (x2) | 300           | 2              | 600                    |
+| Système son / vidéoprojecteur (x2) | 300           | 2              | 600                    |
 | **Total estimé**           |               |                | **~1200**              |
 
 ## 6. Matériels déjà acquis
 - (À compléter si applicable, ex: mobilier de récupération, luminaires, etc.)
 
-## 7. Budget Prévisionnel
+## 7. Budget prévisionnel
 - **Budget Total Maximum (Investissement) :** 22 150 €
 - **Structure (2 Dômes, fondations) :** ~12 500 €
 - **Aménagement & Chauffage :** ~4 300 €
 - **Marge / Imprévus :** ~5 350 €
 
-## 8. Plan d'Action / Tâches
+## 8. Plan d'action / tâches
 - [ ] Définir l'ambiance et les usages souhaités pour les espaces.
 - [ ] Dessiner les plans d'aménagement.
 - [ ] Valider la réglementation locale (Déclaration Préalable de Travaux).

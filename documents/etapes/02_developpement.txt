@@ -2,7 +2,7 @@
 
 L'objectif est d'ouvrir le lieu au public extérieur. Cette étape se concentre sur l'aménagement de l'espace de travail pour accueillir 3 à 4 personnes en coworking, le déploiement de la première version de nos systèmes d'autonomie (eau et énergie) et la mise en culture du potager.
 
-## Budget Total Prévisionnel - Phase Développement
+## Budget total prévisionnel - Phase développement
 
 | Branche                            | Coût Additionnel Estimé |
 | ----------------------------------- | ----------------------- |
@@ -16,7 +16,7 @@ L'objectif est d'ouvrir le lieu au public extérieur. Cette étape se concentre 
 
 ---
 
-## Détail par Branche - Phase Développement
+## Détail par branche - Phase développement
 
 ### Terrain (solde du prêt)
 - **Coûts directs :** 77 375 €
