@@ -4,6 +4,11 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Projet Thelex</title>
+		<meta property="og:title" content="Projet Thelex" />
+		<meta property="og:description" content="Construits l'avenir, ensemble." />
+		<meta property="og:image" content="https://projetthelex.github.io/society/images/icon.png" />
+		<meta property="og:url" content="https://projetthelex.github.io/society/" />
+		<meta property="og:type" content="website" />
 		<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -371,17 +376,16 @@
 	<body>
 		<button id="menu-button">☰</button>
 		<nav id="nav-menu">
-			<a href="#" data-file="summary.txt" class="active">
+			<a href="#" data-file="summary.md" class="active">
 				<img src="images/icon.png" alt="Icone Thelex" class="menu-icon" />
 			</a>
 			<h2>Les Étapes</h2>
-			<ul id="etapes-menu-list">
-				<!-- La liste des étapes sera injectée ici par JavaScript -->
-			</ul>
-			<h2 class="collapsible-trigger">Les Branches <span class="arrow">▶</span></h2>
-			<ul class="collapsible-content" id="branches-menu-list">
-				<!-- La liste des branches sera injectée ici par JavaScript -->
-			</ul>
+			<ul id="etapes-menu-list"></ul>
+			<h2 class="collapsible-trigger">Branches <span class="arrow">▶</span></h2>
+			<ul id="branches-menu-list" class="collapsible-content"></ul>
+
+			<h2 class="collapsible-trigger">Projets <span class="arrow">▶</span></h2>
+			<ul id="projets-menu-list" class="collapsible-content"></ul>
 		</nav>
 		<main id="content-container">
 			<div id="content"></div>
@@ -401,6 +405,10 @@
 						</a>
 					</div>
 					<hr class="footer-separator" />
+					<div
+						id="last-updated"
+						style="color: var(--secondary-text-color); font-size: 14px; margin-bottom: 15px"
+					></div>
 					<div class="footer-copyright">
 						<p>&copy; 2025 Projet Thelex. Tous droits réservés. Construits l'avenir, ensemble.</p>
 					</div>

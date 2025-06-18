@@ -1,5 +1,5 @@
 import { setupEventListeners } from "./listeners.js";
-import { branches, etapes } from "./config.js";
+import { branches, etapes, projets } from "./config.js";
 import { generateBudgetTable } from "./scripts/budget.js";
 
 export const menuButton = document.getElementById("menu-button");
@@ -35,12 +35,28 @@ async function loadContent(file) {
 		const response = await fetch(`${filePath}?v=${new Date().getTime()}`);
 		if (!response.ok) throw new Error(`Fichier non trouvé: ${file}`);
 
+		const lastModified = response.headers.get("Last-Modified");
+		const lastUpdatedDiv = document.getElementById("last-updated");
+
+		if (lastModified && lastUpdatedDiv) {
+			const date = new Date(lastModified);
+			const options = {
+				year: "numeric",
+				month: "long",
+				day: "numeric",
+				hour: "2-digit",
+				minute: "2-digit",
+			};
+			const formattedDate = date.toLocaleDateString("fr-FR", options);
+			lastUpdatedDiv.innerHTML = `Dernière mise à jour le ${formattedDate}`;
+		} else if (lastUpdatedDiv) lastUpdatedDiv.innerHTML = "";
+
 		let text = await response.text();
 		text = renderCheckboxes(text);
 
 		contentDiv.innerHTML = marked.parse(text);
 
-		if (file === "summary.txt") {
+		if (file === "summary.md") {
 			const placeholder = document.getElementById("budget-table-placeholder");
 			if (placeholder) {
 				placeholder.innerHTML = await generateBudgetTable();
@@ -127,6 +143,21 @@ function populateEtapesMenu() {
 	});
 }
 
+function populateProjetsMenu() {
+	const projetsMenuList = document.getElementById("projets-menu-list");
+	if (!projetsMenuList) return;
+
+	projets.forEach((projet) => {
+		const li = document.createElement("li");
+		const a = document.createElement("a");
+		a.href = "#";
+		a.dataset.file = projet.file;
+		a.innerHTML = `<i class="${projet.icon}"></i> ${projet.name}`;
+		li.appendChild(a);
+		projetsMenuList.appendChild(li);
+	});
+}
+
 export function updatePageNavHighlight() {
 	const headings = contentDiv.querySelectorAll("h2[id], h3[id]");
 	if (headings.length === 0) return;
@@ -159,8 +190,9 @@ export function navigateTo(file) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-	navigateTo("summary.txt");
+	navigateTo("summary.md");
 	setupEventListeners();
 	populateBranchesMenu();
+	populateProjetsMenu();
 	populateEtapesMenu();
 });
