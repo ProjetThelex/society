@@ -366,6 +366,30 @@
 				color: var(--accent-color);
 				font-weight: 700;
 			}
+			.carousel-slide img {
+				width: 100%;
+				aspect-ratio: 16 / 9;
+				object-fit: cover;
+				border-radius: 8px;
+			}
+			.carousel-caption {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				background: rgba(0, 0, 0, 0.6);
+				color: white;
+				padding: 15px;
+				text-align: center;
+				font-size: 1.1em;
+				font-weight: 600;
+				border-bottom-left-radius: 8px;
+				border-bottom-right-radius: 8px;
+			}
+			.carousel-slide a {
+				position: relative;
+				display: block;
+			}
 			@media (max-width: 1300px) {
 				#page-nav {
 					display: none !important;

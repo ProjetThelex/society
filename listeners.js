@@ -19,18 +19,12 @@ export function setupEventListeners() {
 		if (link) {
 			event.preventDefault();
 			const file = link.dataset.file;
-			if (file) {
-				navigateTo(file);
-			}
-			if (window.innerWidth < 1024) {
-				toggleMenu();
-			}
+			if (file) navigateTo(file);
+			if (window.innerWidth < 1024) toggleMenu();
 		} else if (trigger) {
 			trigger.classList.toggle("open");
 			const content = trigger.nextElementSibling;
-			if (content && content.classList.contains("collapsible-content")) {
-				content.classList.toggle("open");
-			}
+			if (content && content.classList.contains("collapsible-content")) content.classList.toggle("open");
 		}
 	});
 
@@ -54,9 +48,7 @@ export function setupEventListeners() {
 			event.preventDefault();
 			const targetId = link.hash.substring(1);
 			const targetElement = document.getElementById(targetId);
-			if (targetElement) {
-				targetElement.scrollIntoView({ behavior: "smooth", block: "start" });
-			}
+			if (targetElement) targetElement.scrollIntoView({ behavior: "smooth", block: "start" });
 		}
 	});
 

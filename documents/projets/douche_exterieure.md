@@ -1,8 +1,16 @@
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-bottom: 2rem;">
+    <div style="flex: 2;">
+
 # Projet: Douche extérieure
 
-## But du projet
-
 Créer une douche extérieure fonctionnelle et agréable, tout en expérimentant des systèmes alternatifs. Elle sera alimentée par le collecteur d'eau de pluie (eau froide) et par le chauffe-eau solaire (eau chaude), avec un mitigeur pour régler la température.
+
+</div>
+<div style="flex: 1;">
+<img src="images/douche.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+</div>
+</div>
+</div>
 
 ## Lien avec l'objet social
 

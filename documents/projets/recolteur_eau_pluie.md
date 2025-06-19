@@ -1,8 +1,17 @@
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-bottom: 2rem;">
+    <div style="flex: 2;">
+
 # Projet: Récolteur d'eau de pluie 1000L
 
-## But du projet
-
 Collecter l'eau de pluie pour l'arrosage du jardin, le nettoyage et potentiellement pour la douche extérieure, afin de réduire la consommation d'eau potable, de gagner en autonomie et d'expérimenter des systèmes alternatifs.
+
+</div>
+<div style="flex: 1;">
+<img src="images/recolteur.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+</div>
+</div>
+
+</div>
 
 ## Lien avec l'objet social
 

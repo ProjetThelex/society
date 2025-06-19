@@ -1,8 +1,16 @@
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-bottom: 2rem;">
+    <div style="flex: 2;">
+
 # Projet: Dôme serre géodésique
 
-## But du projet
-
 Construire une serre en forme de dôme géodésique pour cultiver des plantes à l'année, allonger les saisons de culture, et créer un microclimat favorable à la biodiversité. Ce projet est aussi une opportunité d'expérimenter des systèmes alternatifs et un support d'apprentissage à la construction, la taille de 30m² étant la même que celle de nos futurs logements. Le dôme peut aussi servir d'espace de vie, d'atelier ou de rencontre.
+
+</div>
+<div style="flex: 1;">
+<img src="images/serre.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+</div>
+</div>
+</div>
 
 ## Lien avec l'objet social
 

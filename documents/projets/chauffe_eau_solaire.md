@@ -1,8 +1,17 @@
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-bottom: 2rem;">
+    <div style="flex: 2;">
+
 # Projet: Chauffe-eau solaire
 
-## But du projet
-
 Produire de l'eau chaude sanitaire de manière autonome et écologique grâce à l'énergie solaire, et expérimenter des systèmes alternatifs. L'eau chaude pourra alimenter la douche extérieure, et potentiellement d'autres points d'eau.
+
+</div>
+<div style="flex: 1;">
+<img src="images/chauffe_eau_solaire.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+</div>
+</div>
+
+</div>
 
 ## Lien avec l'objet social
 

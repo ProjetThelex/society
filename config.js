@@ -48,10 +48,10 @@ export const branches = [
 ];
 
 export const etapes = [
-	{ name: "Lancement", file: "etapes/01_lancement.md" },
-	{ name: "Développement", file: "etapes/02_developpement.md" },
-	{ name: "Accomplissement", file: "etapes/03_accomplissement.md" },
-	{ name: "Agrandissement", file: "etapes/04_agrandissement.md" },
+	{ name: "Lancement", file: "etapes/01_lancement.md", image: "lancement.png" },
+	{ name: "Développement", file: "etapes/02_developpement.md", image: "developpement.png" },
+	{ name: "Accomplissement", file: "etapes/03_accomplissement.md", image: "accomplissement.png" },
+	{ name: "Agrandissement", file: "etapes/04_agrandissement.md", image: "agrandissement.png" },
 ];
 
 export const projets = [

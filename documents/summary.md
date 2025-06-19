@@ -10,7 +10,9 @@
 ## Un lieu pour vivre, travailler et coopérer
 
 Le Projet Thelex est notre réponse à une quête de sens collective : celle de réconcilier vie professionnelle, épanouissement personnel et respect du vivant. Nous portons l'ambition de créer un **lieu de vie collectif** qui soit à la fois un lieu de vie sobre et solidaire, et un pôle de travail et de créativité innovant.
-    </div>
+
+</div>
+
 </div>
 
 Nous souhaitons construire un modèle où le travail à distance ne rime plus avec isolement, mais avec **communauté, collaboration et connexion profonde à la nature**. Ce projet est pensé comme un prototype reproductible d'un mode de vie et de travail résilient face aux défis écologiques et sociaux de notre époque.
@@ -48,10 +50,12 @@ Cette activité économique assure la viabilité du projet, notre capacité à h
 
 Notre projet se déploiera de manière progressive et organique, en suivant une feuille de route en quatre grandes étapes. Cette approche phasée nous permet de sécuriser chaque étape avant de passer à la suivante, d'apprendre en continu et d'ajuster notre trajectoire. Elle reflète la maturité de notre projet et notre vision à long terme.
 
-*   **<a href="#" data-file="etapes/01_lancement.txt">Étape 1 : Lancement.</a>** Acquisition du terrain et construction d'une base fonctionnelle minimale.
-*   **<a href="#" data-file="etapes/02_developpement.txt">Étape 2 : Développement.</a>** Ouverture au public, aménagement du coworking et début d'autonomie.
-*   **<a href="#" data-file="etapes/03_accomplissement.txt">Étape 3 : Accomplissement.</a>** Atteindre la pleine capacité d'accueil de 10 résidents et finaliser les infrastructures.
-*   **<a href="#" data-file="etapes/04_agrandissement.txt">Étape 4 : Agrandissement.</a>** Augmenter la capacité du coworking pour en faire un pôle de ressources pour le territoire.
+-   **<a href="#" data-file="etapes/01_lancement.md">Étape 1 : Lancement.</a>** Acquisition du terrain et construction d'une base fonctionnelle minimale.
+-   **<a href="#" data-file="etapes/02_developpement.md">Étape 2 : Développement.</a>** Ouverture au public, aménagement du coworking et début d'autonomie.
+-   **<a href="#" data-file="etapes/03_accomplissement.md">Étape 3 : Accomplissement.</a>** Atteindre la pleine capacité d'accueil de 10 résidents et finaliser les infrastructures.
+-   **<a href="#" data-file="etapes/04_agrandissement.md">Étape 4 : Agrandissement.</a>** Augmenter la capacité du coworking pour en faire un pôle de ressources pour le territoire.
+
+<!-- <div id="carousel-container"></div> -->
 
 ## Budget prévisionnel
 

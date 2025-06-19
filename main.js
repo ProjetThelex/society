@@ -1,22 +1,14 @@
 import { setupEventListeners } from "./listeners.js";
 import { branches, etapes, projets } from "./config.js";
 import { generateBudgetTable } from "./scripts/budget.js";
+import { createCarousel, stopCarousel } from "./scripts/carousel.js";
+import { slugify } from "./scripts/utils.js";
 
 export const menuButton = document.getElementById("menu-button");
 export const navMenu = document.getElementById("nav-menu");
 export const contentDiv = document.getElementById("content");
 export const contentContainer = document.getElementById("content-container");
 export const pageNav = document.getElementById("page-nav");
-
-function slugify(text) {
-	return text
-		.toString()
-		.toLowerCase()
-		.trim()
-		.replace(/[^\w\s-]/g, "")
-		.replace(/[\s_-]+/g, "-")
-		.replace(/^-+|-+$/g, "");
-}
 
 export function toggleMenu() {
 	navMenu.classList.toggle("open");
@@ -31,6 +23,12 @@ function renderCheckboxes(markdown) {
 
 async function loadContent(file) {
 	try {
+		stopCarousel();
+		const carouselContainer = document.getElementById("carousel-container");
+		if (carouselContainer) {
+			carouselContainer.style.display = "none";
+		}
+
 		const filePath = `documents/${file}`;
 		const response = await fetch(`${filePath}?v=${new Date().getTime()}`);
 		if (!response.ok) throw new Error(`Fichier non trouvé: ${file}`);
@@ -57,9 +55,13 @@ async function loadContent(file) {
 		contentDiv.innerHTML = marked.parse(text);
 
 		if (file === "summary.md") {
+			createCarousel();
 			const placeholder = document.getElementById("budget-table-placeholder");
 			if (placeholder) {
 				placeholder.innerHTML = await generateBudgetTable();
+			}
+			if (carouselContainer) {
+				carouselContainer.style.display = "block";
 			}
 		}
 
@@ -91,9 +93,7 @@ async function loadContent(file) {
 					a.href = `#${slug}`;
 
 					a.textContent = heading.textContent;
-					if (heading.tagName === "H3") {
-						a.style.paddingLeft = "15px";
-					}
+					if (heading.tagName === "H3") a.style.paddingLeft = "15px";
 					li.appendChild(a);
 					navList.appendChild(li);
 				});
@@ -184,9 +184,7 @@ export function navigateTo(file) {
 	loadContent(file);
 	navMenu.querySelectorAll("a").forEach((link) => link.classList.remove("active"));
 	const correspondingMenuLink = navMenu.querySelector(`a[data-file="${file}"]`);
-	if (correspondingMenuLink) {
-		correspondingMenuLink.classList.add("active");
-	}
+	if (correspondingMenuLink) correspondingMenuLink.classList.add("active");
 }
 
 document.addEventListener("DOMContentLoaded", () => {
