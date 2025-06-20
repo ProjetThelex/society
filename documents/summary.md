@@ -50,12 +50,29 @@ Cette activité économique assure la viabilité du projet, notre capacité à h
 
 Notre projet se déploiera de manière progressive et organique, en suivant une feuille de route en quatre grandes étapes. Cette approche phasée nous permet de sécuriser chaque étape avant de passer à la suivante, d'apprendre en continu et d'ajuster notre trajectoire. Elle reflète la maturité de notre projet et notre vision à long terme.
 
--   **<a href="#" data-file="etapes/01_lancement.md">Étape 1 : Lancement.</a>** Acquisition du terrain et construction d'une base fonctionnelle minimale.
--   **<a href="#" data-file="etapes/02_developpement.md">Étape 2 : Développement.</a>** Ouverture au public, aménagement du coworking et début d'autonomie.
--   **<a href="#" data-file="etapes/03_accomplissement.md">Étape 3 : Accomplissement.</a>** Atteindre la pleine capacité d'accueil de 10 résidents et finaliser les infrastructures.
--   **<a href="#" data-file="etapes/04_agrandissement.md">Étape 4 : Agrandissement.</a>** Augmenter la capacité du coworking pour en faire un pôle de ressources pour le territoire.
+-   **<a href="#" data-file="etapes/01_lancement.md">1 : Lancement.</a>** Acquisition du terrain et construction d'une base fonctionnelle minimale.
+-   **<a href="#" data-file="etapes/02_developpement.md">2 : Développement.</a>** Ouverture au public, aménagement du coworking et début d'autonomie.
+-   **<a href="#" data-file="etapes/03_accomplissement.md">3 : Accomplissement.</a>** Atteindre la pleine capacité d'accueil de 10 résidents et finaliser les infrastructures.
+-   **<a href="#" data-file="etapes/04_agrandissement.md">4 : Agrandissement.</a>** Augmenter la capacité du coworking pour en faire un pôle de ressources pour le territoire.
 
-<!-- <div id="carousel-container"></div> -->
+<div style="display: flex; gap: 2rem; align-items: stretch; margin-top: 2rem;">
+    <div style="flex: 1; text-align: center;">
+        <img src="images/lancement.png" alt="Le builder" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+        <div style="font-size: smaller;">Lancement</div>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="images/developpement.png" alt="Le faucheur" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+        <div style="font-size: smaller;">Développement</div>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="images/accomplissement.png" alt="Le builder" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+        <div style="font-size: smaller;">Accomplissement</div>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="images/agrandissement.png" alt="Le faucheur" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+        <div style="font-size: smaller;">Agrandissement</div>
+    </div>
+</div>
 
 ## Budget prévisionnel
 

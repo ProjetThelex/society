@@ -1,5 +1,4 @@
 import { etapes } from "../config.js";
-import { slugify } from "./utils.js";
 
 let slideIndex = 1;
 let slideInterval;

@@ -7,85 +7,56 @@ L'objectif est de créer le "cœur" du réacteur. Cette phase se concentre sur l
 
 </div>
 <div style="flex: 1;">
-<img src="images/lancement.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+<img src="images/lancement_color.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
 </div>
 </div>
 
-</div>
+## Déroulement
 
-## Budget total prévisionnel - Phase lancement
+La phase de lancement se décompose en plusieurs sous-étapes clés pour garantir une mise en place solide et fonctionnelle du projet.
 
-| Branche                   | Coût Total Estimé |
-| ------------------------- | ----------------- |
-| Terrain                   | 45 250 €          |
-| Logements (1 dôme)        | 16 900 €          |
-| Cuisine                   | 15 000 €          |
-| Sanitaires (minimum)      | 1 000 €           |
-| Coworking (bureau)        | 11 000 €          |
-| Énergie (raccordement)    | 3 000 €           |
-| Eau (raccordement)        | 1 000 €           |
-| Alimentation              | 0 €               |
-| Atelier                   | 9 000 €           |
-| **TOTAL PHASE LANCEMENT** | **102 150 €**     |
+1.  **Recherche et Acquisition du Terrain :**
+
+    -   Identification des terrains potentiels répondant aux critères du projet (surface, localisation, réglementation).
+    -   Visites, analyses (sol, exposition) et négociations.
+    -   Signature de l'acte d'achat et démarches administratives.
+
+2.  **Viabilisation et Raccordements :**
+
+    -   Demandes de raccordement aux réseaux d'eau et d'électricité.
+    -   Mise en place des systèmes d'assainissement primaire (phytoépuration si possible).
+    -   Préparation des accès au chantier.
+
+3.  **Fondations et Plateformes :**
+
+    -   Terrassement pour préparer les emplacements des différentes structures.
+    -   Création des fondations pour le premier dôme d'habitation, la cuisine, le bureau et l'atelier.
+
+4.  **Construction des Structures Initiales :**
+
+    -   Montage du premier dôme géodésique qui servira de logement pilote.
+    -   Construction de la structure pour la cuisine commune et les sanitaires.
+    -   Mise en place de l'espace de coworking (bureau) et de l'atelier.
+
+5.  **Aménagements et Équipements :**
+
+    -   Isolation, étanchéité et finitions intérieures des bâtiments.
+    -   Installation des équipements de cuisine, des sanitaires, et du mobilier de bureau.
+    -   Mise en place des premiers outils dans l'atelier.
+
+## Budget prévisionnel
+
+| Branche                | Coût Total Estimé |
+| ---------------------- | ----------------- |
+| Terrain                | 45 250 €          |
+| Logements (1 dôme)     | 16 900 €          |
+| Cuisine                | 15 000 €          |
+| Sanitaires (minimum)   | 1 000 €           |
+| Coworking (bureau)     | 11 000 €          |
+| Énergie (raccordement) | 3 000 €           |
+| Eau (raccordement)     | 1 000 €           |
+| Alimentation           | 0 €               |
+| Atelier                | 9 000 €           |
+| **TOTAL**              | **102 150 €**     |
 
 ---
-
-## Détail par branche - Phase lancement
-
-### Terrain
-
--   **Coûts directs :** 43 250 €
-    -   _Apport : 40 000 €_
-    -   _Frais d'expertise : 1 500 €_
-    -   _Coûts matériels : 1 750 €_
--   **Marge / Imprévus :** 2 000 €
--   **TOTAL CHANTIER :** **45 250 €**
-
-### Logements (1 dôme)
-
--   **Coûts directs :** 15 900 €
-    -   _Structure & Couverture (1 dôme) : 13 000 €_
-    -   _Aménagement & Chauffage (1 unité) : 1 900 €_
-    -   _Ouvertures & Outillage : 1 000 €_
--   **Marge / Imprévus :** 1 000 €
--   **TOTAL CHANTIER :** **16 900 €**
-
-### Cuisine
-
--   **Coûts directs :** 10 850 €
--   **Marge / Imprévus :** 4 150 €
--   **TOTAL CHANTIER :** **15 000 €**
-
-### Sanitaires (minimum)
-
--   **Coûts directs :** 800 € (toilettes sèches, douche extérieure)
--   **Marge / Imprévus :** 200 €
--   **TOTAL CHANTIER :** **1 000 €**
-
-### Coworking (bureau)
-
--   **Coûts directs :** 9 999 € (structure) + 500 € (câblage, alarme, serrure)
--   **Marge / Imprévus :** 500 €
--   **TOTAL CHANTIER :** **11 000 €**
-
-### Énergie (raccordement/minimum)
-
--   **Coûts directs :** 2 500 € (raccordement ou kit solaire minimal)
--   **Marge / Imprévus :** 500 €
--   **TOTAL CHANTIER :** **3 000 €**
-
-### Eau (raccordement/minimum)
-
--   **Coûts directs :** 800 € (raccordement)
--   **Marge / Imprévus :** 200 €
--   **TOTAL CHANTIER :** **1 000 €**
-
-### Alimentation
-
--   **TOTAL CHANTIER :** **0 €**
-
-### Atelier
-
--   **Coûts directs :** 6 500 €
--   **Marge / Imprévus :** 2 500 €
--   **TOTAL CHANTIER :** **9 000 €**

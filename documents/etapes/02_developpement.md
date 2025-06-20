@@ -7,60 +7,49 @@ L'objectif est d'ouvrir le lieu au public extérieur. Cette étape se concentre 
 
 </div>
 <div style="flex: 1;">
-<img src="images/developpement.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
-</div>
+<img src="images/developpement_color.png"  style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
 </div>
 </div>
 
-## Budget total prévisionnel - Phase développement
+## Déroulement
 
-| Branche                       | Coût Additionnel Estimé |
-| ----------------------------- | ----------------------- |
-| Terrain (partie 1 prêt)       | 77 375 €                |
-| Logements (2ème dôme)         | 16 900 €                |
-| Sanitaires                    | 4 850 €                 |
-| Énergie                       | 6 000 €                 |
-| Eau (système autonome)        | 2 900 €                 |
-| Alimentation (potager, etc.)  | 4 500 €                 |
-| **TOTAL PHASE DÉVELOPPEMENT** | **112 525 €**           |
+La phase de développement vise à consolider les bases et à initier l'ouverture du projet vers l'extérieur.
+
+1.  **Finalisation des Infrastructures de Base :**
+
+    -   Achèvement des finitions du premier logement et des espaces communs (cuisine, sanitaires).
+    -   Optimisation de l'atelier avec l'installation d'équipements plus spécialisés.
+
+2.  **Expansion des Logements :**
+
+    -   Construction et aménagement du deuxième dôme d'habitation pour augmenter la capacité d'accueil.
+
+3.  **Mise en Place de l'Autonomie :**
+
+    -   Installation du système de récupération et de filtration d'eau de pluie.
+    -   Déploiement des panneaux solaires et du système de stockage d'énergie pour une première autonomie.
+    -   Lancement du potager en permaculture : préparation des buttes, premières plantations.
+
+4.  **Ouverture du Coworking :**
+
+    -   Aménagement final de l'espace de bureau partagé.
+    -   Communication et accueil des premiers coworkers externes au projet.
+
+5.  **Structuration Communautaire :**
+
+    -   Mise en place des premiers processus de gouvernance partagée.
+    -   Organisation des premiers événements ou ateliers thématiques ouverts au public.
+
+## Budget prévisionnel
+
+| Branche                      | Coût Additionnel Estimé |
+| ---------------------------- | ----------------------- |
+| Terrain (partie 1 prêt)      | 77 375 €                |
+| Logements (2ème dôme)        | 16 900 €                |
+| Sanitaires                   | 4 850 €                 |
+| Énergie                      | 6 000 €                 |
+| Eau (système autonome)       | 2 900 €                 |
+| Alimentation (potager, etc.) | 4 500 €                 |
+| **TOTAL**                    | **112 525 €**           |
 
 ---
-
-## Détail par branche - Phase développement
-
-### Terrain (solde du prêt)
-
--   **Coûts directs :** 77 375 €
--   **TOTAL CHANTIER :** **77 375 €**
-
-### Logements (ajout du 2ème dôme)
-
--   **Coûts directs :** 15 900 €
--   **Marge / Imprévus :** 1 000 €
--   **TOTAL CHANTIER :** **16 900 €**
-
-### Sanitaires
-
--   **Coûts directs :** 4 342 €
-    -   _1x Abri : 2 342 €_
-    -   _1x Kit HomeBiogas-2 : 2 000 €_
--   **Marge / Imprévus :** 500 €
--   **TOTAL CHANTIER :** **4 850 €**
-
-### Énergie
-
--   **Coûts directs :** 5 500 € (kit solaire ~2kWc + batteries 4kWh)
--   **Marge / Imprévus :** 500 €
--   **TOTAL CHANTIER :** **6 000 €**
-
-### Eau (passage au système autonome)
-
--   **Coûts directs :** 2 700 €
--   **Marge / Imprévus :** 200 €
--   **TOTAL CHANTIER :** **2 900 €**
-
-### Alimentation
-
--   **Coûts directs :** 4 000 €
--   **Marge / Imprévus :** 500 €
--   **TOTAL CHANTIER :** **4 500 €**
